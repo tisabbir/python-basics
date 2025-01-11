@@ -1,4 +1,4 @@
-department = input("Enter your department name : ")
-
-for i in range(5) :
-    print(department)
+sum = 0
+for i in range(1,101) :
+    sum = sum + i
+print(sum)
