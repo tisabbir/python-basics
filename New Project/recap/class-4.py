@@ -1,3 +1,3 @@
-a = int(input("Enter a number : ")) # we have to typecast the input 
-b = int(input("Enter another number : "))
-print(a+b)
+number = int(input("Enter the number : "))
+for i in range(1,11) :
+    print(f"{number} * {i} = {number * i}")
