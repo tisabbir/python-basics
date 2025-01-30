@@ -1,0 +1,6 @@
+1. Read mode => "r"
+2. write mode => "w"
+3. Append mode => "a"
+4. Read Write => "r+"
+5. Write & Read mode => "w+"
+6. Append and read mode => "a+"

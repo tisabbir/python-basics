@@ -1,1 +1,2 @@
-Hello Everyone, I am a student of python course.
+This is a new line.
+Overwrites existing content.
