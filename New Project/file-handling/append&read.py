@@ -1,0 +1,5 @@
+f = open("C:\\Projects\\python-basic\\New Project\\file-handling\\file.txt", "a+")
+f.write("\nAppended new content bro")
+f.seek(0)
+print(f.read())
+f.close()
