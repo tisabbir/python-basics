@@ -14,18 +14,19 @@ class WordleApp:
         self.current_attempt = 0
 
         # UI Setup
-        self.frame = tk.Frame(self.root, bg="#f5f5f5")
+        self.frame = tk.Frame(self.root, bg="#282c34")
         self.frame.pack(pady=20)
 
-        self.title_label = tk.Label(self.frame, text="Wordle Clone", font=("Helvetica", 24, "bold"), bg="#f5f5f5", fg="#333")
+        self.title_label = tk.Label(self.frame, text="Wordle Clone", font=("Helvetica", 24, "bold"), bg="#282c34", fg="#61dafb")
         self.title_label.grid(row=0, column=0, columnspan=5, pady=10)
 
         self.entries = []
         for i in range(self.attempts):
             entry_row = []
             for j in range(5):
-                entry = tk.Entry(self.frame, font=("Helvetica", 18), width=2, justify="center")
+                entry = tk.Entry(self.frame, font=("Helvetica", 18), width=2, justify="center", bg="#282c34", fg="#61dafb", insertbackground="#61dafb")
                 entry.grid(row=i+1, column=j, padx=5, pady=5)
+                entry.bind("<KeyRelease>", self.next_entry)  # Bind key release event
                 entry_row.append(entry)
             self.entries.append(entry_row)
 
@@ -34,6 +35,15 @@ class WordleApp:
 
     def get_random_word(self):
         return random.choice(WORDS).upper()
+
+    def next_entry(self, event):
+        row, col = None, None
+        for i in range(len(self.entries)):
+            if event.widget in self.entries[i]:
+                row, col = i, self.entries[i].index(event.widget)
+                break
+        if col < 4:
+            self.entries[row][col + 1].focus()
 
     def display_feedback(self, guess):
         feedback = []
