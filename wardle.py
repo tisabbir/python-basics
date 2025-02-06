@@ -37,13 +37,15 @@ class WordleApp:
         return random.choice(WORDS).upper()
 
     def next_entry(self, event):
-        row, col = None, None
-        for i in range(len(self.entries)):
-            if event.widget in self.entries[i]:
-                row, col = i, self.entries[i].index(event.widget)
-                break
-        if col < 4:
-            self.entries[row][col + 1].focus()
+        widget = event.widget
+        if widget.get():
+            row, col = None, None
+            for i in range(len(self.entries)):
+                if widget in self.entries[i]:
+                    row, col = i, self.entries[i].index(widget)
+                    break
+            if col < 4:
+                self.entries[row][col + 1].focus()
 
     def display_feedback(self, guess):
         feedback = []
