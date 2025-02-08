@@ -5,4 +5,4 @@ try:
     file.close()
 
 except FileNotFoundError:
-    print("❌ Error: The file does not exist. Please check the file name.")
+    print(" Error: The file does not exist. Please check the file name.")
