@@ -1,0 +1,44 @@
+"Front","Back"
+"🛠️ Don’t Fear Deleting Code","Why It's Important: Deleting code can feel like wasted effort, but it's actually part of the learning process.  
+Key Insights:  
+- Code is transient and will evolve.  
+- It's okay to abandon your approach if it's not working.  
+- Writing wrong code is a learning experience.  
+- Version control systems like Git are crucial.  
+Mindset: Embrace the Sunk Cost Fallacy – it's okay to let go of code that no longer serves the purpose."
+"🎯 Define the Goal","Clarify Your Objective: Before diving into coding, always define what you are trying to achieve.  
+Steps to Follow:  
+1. Formulate the desired outcome.  
+2. Come up with a hypothesis or solution.  
+3. Implement the solution.  
+4. Iterate if it doesn't work.  
+Tip: Avoid vague statements like 'it doesn't work.' Be specific about what you want to achieve."
+"🧑‍💻 Embrace Debugging as Learning","Learning Opportunity: Debugging is not a sign of failure but an opportunity to learn deeply.  
+How to Debug Effectively:  
+- Start by identifying where the error might be.  
+- Formulate a hypothesis about what the code should do.  
+- Debug to confirm whether it does what you expect.  
+- If not, trace deeper into the code or go upwards in the call stack.  
+Tip: Treat debugging as an investigation to uncover the root cause, not a random process."
+"👨‍🏫 Find and Follow Mentors","Why It Matters: Learning from experienced developers accelerates growth.  
+Actions to Take:  
+- Follow mentors online.  
+- Read their books, watch their talks, and engage with their content.  
+- Some notable mentors: Robert C. Martin, Martin Fowler, Kent Beck, Sandi Metz.  
+Tip: Lifelong learning is key to staying updated and improving your skills."
+"🗣️ Articulate Your Ideas","The Power of Teaching: Explaining your ideas to others helps reinforce your understanding.  
+Ways to Share Your Knowledge:  
+- Talk to peers, colleagues, or friends.  
+- Engage in pair programming or mob programming.  
+- Write blogs, start a YouTube channel, or make devlogs.  
+Tip: Articulating your thoughts forces you to truly understand and refine them."
+"🔑 Learn Fundamentals, Not Frameworks","Core Knowledge: Frameworks come and go, but the fundamentals stay.  
+Focus On:  
+- Understanding the core principles behind technologies.  
+- Avoiding the 'shiny object syndrome' and focusing on deep knowledge.  
+Tip: Don’t just follow trends; master the foundational concepts that apply to any framework or tool."
+"🌐 Explore Other Paradigms","Broaden Your Horizons: Start with one paradigm, like object-oriented programming, but explore others, such as functional programming.  
+Action Plan:  
+- Dive into both object-oriented and functional paradigms.  
+- Learn from mentors in both areas.  
+Tip: Exposure to different programming paradigms will make you a more versatile developer."
