@@ -1,0 +1,183 @@
+Front,Back
+"Chapter 1: The Characters of the Story","- System 1 (Fast Thinking): Intuitive, automatic, effortless (e.g., reading emotions, recalling familiar facts). 
+- System 2 (Slow Thinking): Deliberate, logical, effortful (e.g., solving math problems, making financial decisions). 
+- System 1 often relies on heuristics that can be misleading. 
+- System 2 has the potential to correct errors, but it requires effort and is prone to laziness. 
+📌 Key takeaway: Recognize when mistakes are likely and engage System 2 to avoid them."
+"Chapter 2: Attention and Effort","- Thinking slow requires effort and depletes energy. 
+- Mental strain can cause:
+    - Dilated pupils
+    - Reduced attention span
+    - Decision fatigue
+- Since slow thinking is tiring, we tend to default to fast thinking, which can lead to errors. 
+- Example: Writing a shopping list instead of relying on memory helps avoid mistakes. 
+📌 Key takeaway: Since mental energy is limited, we must be strategic about when to engage System 2."
+"Chapter 3: The Lazy Controller","- Mental effort is draining, which explains why:
+    - We struggle with multi-tasking (e.g., walking and solving a math problem).
+    - We forget to eat when deeply focused.
+    - Self-control weakens when tired, hungry, or stressed.
+    - Intelligence is more than reasoning; it’s also about retrieving relevant information efficiently. 
+📌 Key takeaway: We often rely on System 1 out of laziness, leading to impulsive decisions."
+"Heuristic #1: Priming","- Priming refers to subconscious exposure to an idea that influences how we think or behave.
+- Example: If primed with food-related words, we complete SO_P as 'SOUP.'
+- The Ideomotor Effect:
+    - Reading about the elderly makes people walk slower unconsciously.
+    - Frowning makes negative images seem more disturbing.
+- Behavior influences thought just as much as thought influences behavior.
+📌 Key takeaway: We are not purely rational thinkers—our minds are constantly shaped by subconscious influences."
+"Heuristic #2: Cognitive Ease","- Cognitive Ease occurs when something feels easy to process, leading us to trust it more. 
+- Familiarity = Truth.
+- If a statement is repeated often, it feels more true (even if false).
+- Authoritarian regimes, marketers, and cult leaders exploit this by repeating messages constantly.
+- Predictable illusions arise when we mistake ease of understanding for accuracy.
+📌 Key takeaway: Just because something feels true doesn’t mean it is true."
+Front,Back
+"Chapter 6: Norms, Surprises, and Causes - Heuristic #3: Coherent Stories","- We make sense of the world by telling ourselves stories about events, circumstances, and regular occurrences.
+   - The more events fit into our stories, the more normal they seem.
+   - Surprises challenge our stories, so we create new explanations to fit them (e.g., 'Everything happens for a purpose,' 'God did it').
+   - We often assume intention, causality, or divine purpose where none exists.
+   - Potential for error: We confuse causality with correlation and make more out of coincidences than warranted."
+"Chapter 7: A Machine for Jumping to Conclusions - Heuristic #4: Confirmation Bias","- The tendency to search for and interpret information that confirms our beliefs while overlooking counterexamples.
+   - Jumping to conclusions is efficient when the conclusions are likely to be correct but risky in unfamiliar situations.
+   - System 1 fills in ambiguity with automatic guesses, while System 2 slows down to consider alternatives.
+   - Potential for error: We overestimate the probability of unlikely events and accept uncritically every suggestion."
+"Chapter 7: A Machine for Jumping to Conclusions - Heuristic #5: The Halo Effect","- The tendency to like or dislike everything about a person (including things we haven't observed).
+   - First impressions shape later judgments—good first impressions tend to positively color later negative impressions.
+   - We often allow our intuitive judgments to influence our decisions without critical thinking.
+   - 'WYSIATI'—what you see is all there is: Do not rely on impressions or intuition alone, focus on hard data."
+"Chapter 8: How Judgments Happen - Heuristic #6: Judgement","- System 1 relies on intuition and basic assessments but often ignores complex variables.
+   - We fail to calculate sums accurately and rely on unreliable intuitive averages.
+   - We tend to evaluate things by matching dissimilar traits, leading to errors in judgment.
+   - The 'mental shotgun' approach: Evaluating a decision without distinguishing the most important variables."
+"Chapter 9: An Easier Question - Heuristic #7: Substitution","- When faced with a difficult question, we substitute it with a simpler one.
+   - Example: Instead of estimating the probability of a complex outcome, we estimate an easier one (e.g., mood instead of happiness).
+   - Even chronic worriers replace tough problems with easier ones and function effortlessly in many areas of life.
+   - Potential for error: We avoid answering the harder, more important questions."
+"Chapter 9: An Easier Question - Heuristic #8: Affect","- Emotions influence our judgments.
+   - People let their emotional preferences determine their beliefs about the world.
+   - Our likes and dislikes can cloud our judgment, leading us to under or overestimate risks and benefits."
+Front,Back
+"Chapter 10: The Law of Small Numbers - Heuristic #9: The Law of Small Numbers","- We tend to give more credence to outcomes from small samples than statistics warrant, even though small samples are more prone to extreme outcomes.
+   - System 1 is easily impressed with small samples, but they are not representative of larger populations.
+   - Potential for error: Making decisions based on insufficient data."
+"Chapter 10: The Law of Small Numbers - Heuristic #10: Confidence Over Doubt","- System 1 suppresses ambiguity and doubt by creating coherent stories from limited data.
+   - System 2, our inner skeptic, often fails to weigh stories adequately due to the effort required for disbelief.
+   - We have a bias toward believing and attribute causality where none exists.
+   - Potential for error: Making connections where none exist."
+"Chapter 11: Anchors - Heuristic #11: The Anchoring Effect","- We make incorrect estimates due to previously heard quantities.
+   - Exposure to an initial number (anchor) subconsciously influences subsequent estimates.
+   - Potential for error: Being more suggestible than we realize."
+"Chapter 12: The Science of Availability - Heuristic #12: The Availability Heuristic","- The ease with which we retrieve an answer influences our estimate of its frequency.
+   - Emotional or personal experiences make answers easier to retrieve, biasing our estimates.
+   - Potential for error: Under or overestimating the frequency of an event based on ease of retrieval rather than statistical calculation."
+"Chapter 13: Availability, Emotion, and Risk - Heuristic #13: Availability Cascades","- News stories that pile up warp our statistical senses.
+   - A recent event (e.g., plane crash) can make us overestimate the risk of similar events.
+   - Negative feedback loops and sensationalism amplify fears.
+   - Potential for error: Overreacting to a minor problem due to disproportionate negative news coverage."
+"Chapter 14: Tom W’s Specialty - Heuristic #14: Representativeness","- We make judgments based on how similar something is to something we like, without considering probability, statistics, or sampling sizes.
+   - Similar to profiling or stereotyping, this intuitive leap can lead to errors.
+   - Potential for error: Evaluating something based on resemblance without considering other factors."
+"Chapter 15: Linda: Less is More - Heuristic #15: The Conjunction Fallacy","- We choose a plausible story over a probable one, violating the logic of probability.
+   - Adding more details to a description makes it less probable, but more plausible to System 1.
+   - Potential for error: Favoring plausible but improbable scenarios over implausible but probable ones."
+"Chapter 16: Causes Trump Statistics - Heuristic #16: Overlooking Statistics","- We favor stories with explanatory power over statistical data, even when statistics are more accurate.
+   - When given both statistical data and an individual story, we tend to go with the story.
+   - Potential for error: Stereotyping, profiling, and making general inferences from particular cases rather than the reverse."
+"Chapter 17: Regression to the Mean - Heuristic #17: Overlooking Luck","- We often attach causal interpretations to the fluctuations of random processes.
+   - Statistical regularities (regression to the mean) are explanations, not necessarily causes.
+   - Potential for error: Seeing causes that don’t exist."
+"Chapter 18: Taming Intuitive Predictions - Heuristic #18: Intuitive Predictions","- Conclusions drawn with strong intuition (System 1) can lead to overconfidence.
+   - Intuition alone is not a reliable basis for predictions; System 2 should examine the intuition, estimate baselines, and consider regression to the mean.
+   - Potential for error: Unwarranted confidence when we are in fact in error."
+Front,Back
+"Chapter 19: The Illusion of Understanding - Heuristic #19: The Narrative Fallacy","- We create flawed stories of the past to make sense of the world, overemphasizing talent, stupidity, and intentions while underestimating luck. This shapes our views and expectations.
+   - 'Our comforting conviction that the world makes sense rests on a secure foundation: our almost unlimited ability to ignore our ignorance.'
+   - This leads to the hindsight illusion."
+"Chapter 19: The Illusion of Understanding - Heuristic #20: The Hindsight Illusion","- We believe we understand the past better than we do, making the future seem knowable.
+   - Our intuitions feel truer after the fact; we forget our previous beliefs.
+   - Potential for error: Blaming decision-makers for bad outcomes and giving too little credit for successful moves that seem obvious only after the fact."
+"Chapter 20: The Illusion of Validity - Heuristic #21: The Illusion of Validity","- We confidently believe our opinions are valid, even when unwarranted, clinging to ideas despite counterevidence.
+   - 'Subjective confidence in a judgment is not a reasoned evaluation of the probability that this judgment is correct. Confidence is a feeling...'
+   - Overconfidence stems from brilliance, like-minded peers, and overvaluing wins while ignoring losses.
+   - Potential for error: Basing validity on subjective confidence rather than objective facts. Confidence ≠ accuracy."
+"Chapter 21: Intuitions vs. Formulas - Heuristic #22: Ignoring Algorithms","- We overlook statistical information, favoring gut feelings, which is often wrong.
+   - Forecasting should rely on checklists, statistics, and numerical records, not subjective feelings.
+   - Potential for error: Relying on intuitive judgments when an algorithm is available that would make fewer mistakes."
+"Chapter 22: Expert Intuition: When Can You Trust It? - Heuristic #23: Trusting Expert Intuition","- Intuition is recognition based on familiarity, not magic (chess players, firefighters, etc.).
+   - 'We are confident when the story we tell ourselves comes easily to mind, with no contradiction and no competing scenario.'
+   - Trust experts in predictable environments where they've learned through practice.
+   - Potential for error: Being misled by 'experts' who overlook what they don't know."
+"Chapter 23: The Outside View - Heuristic #24: The Planning Fallacy","- We take on risky projects with best-case scenarios, neglecting the worst-case.
+   - Consulting others in similar projects provides the outside view, increasing the chance of success.
+   - Potential for error: Making decisions based on delusional optimism rather than rational analysis of gains, losses, and probabilities; poorly planned projects fail."
+"Chapter 24: The Engine of Capitalism - Heuristic #25: The Optimistic Bias","- We neglect facts, others' failures, and what we don't know, favoring our skills and what we know.
+   - We believe outcomes are in our hands, neglecting luck and environmental uncertainty.
+   - Potential for error: Unwarranted optimism, failing to calculate odds, and taking unnecessary risks. Confident experts may be wrong."
+Front,Back
+"Chapter 25: Bernoulli’s Errors - Heuristic #26: Omitting Subjectivity","- We often think objects have only intrinsic, objective value, but value is subjective and depends on a person's psychological state.
+   - A million dollars has different worth to a poor person versus a billionaire.
+   - Economists err by not considering psychological states like risk, anxiety, or happiness.
+   - Potential for error: Making decisions on pure logic without considering psychological states."
+"Chapter 25: Bernoulli’s Errors - Heuristic #27: Theory-Induced Blindness","- Once we accept a theory, it's hard to notice its flaws.
+   - When observations don't fit the model, we assume we're missing a good explanation.
+   - Breakthroughs happen when we can't remember why we didn't see the obvious.
+   - Potential for error: Clinging to old paradigms that have outlived their validity."
+"Chapter 26: Prospect Theory - Heuristic #28: Loss Aversion","- The value of money is less important than the subjective experience of changes in wealth.
+   - We experience diminished sensitivity to changes in wealth.
+   - We dislike losing money more than we like winning.
+   - System 1 compares the psychological benefit of gain with the cost of loss, and fear of loss usually wins.
+   - Potential for error: Passing by a sure win to avoid a possible loss, even when the odds are in favor of winning."
+"Chapter 27: The Endowment Effect - Heuristic #29: The Endowment Effect","- Objects we own are more valuable to us than objects we don't own.
+   - We hate loss and the object has a history with us.
+   - We're unwilling to part with beloved, useful objects unless the payment is significant.
+   - Potential for error: Clinging to objects for sentimental reasons at a considerable loss of income."
+"Chapter 28: Bad Events - Heuristic #30: Loss Aversion","- People work harder to avoid losses than to achieve gains.
+   - Golfers putt for par to avoid bogeys, and contract negotiations stall when one party feels they're making more concessions.
+   - Potential for error: Underestimating our own and others' attitudes toward loss/gain. They are asymmetrical."
+"Chapter 29: The Fourfold Pattern - Heuristic #31: The Possibility Effect","- Highly unlikely outcomes are weighted disproportionately more than they deserve. (e.g. Buying lottery tickets).
+   - Heuristic #32: The Certainty Effect - Outcomes that are almost certain are given less weight than their probability justifies.
+   - Potential for error: People are risk-averse when looking at large gain prospects; they'll lock in a sure gain and accept a less-than-expected gamble value."
+"Chapter 30: Rare Events - Heuristic #34: Overestimating the Likelihood of Rare Events","- We tend to overestimate the probabilities of unlikely events.
+   - We are more likely to choose the alternative in a decision which is described with explicit vividness, repetition, and relative frequencies.
+   - Potential for error: Succumbing to fear-mongers who manipulate data in favor of their cause."
+"Chapter 31: Risk Policies - Heuristic #35: Thinking Narrowly","- Most of us are so risk-averse we avoid all gambles, which is often wrong.
+   - To decrease risk aversion, think broadly, looking at the aggregate wins over many small gambles.
+   - Potential for error: Passing by risks in our favor."
+"Chapter 32: Keeping Score - Heuristic #36: The Disposition Effect","- We are often willing to sell money-earning stocks because it makes us feel like wise investors, and less willing to sell losing stocks because it’s an admission of defeat.
+   - Heuristic #37: The Sunk Cost Fallacy - We throw good money after bad, stay too long in abusive marriages, and stay in unhappy careers. This is optimism gone haywire.
+   - Heuristic #38: Fear of Regret - We tend to avoid decisions that lead to regret, however, we're terrible at predicting how intense those feelings of regret will be."
+"Chapter 33: Reversals - Heuristic #39: Ignoring Joint Evaluations","- We make decisions differently when asked to make them in isolation versus in comparison with other scenarios.
+   - Joint evaluations highlight features not noticeable in single evaluations but are recognized as decisive when detected.
+   - Potential for error: Making decisions in isolation. We should do comparison shopping, compare sentences for crimes, and compare salaries for different jobs."
+Front,Back
+"Chapter 34: Frames and Reality - Heuristic #40: Ignoring Frames","- How a problem is framed significantly influences our choices, even more than rational considerations.
+   - Organ donation opt-in vs. opt-out, gas prices with cash discount vs. credit card surcharge, and survival rate vs. mortality rate all exemplify this.
+   - 'The meaning of a sentence is what happens in your associative machinery while you understand it...'
+   - Potential for error: Believing our decisions are objective when subjective factors we're unaware of are at play."
+"Chapter 35: Two Selves - Heuristic #41: Ignoring Our Two Selves","- We have an 'experiencing' self and a 'remembering' self, with the latter often overriding the former.
+   - A bad final day can taint the memory of an otherwise blissful vacation.
+   - 'Confusing experience with the memory of it is a compelling cognitive illusion...'
+   - The experiencing self doesn't have a voice."
+"Chapter 35: Two Selves - Heuristic #42: The Peak End Rule","- How an experience ends heavily influences our memory of it, not necessarily its worst moment.
+   - We remember how an experience felt at the end, shaping our overall perception."
+"Chapter 35: Two Selves - Heuristic #43: Duration Neglect","- The duration of an experience (pleasant or unpleasant) is less important in memory than how painful or pleasurable it was.
+   - Memory focuses on intensity rather than length."
+"Chapter 36: Life as History - Heuristic #44: Narrative Wholeness","- We should evaluate lives based on the whole narrative, not just the end, but prior heuristics lead us to devalue good lives due to late-life selfishness.
+   - 'A story is about significant events and memorable moments, not about time passing. Duration neglect is normal...'
+   - Potential for error: Overvaluing longevity over quality, making decisions for memorability not enrichment, and sacrificing integrity for pleasure."
+"Chapter 37: Experienced Well Being - Heuristic #45: Valuing a Remembering Self Over an Experiencing Self","- We should consider our experiences *during* them, not just their conclusions, because our memories are unreliable.
+   - 'Our emotional state is largely determined by what we attend to, and we are normally focused on our current activity...'
+   - Potential for error: Not paying attention to experiences, letting them happen without reflection, and not altering schedules for improvement."
+"Chapter 38: Thinking About Life - Heuristic #46: Affective Forecasting","- We are terrible at predicting what will make us happy.
+   - We substitute the difficult question 'How happy is your life?' with the easier 'How happy am I right now?'
+   - People make decisions based on future happiness, but it's often fleeting; we don't know our future selves."
+"Chapter 38: Thinking About Life - Heuristic #47: The Focusing Illusion","- 'Nothing in life is as important as it is when you are thinking about it.'
+   - Evaluating life satisfaction based on one factor (income, weather, etc.) leads to errors because we adapt and initial pleasure diminishes.
+   - 'The remembering self is subject to a massive focusing illusion about the life that the experiencing self endures quite comfortably.'"
+"Chapter 38: Thinking About Life - Heuristic #48: Miswanting","- We exaggerate the effect of purchases/circumstances on future well-being; initial excitement fades.
+   - Long-term happiness isn't guaranteed by initial pleasure."
+"Conclusions - Summary of the Two Selves","- People choose longer periods of pain ending pleasantly over shorter periods of less pain ending terribly, due to faulty heuristics (41, 42, 43, 45)."
+"Conclusions - Summary of Econs and Humans","- Economists assume consumers are rational; Kahneman argues heuristics make choices irrational, needing nudges.
+   - Chicago School wants less government intervention; economic behaviorists want clearer regulations."
+"Conclusions - Summary of Two Systems","- 'This book has described the workings of the mind as an uneasy interaction between two fictitious characters: the automatic System 1 and the effortful System 2.'
+   - Block errors from System 1 by recognizing cognitive minefields, slowing down, and engaging System 2."
