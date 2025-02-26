@@ -1,0 +1,870 @@
+Question,Answer
+"What is Biochemistry, and what is its historical development?","- Biochemistry is the study of chemical processes within living organisms. 
+- Historical development: 
+  - Early roots in alchemy and physiology. 
+  - Key milestones: Discovery of enzymes (Eduard Buchner), DNA structure (Watson and Crick), and the central dogma of molecular biology. 
+- Biochemistry bridges biology and chemistry, explaining life at the molecular level."
+"What are the scopes of Biochemistry?","- Biochemistry explores: 
+  - Structure and function of biomolecules (proteins, nucleic acids, lipids, carbohydrates). 
+  - Metabolic pathways and energy production. 
+  - Molecular genetics and gene expression. 
+  - Applications in medicine, agriculture, and industry."
+"What is the role of Biochemistry in medicine, health, and agriculture?","- Medicine: 
+  - Understanding diseases at the molecular level (e.g., diabetes, cancer). 
+  - Developing drugs and therapies (e.g., enzyme inhibitors, gene therapy). 
+- Health: 
+  - Nutritional biochemistry for disease prevention. 
+  - Biomarkers for early diagnosis. 
+- Agriculture: 
+  - Genetically modified crops for higher yield and resistance. 
+  - Biofertilizers and biopesticides."
+"How is Biochemistry applied in immunology, industry, and diagnostics?","- Immunology: 
+  - Study of antibodies, vaccines, and immune responses. 
+- Industry: 
+  - Production of enzymes, biofuels, and bioplastics. 
+- Diagnostics: 
+  - Recombinant DNA technology for disease detection (e.g., PCR, ELISA). 
+  - Biomarkers for cancer and genetic disorders."
+"What are the future prospects of Biochemistry?","- Advances in: 
+  - Synthetic biology and artificial cells. 
+  - Personalized medicine and pharmacogenomics. 
+  - CRISPR-based gene editing and gene therapy. 
+  - Sustainable biotechnologies for energy and environment."
+"What is the concept of life and living processes?","- Life is characterized by: 
+  - Organization (cells, tissues, organs). 
+  - Metabolism (energy conversion and utilization). 
+  - Homeostasis (maintaining internal balance). 
+  - Reproduction and heredity. 
+  - Adaptation and evolution."
+"What are the identifying characteristics of living matter?","- Key characteristics: 
+  - Cellular structure (unicellular or multicellular). 
+  - Growth and development. 
+  - Response to stimuli. 
+  - Reproduction and genetic inheritance. 
+  - Energy utilization and metabolism."
+"What is a cell, and what is its historical background?","- A cell is the basic structural and functional unit of life. 
+- Historical background: 
+  - Robert Hooke first observed cells in 1665. 
+  - Schleiden and Schwann proposed the cell theory (1838-1839). 
+  - Modern cell theory includes the role of DNA and organelles."
+"What are the structure and functions of subcellular organelles?","- Nucleus: Stores genetic material and controls cell activities. 
+- Mitochondria: Produces ATP through cellular respiration. 
+- Endoplasmic reticulum (ER): Synthesizes proteins (rough ER) and lipids (smooth ER). 
+- Golgi apparatus: Modifies, sorts, and packages proteins. 
+- Lysosomes: Digest cellular waste and foreign materials. 
+- Ribosomes: Synthesize proteins. 
+- Chloroplasts (in plants): Conduct photosynthesis."
+"How are subcellular organelles isolated and identified?","- Isolation techniques: 
+  - Cell fractionation using centrifugation. 
+  - Differential centrifugation separates organelles by size and density. 
+- Identification: 
+  - Microscopy (light, electron). 
+  - Biochemical assays (e.g., enzyme activity tests)."
+"What are the biomolecules of a cell?","- Major biomolecules: 
+  - Proteins: Enzymes, structural components, and signaling molecules. 
+  - Nucleic acids: DNA and RNA for genetic information. 
+  - Lipids: Cell membranes and energy storage. 
+  - Carbohydrates: Energy source and structural components (e.g., cellulose)."
+  Question,Answer
+"What is the significance of water in biochemical processes?","- Water is essential for: 
+  - Solvent properties: Dissolves ions and polar molecules. 
+  - Hydrolysis and dehydration reactions. 
+  - Maintaining cellular structure and function. 
+  - Temperature regulation due to high specific heat."
+"What are the major classes of biomolecules, and what are their functions?","- Proteins: Enzymes, structural support, and signaling. 
+- Nucleic acids: Store and transmit genetic information. 
+- Lipids: Energy storage, cell membranes, and signaling. 
+- Carbohydrates: Energy source and structural components."
+"How do enzymes catalyze biochemical reactions?","- Enzymes: 
+  - Lower activation energy by stabilizing transition states. 
+  - Provide an active site for substrate binding. 
+  - Are highly specific to their substrates. 
+  - Can be regulated by inhibitors or activators."
+"What is the importance of buffers in biological systems?","- Buffers: 
+  - Maintain pH stability in cells and tissues. 
+  - Examples: Bicarbonate buffer in blood, phosphate buffer in cells. 
+  - Prevent damage to biomolecules caused by pH changes."
+"What is the role of ATP in energy transfer?","- ATP: 
+  - Stores and transfers energy in its high-energy phosphate bonds. 
+  - Hydrolysis of ATP releases energy for cellular processes. 
+  - Regenerated through processes like oxidative phosphorylation."
+"What are the key differences between DNA and RNA?","- DNA: 
+  - Double-stranded, contains deoxyribose sugar, and thymine. 
+  - Stores genetic information. 
+- RNA: 
+  - Single-stranded, contains ribose sugar, and uracil. 
+  - Involved in protein synthesis and gene regulation."
+"What is the central dogma of molecular biology?","- Central dogma: 
+  - Describes the flow of genetic information: DNA → RNA → Protein. 
+  - DNA is transcribed into RNA, which is translated into proteins. 
+  - Exceptions include reverse transcription in retroviruses."
+"What are the applications of recombinant DNA technology?","- Applications: 
+  - Production of therapeutic proteins (e.g., insulin, growth hormones). 
+  - Genetically modified organisms (GMOs) for agriculture. 
+  - Gene therapy for treating genetic disorders. 
+  - Molecular diagnostics (e.g., PCR, DNA sequencing)."
+"What is the significance of the genetic code?","- Genetic code: 
+  - A set of rules by which DNA and RNA sequences are translated into proteins. 
+  - It is universal, redundant, and non-overlapping. 
+  - Ensures accurate protein synthesis across all living organisms."
+"What are the stages of the cell cycle, and how are they regulated?","- Stages: 
+  - Interphase (G1, S, G2): Cell growth and DNA replication. 
+  - Mitosis (M phase): Cell division. 
+- Regulation: 
+  - Controlled by cyclins and cyclin-dependent kinases (CDKs). 
+  - Checkpoints ensure proper progression (e.g., G1/S, G2/M)."
+"What is the role of mitochondria in cellular respiration?","- Mitochondria: 
+  - Site of the TCA cycle and oxidative phosphorylation. 
+  - Produce ATP through the electron transport chain. 
+  - Contain their own DNA and ribosomes, suggesting an evolutionary origin from prokaryotes."
+"What is the importance of photosynthesis in living systems?","- Photosynthesis: 
+  - Converts light energy into chemical energy (glucose). 
+  - Occurs in chloroplasts of plants and algae. 
+  - Produces oxygen as a byproduct, essential for aerobic life."
+"What are the types of mutations, and how do they affect organisms?","- Types: 
+  - Point mutations (e.g., substitutions, insertions, deletions). 
+  - Frameshift mutations: Alter the reading frame of genes. 
+- Effects: 
+  - Can be silent, harmful, or beneficial. 
+  - Lead to genetic disorders, cancer, or evolutionary adaptations."
+"What is the role of hormones in signal transduction?","- Hormones: 
+  - Chemical messengers that regulate physiological processes. 
+  - Bind to receptors on target cells, triggering signaling pathways. 
+  - Examples: Insulin (regulates glucose), adrenaline (fight-or-flight response)."
+"What is the significance of the lac operon in gene regulation?","- Lac operon: 
+  - A model system for gene regulation in prokaryotes. 
+  - Controls the metabolism of lactose in E. coli. 
+  - Includes genes for lactose digestion, regulated by a repressor protein and cAMP-CAP complex."
+  Question,Answer
+"What are carbohydrates, and what is their biological importance?","- Carbohydrates are organic compounds composed of carbon, hydrogen, and oxygen. 
+- Biological importance: 
+  - Primary energy source (e.g., glucose). 
+  - Structural components (e.g., cellulose in plants, chitin in arthropods). 
+  - Cell-cell recognition and signaling (e.g., glycoproteins)."
+"How are carbohydrates classified?","- Classification: 
+  - Monosaccharides: Single sugar units (e.g., glucose, fructose). 
+  - Disaccharides: Two monosaccharides linked (e.g., sucrose, lactose). 
+  - Polysaccharides: Long chains of monosaccharides (e.g., starch, glycogen, cellulose)."
+"What are the chemical characteristics of carbohydrates?","- Chemical characteristics: 
+  - Contain hydroxyl (-OH) and carbonyl (C=O) groups. 
+  - Can exist in linear or cyclic forms. 
+  - Exhibit stereoisomerism (e.g., D-glucose vs. L-glucose). 
+  - Undergo reactions like oxidation, reduction, and glycosidic bond formation."
+"What are monosaccharides, and what are their properties?","- Monosaccharides: 
+  - Simple sugars (e.g., glucose, fructose, galactose). 
+  - Properties: 
+    - Sweet-tasting, water-soluble, and reducing sugars. 
+    - Can form cyclic structures in solution. 
+    - Examples: Glucose (energy source), ribose (RNA component)."
+"What are disaccharides, and what are their properties?","- Disaccharides: 
+  - Formed by linking two monosaccharides (e.g., sucrose, lactose, maltose). 
+  - Properties: 
+    - Sweet-tasting and water-soluble. 
+    - Can be reducing (e.g., lactose) or non-reducing (e.g., sucrose). 
+    - Examples: Sucrose (table sugar), lactose (milk sugar)."
+"What are characteristic tests for carbohydrates?","- Common tests: 
+  - Benedict’s test: Detects reducing sugars (e.g., glucose, maltose). 
+  - Iodine test: Identifies starch (turns blue-black). 
+  - Barfoed’s test: Distinguishes monosaccharides from disaccharides. 
+  - Seliwanoff’s test: Differentiates ketoses (e.g., fructose) from aldoses (e.g., glucose)."
+"What are amino sugars and glycosides?","- Amino sugars: 
+  - Monosaccharides with an amino group (e.g., glucosamine, galactosamine). 
+  - Found in glycoproteins and glycolipids. 
+- Glycosides: 
+  - Compounds formed by linking a sugar to a non-sugar molecule (e.g., cardiac glycosides like digoxin)."
+"What are polysaccharides, and what are their biological roles?","- Polysaccharides: 
+  - Long chains of monosaccharides (e.g., starch, glycogen, cellulose). 
+  - Biological roles: 
+    - Starch: Energy storage in plants. 
+    - Glycogen: Energy storage in animals. 
+    - Cellulose: Structural component in plant cell walls."
+"What are the properties of starch, glycogen, and cellulose?","- Starch: 
+  - Composed of amylose (linear) and amylopectin (branched). 
+  - Energy storage in plants. 
+- Glycogen: 
+  - Highly branched, energy storage in animals (liver and muscles). 
+- Cellulose: 
+  - Linear, structural component in plant cell walls, indigestible by humans."
+"What are other polysaccharides of biological interest?","- Examples: 
+  - Chitin: Structural component in arthropods and fungi. 
+  - Hyaluronic acid: Lubricant in joints and connective tissues. 
+  - Peptidoglycan: Structural component of bacterial cell walls."
+"How are carbohydrates analyzed in the lab?","- Analytical methods: 
+  - Chromatography (e.g., HPLC, TLC) for separation and identification. 
+  - Spectrophotometry for quantification (e.g., DNS assay for reducing sugars). 
+  - Enzymatic assays (e.g., glucose oxidase for glucose measurement)."
+"What are lipids, and how are they classified?","- Lipids: 
+  - Hydrophobic molecules including fats, oils, waxes, and steroids. 
+- Classification: 
+  - Simple lipids: Fats, oils, and waxes. 
+  - Complex lipids: Phospholipids, glycolipids. 
+  - Derived lipids: Steroids, terpenes."
+"What are the properties and biological importance of lipids?","- Properties: 
+  - Insoluble in water, soluble in organic solvents. 
+  - High energy content (9 kcal/g). 
+- Biological importance: 
+  - Energy storage (e.g., triglycerides). 
+  - Cell membrane structure (e.g., phospholipids). 
+  - Signaling molecules (e.g., steroids, prostaglandins)."
+"What is the biosynthesis of fatty acids?","- Biosynthesis: 
+  - Occurs in the cytoplasm, catalyzed by fatty acid synthase. 
+  - Acetyl-CoA and malonyl-CoA are building blocks. 
+  - Steps: Condensation, reduction, dehydration, and reduction. 
+  - Produces saturated fatty acids (e.g., palmitic acid)."
+"What is the metabolism of fatty acids?","- Metabolism: 
+  - Beta-oxidation: Breaks down fatty acids into acetyl-CoA for energy. 
+  - Occurs in mitochondria. 
+  - Produces ATP, NADH, and FADH2."
+"What are the properties of fats and oils?","- Fats: 
+  - Solid at room temperature, mainly saturated fatty acids. 
+- Oils: 
+  - Liquid at room temperature, mainly unsaturated fatty acids. 
+- Properties: 
+  - Hydrophobic, high energy content, and storage form of energy."
+"What is the biochemistry of emulsions?","- Emulsions: 
+  - Mixtures of immiscible liquids (e.g., oil and water). 
+  - Stabilized by emulsifiers (e.g., phospholipids, bile salts). 
+  - Example: Bile salts emulsify fats in the digestive system for easier digestion."
+  Question,Answer
+"What is the difference between aldoses and ketoses?","- Aldoses: 
+  - Contain an aldehyde group (-CHO) at the end of the carbon chain. 
+  - Example: Glucose. 
+- Ketoses: 
+  - Contain a ketone group (C=O) within the carbon chain. 
+  - Example: Fructose."
+"What is mutarotation, and which carbohydrates exhibit it?","- Mutarotation: 
+  - The change in optical rotation of a sugar due to the interconversion of alpha and beta anomers in solution. 
+  - Exhibited by reducing sugars like glucose and maltose."
+"What are reducing sugars, and how are they identified?","- Reducing sugars: 
+  - Sugars with a free aldehyde or ketone group that can reduce other compounds. 
+  - Identified by Benedict’s test (forms a red precipitate). 
+  - Examples: Glucose, maltose, lactose."
+"What is the structure and function of glycogen?","- Structure: 
+  - Highly branched polymer of glucose with alpha-1,4 and alpha-1,6 glycosidic bonds. 
+- Function: 
+  - Energy storage in animals, primarily in the liver and muscles. 
+  - Rapidly mobilized to release glucose during energy demand."
+"What is the difference between starch and cellulose?","- Starch: 
+  - Energy storage in plants. 
+  - Composed of amylose (linear) and amylopectin (branched). 
+  - Alpha-1,4 and alpha-1,6 glycosidic bonds. 
+- Cellulose: 
+  - Structural component in plant cell walls. 
+  - Linear polymer of glucose with beta-1,4 glycosidic bonds. 
+  - Indigestible by humans due to lack of cellulase."
+"What are glycosaminoglycans, and what is their role?","- Glycosaminoglycans (GAGs): 
+  - Long, linear polysaccharides with repeating disaccharide units. 
+  - Examples: Hyaluronic acid, chondroitin sulfate. 
+  - Role: 
+    - Structural components of connective tissues. 
+    - Lubrication in joints (e.g., synovial fluid)."
+"What are the functions of phospholipids in the cell membrane?","- Functions: 
+  - Form the lipid bilayer, providing structural integrity. 
+  - Act as a barrier to ions and polar molecules. 
+  - Provide a matrix for membrane proteins. 
+  - Participate in cell signaling (e.g., phosphatidylinositol)."
+"What are the types of fatty acids, and how do they differ?","- Saturated fatty acids: 
+  - No double bonds, solid at room temperature (e.g., palmitic acid). 
+- Unsaturated fatty acids: 
+  - Contain double bonds, liquid at room temperature. 
+  - Monounsaturated (one double bond, e.g., oleic acid). 
+  - Polyunsaturated (multiple double bonds, e.g., linoleic acid)."
+"What is the role of cholesterol in the body?","- Roles: 
+  - Structural component of cell membranes. 
+  - Precursor for steroid hormones (e.g., cortisol, estrogen). 
+  - Precursor for bile acids (aid in fat digestion). 
+  - Regulates membrane fluidity."
+"What are lipoproteins, and what is their function?","- Lipoproteins: 
+  - Complexes of lipids and proteins that transport fats in the bloodstream. 
+  - Types: 
+    - Chylomicrons: Transport dietary fats. 
+    - VLDL, LDL, HDL: Transport cholesterol and triglycerides. 
+  - Function: 
+    - Deliver lipids to tissues for energy or storage. 
+    - Remove excess cholesterol from tissues (HDL)."
+"What is beta-oxidation, and where does it occur?","- Beta-oxidation: 
+  - The process of breaking down fatty acids into acetyl-CoA for energy production. 
+  - Occurs in the mitochondrial matrix. 
+  - Steps: Oxidation, hydration, oxidation, and thiolysis. 
+  - Produces NADH, FADH2, and acetyl-CoA for the TCA cycle."
+"What are essential fatty acids, and why are they important?","- Essential fatty acids: 
+  - Fatty acids that cannot be synthesized by the body and must be obtained from the diet. 
+  - Examples: Linoleic acid (omega-6) and alpha-linolenic acid (omega-3). 
+  - Importance: 
+    - Precursors for signaling molecules (e.g., prostaglandins). 
+    - Maintain cell membrane integrity and fluidity."
+"What is the difference between fats and oils?","- Fats: 
+  - Solid at room temperature, mainly composed of saturated fatty acids. 
+  - Example: Butter. 
+- Oils: 
+  - Liquid at room temperature, mainly composed of unsaturated fatty acids. 
+  - Example: Olive oil."
+"What is the role of bile salts in lipid digestion?","- Bile salts: 
+  - Emulsify fats, breaking them into smaller droplets for easier digestion. 
+  - Produced in the liver and stored in the gallbladder. 
+  - Enhance the action of lipase, an enzyme that breaks down fats."
+"What are the health implications of trans fats?","- Trans fats: 
+  - Unsaturated fats with trans double bonds, often produced by hydrogenation. 
+  - Health implications: 
+    - Increase LDL (bad cholesterol) and decrease HDL (good cholesterol). 
+    - Linked to cardiovascular diseases and inflammation. 
+    - Found in processed foods like margarine and fried snacks."
+Question,Answer
+"What is the difference between monosaccharides, disaccharides, and polysaccharides?","- Monosaccharides: 
+  - Single sugar units (e.g., glucose, fructose). 
+  - Cannot be hydrolyzed into simpler sugars. 
+- Disaccharides: 
+  - Composed of two monosaccharides linked by a glycosidic bond (e.g., sucrose, lactose). 
+- Polysaccharides: 
+  - Long chains of monosaccharides (e.g., starch, glycogen, cellulose)."
+"What is the structure of glucose, and why is it important?","- Structure: 
+  - A six-carbon sugar (hexose) with the formula C6H12O6. 
+  - Exists in linear and cyclic forms (alpha and beta anomers). 
+- Importance: 
+  - Primary energy source for cells. 
+  - Precursor for many metabolic pathways (e.g., glycolysis, pentose phosphate pathway)."
+"What are the differences between alpha and beta glucose?","- Alpha glucose: 
+  - The hydroxyl group (-OH) on carbon-1 is below the plane of the ring. 
+- Beta glucose: 
+  - The hydroxyl group (-OH) on carbon-1 is above the plane of the ring. 
+- Significance: 
+  - Alpha glucose forms starch and glycogen. 
+  - Beta glucose forms cellulose."
+"What is the role of carbohydrates in energy storage?","- Carbohydrates store energy in the form of: 
+  - Starch in plants (amylose and amylopectin). 
+  - Glycogen in animals (liver and muscles). 
+- Energy is released through hydrolysis and metabolic pathways like glycolysis."
+"What are the functions of carbohydrates in cell recognition and signaling?","- Functions: 
+  - Glycoproteins and glycolipids on cell surfaces act as markers for cell recognition. 
+  - Examples: Blood group antigens, immune system signaling. 
+  - Carbohydrates also play a role in cell-cell communication and adhesion."
+"What is the significance of glycosidic bonds in carbohydrates?","- Glycosidic bonds: 
+  - Covalent bonds that link monosaccharides to form disaccharides and polysaccharides. 
+  - Types: Alpha (α) and beta (β) glycosidic bonds. 
+  - Significance: 
+    - Alpha bonds are digestible by humans (e.g., starch). 
+    - Beta bonds are indigestible (e.g., cellulose)."
+"What are the differences between starch and glycogen?","- Starch: 
+  - Energy storage in plants. 
+  - Composed of amylose (linear) and amylopectin (branched). 
+- Glycogen: 
+  - Energy storage in animals. 
+  - More highly branched than starch, allowing for rapid glucose release."
+"What is the role of cellulose in plant cell walls?","- Cellulose: 
+  - A linear polysaccharide of beta-glucose units. 
+  - Forms strong, rigid structures in plant cell walls. 
+  - Provides structural support and protection. 
+  - Indigestible by humans due to lack of cellulase enzyme."
+"What are the characteristic tests for carbohydrates?","- Benedict’s test: 
+  - Detects reducing sugars (e.g., glucose, maltose). 
+- Iodine test: 
+  - Identifies starch (turns blue-black). 
+- Barfoed’s test: 
+  - Distinguishes monosaccharides from disaccharides. 
+- Seliwanoff’s test: 
+  - Differentiates ketoses (e.g., fructose) from aldoses (e.g., glucose)."
+"What are the biological roles of oligosaccharides?","- Oligosaccharides: 
+  - Short chains of monosaccharides (3-10 units). 
+  - Roles: 
+    - Cell-cell recognition and signaling (e.g., blood group antigens). 
+    - Prebiotics: Promote the growth of beneficial gut bacteria."
+"What is the importance of the pentose phosphate pathway?","- Pentose phosphate pathway: 
+  - Produces NADPH for biosynthetic reactions and antioxidant defense. 
+  - Generates ribose-5-phosphate for nucleotide synthesis. 
+  - Occurs in the cytoplasm of cells."
+"What are the differences between homopolysaccharides and heteropolysaccharides?","- Homopolysaccharides: 
+  - Composed of a single type of monosaccharide (e.g., starch, cellulose, glycogen). 
+- Heteropolysaccharides: 
+  - Composed of two or more types of monosaccharides (e.g., hyaluronic acid, heparin)."
+"What is the role of carbohydrates in glycoproteins and glycolipids?","- Glycoproteins: 
+  - Proteins with attached carbohydrate chains. 
+  - Roles: Cell signaling, immune response, and cell adhesion. 
+- Glycolipids: 
+  - Lipids with attached carbohydrate chains. 
+  - Roles: Cell membrane structure and cell recognition."
+"What is the significance of carbohydrate metabolism in energy production?","- Carbohydrate metabolism: 
+  - Glycolysis breaks down glucose to produce ATP and pyruvate. 
+  - TCA cycle and oxidative phosphorylation further produce ATP. 
+  - Carbohydrates are the primary energy source for most cells."
+"What are the differences between amylose and amylopectin?","- Amylose: 
+  - Linear polymer of glucose with alpha-1,4 glycosidic bonds. 
+  - Forms a helical structure. 
+- Amylopectin: 
+  - Branched polymer of glucose with alpha-1,4 and alpha-1,6 glycosidic bonds. 
+  - More soluble and rapidly digested than amylose."
+"What is the role of carbohydrates in the immune system?","- Carbohydrates: 
+  - Act as antigens on the surface of pathogens, triggering immune responses. 
+  - Found in glycoproteins and glycolipids on immune cells. 
+  - Examples: Blood group antigens, bacterial cell wall components."
+Question,Answer
+"What are the major classes of lipids, and what are their functions?","- Major classes: 
+  - Simple lipids: Fats, oils, and waxes (energy storage and insulation). 
+  - Complex lipids: Phospholipids (cell membranes), glycolipids (cell recognition). 
+  - Derived lipids: Steroids (hormones), terpenes (pigments). 
+- Functions: 
+  - Energy storage, cell membrane structure, signaling, and insulation."
+"What is the structure and function of phospholipids?","- Structure: 
+  - Composed of a glycerol backbone, two fatty acids, and a phosphate group. 
+  - Amphipathic (hydrophilic head and hydrophobic tail). 
+- Function: 
+  - Major component of cell membranes, forming the lipid bilayer. 
+  - Provide a barrier to ions and polar molecules."
+"What are the differences between saturated and unsaturated fatty acids?","- Saturated fatty acids: 
+  - No double bonds, solid at room temperature (e.g., palmitic acid). 
+  - Found in animal fats. 
+- Unsaturated fatty acids: 
+  - Contain double bonds, liquid at room temperature. 
+  - Monounsaturated (one double bond, e.g., oleic acid). 
+  - Polyunsaturated (multiple double bonds, e.g., linoleic acid)."
+"What is the role of cholesterol in cell membranes?","- Cholesterol: 
+  - Regulates membrane fluidity by preventing fatty acids from packing tightly. 
+  - Stabilizes the membrane at high temperatures. 
+  - Found in the lipid bilayer of animal cells."
+"What are lipoproteins, and how do they transport lipids?","- Lipoproteins: 
+  - Complexes of lipids and proteins that transport fats in the bloodstream. 
+  - Types: 
+    - Chylomicrons: Transport dietary fats. 
+    - VLDL, LDL, HDL: Transport cholesterol and triglycerides. 
+  - Function: 
+    - Deliver lipids to tissues for energy or storage. 
+    - Remove excess cholesterol from tissues (HDL)."
+"What is the significance of omega-3 and omega-6 fatty acids?","- Omega-3 fatty acids: 
+  - Examples: Alpha-linolenic acid, EPA, DHA. 
+  - Found in fish oil and flaxseeds. 
+  - Benefits: Anti-inflammatory, support brain and heart health. 
+- Omega-6 fatty acids: 
+  - Examples: Linoleic acid, arachidonic acid. 
+  - Found in vegetable oils. 
+  - Role: Precursors for signaling molecules (e.g., prostaglandins)."
+"What is the process of beta-oxidation, and why is it important?","- Beta-oxidation: 
+  - Breaks down fatty acids into acetyl-CoA for energy production. 
+  - Occurs in the mitochondrial matrix. 
+  - Steps: Oxidation, hydration, oxidation, and thiolysis. 
+  - Importance: 
+    - Generates ATP, NADH, and FADH2 for energy. 
+    - Key process during fasting or prolonged exercise."
+"What are the health implications of trans fats?","- Trans fats: 
+  - Unsaturated fats with trans double bonds, often produced by hydrogenation. 
+  - Health implications: 
+    - Increase LDL (bad cholesterol) and decrease HDL (good cholesterol). 
+    - Linked to cardiovascular diseases and inflammation. 
+    - Found in processed foods like margarine and fried snacks."
+"What is the role of bile salts in lipid digestion?","- Bile salts: 
+  - Emulsify fats, breaking them into smaller droplets for easier digestion. 
+  - Produced in the liver and stored in the gallbladder. 
+  - Enhance the action of lipase, an enzyme that breaks down fats."
+"What are the functions of eicosanoids in the body?","- Eicosanoids: 
+  - Signaling molecules derived from arachidonic acid (omega-6 fatty acid). 
+  - Types: Prostaglandins, thromboxanes, and leukotrienes. 
+  - Functions: 
+    - Regulate inflammation, blood clotting, and immune responses. 
+    - Play a role in pain and fever."
+"What is the difference between fats and oils?","- Fats: 
+  - Solid at room temperature, mainly composed of saturated fatty acids. 
+  - Example: Butter. 
+- Oils: 
+  - Liquid at room temperature, mainly composed of unsaturated fatty acids. 
+  - Example: Olive oil."
+"What is the role of lipids in energy storage?","- Lipids: 
+  - Store energy in the form of triglycerides (fats and oils). 
+  - Provide 9 kcal/g, more than carbohydrates or proteins. 
+  - Stored in adipose tissue and mobilized during energy demand."
+"What are the functions of glycolipids in cell membranes?","- Glycolipids: 
+  - Lipids with attached carbohydrate chains. 
+  - Functions: 
+    - Cell recognition and signaling (e.g., blood group antigens). 
+    - Stabilize the cell membrane and form lipid rafts."
+"What is the significance of lipid peroxidation?","- Lipid peroxidation: 
+  - The oxidative degradation of lipids, often involving free radicals. 
+  - Damages cell membranes and contributes to aging and diseases. 
+  - Prevented by antioxidants like vitamin E."
+"What are the differences between LDL and HDL?","- LDL (Low-Density Lipoprotein): 
+  - Transports cholesterol to tissues. 
+  - High levels are associated with atherosclerosis. 
+- HDL (High-Density Lipoprotein): 
+  - Removes excess cholesterol from tissues and transports it to the liver. 
+  - High levels are protective against cardiovascular diseases."
+"What is the role of lipids in hormone production?","- Lipids: 
+  - Serve as precursors for steroid hormones (e.g., cortisol, estrogen, testosterone). 
+  - Derived from cholesterol. 
+  - Regulate metabolism, immune response, and reproduction."
+"What are the functions of waxes in living organisms?","- Waxes: 
+  - Composed of long-chain fatty acids and alcohols. 
+  - Functions: 
+    - Waterproofing (e.g., cuticle of plants, animal fur). 
+    - Protection and lubrication (e.g., earwax)."
+Question,Answer
+"What are amino acids, and what is their general structure?","- Amino acids: 
+  - Organic compounds containing an amino group (-NH2) and a carboxyl group (-COOH). 
+  - General structure: R group (side chain) attached to a central carbon (alpha carbon). 
+  - 20 standard amino acids are the building blocks of proteins."
+"How are amino acids classified based on their side chains?","- Classification: 
+  - Nonpolar (hydrophobic): Alanine, valine, leucine. 
+  - Polar (uncharged): Serine, threonine, asparagine. 
+  - Acidic (negatively charged): Aspartic acid, glutamic acid. 
+  - Basic (positively charged): Lysine, arginine, histidine."
+"What are essential, semi-essential, and non-essential amino acids?","- Essential amino acids: 
+  - Cannot be synthesized by the body and must be obtained from the diet (e.g., leucine, valine). 
+- Semi-essential amino acids: 
+  - Conditionally essential during growth or illness (e.g., arginine, histidine). 
+- Non-essential amino acids: 
+  - Can be synthesized by the body (e.g., glutamine, alanine)."
+"What are the physical and chemical properties of amino acids?","- Physical properties: 
+  - Soluble in water, have high melting points, and are optically active (except glycine). 
+- Chemical properties: 
+  - Amphoteric (can act as acids or bases). 
+  - Participate in peptide bond formation. 
+  - Exhibit isoelectric points (pI) where they have no net charge."
+"What is the significance of the peptide bond?","- Peptide bond: 
+  - A covalent bond formed between the carboxyl group of one amino acid and the amino group of another. 
+  - Characteristics: 
+    - Rigid and planar due to partial double-bond character. 
+    - Forms the backbone of proteins. 
+  - Example: Dipeptide (two amino acids), oligopeptide (few amino acids), polypeptide (many amino acids)."
+"What is the concept of a residue in peptides and proteins?","- Residue: 
+  - Refers to an amino acid unit within a peptide or protein chain. 
+  - Example: In the dipeptide Ala-Gly, Ala and Gly are residues."
+"How are amino acids separated from mixtures?","- Separation methods: 
+  - Chromatography: 
+    - Ion-exchange chromatography: Separates based on charge. 
+    - HPLC (High-Performance Liquid Chromatography): High-resolution separation. 
+  - Electrophoresis: Separates based on charge and size. 
+  - Example: Amino acid analyzers use these techniques."
+"How is the N-terminal residue of a peptide identified?","- Methods: 
+  - Sanger’s method: Uses 1-fluoro-2,4-dinitrobenzene (FDNB) to label the N-terminal amino acid. 
+  - Edman degradation: Sequentially removes and identifies N-terminal residues. 
+  - Example: Used in protein sequencing."
+"How is the C-terminal residue of a peptide identified?","- Methods: 
+  - Carboxypeptidase digestion: Enzymatically cleaves the C-terminal residue. 
+  - Hydrazinolysis: Breaks the peptide bond and releases the C-terminal amino acid as a hydrazide. 
+  - Example: Used in protein sequencing."
+"What is peptide synthesis, and how is it performed?","- Peptide synthesis: 
+  - The process of chemically synthesizing peptides. 
+  - Methods: 
+    - Solid-phase peptide synthesis (SPPS): Uses a resin to anchor the growing peptide chain. 
+    - Merrifield synthesis: A common SPPS method. 
+  - Steps: Deprotection, coupling, and cleavage from the resin."
+"What are the biological roles of peptides?","- Biological roles: 
+  - Hormones: Insulin, glucagon. 
+  - Neuropeptides: Endorphins, substance P. 
+  - Antibiotics: Gramicidin, bacitracin. 
+  - Signaling molecules: Oxytocin, vasopressin."
+"What is the isoelectric point (pI) of an amino acid?","- Isoelectric point (pI): 
+  - The pH at which an amino acid has no net charge. 
+  - Depends on the pKa values of the amino and carboxyl groups. 
+  - Example: Glycine has a pI of 6.0."
+"What are the optical properties of amino acids?","- Optical properties: 
+  - All amino acids (except glycine) are optically active due to the chiral alpha carbon. 
+  - Exist as L- and D-isomers. 
+  - L-amino acids are the naturally occurring form in proteins."
+"What are the differences between oligopeptides and polypeptides?","- Oligopeptides: 
+  - Short chains of 2-20 amino acids. 
+  - Example: Glutathione (tripeptide). 
+- Polypeptides: 
+  - Longer chains of more than 20 amino acids. 
+  - Example: Insulin (51 amino acids)."
+"What is the role of amino acids in protein structure?","- Amino acids: 
+  - Determine the primary structure of proteins (sequence of amino acids). 
+  - Influence secondary (alpha-helices, beta-sheets) and tertiary structures (3D folding). 
+  - Side chains (R groups) dictate protein function and interactions."
+"What are the methods for determining amino acid composition?","- Methods: 
+  - Acid hydrolysis: Breaks proteins into individual amino acids. 
+  - Chromatography: Separates and quantifies amino acids. 
+  - Example: Amino acid analyzers use ion-exchange chromatography."
+"What is the significance of post-translational modifications of amino acids?","- Post-translational modifications: 
+  - Chemical changes to amino acids after protein synthesis. 
+  - Examples: Phosphorylation, glycosylation, acetylation. 
+  - Significance: Regulates protein function, localization, and interactions."
+"What are the roles of non-standard amino acids?","- Non-standard amino acids: 
+  - Not incorporated into proteins during translation. 
+  - Examples: Ornithine, citrulline. 
+  - Roles: 
+    - Intermediates in metabolic pathways (e.g., urea cycle). 
+    - Precursors for signaling molecules (e.g., nitric oxide)."
+
+Question,Answer
+"What are proteins, and where do they occur?","- Proteins: 
+  - Large biomolecules composed of amino acids linked by peptide bonds. 
+  - Occurrence: 
+    - Found in all living organisms. 
+    - Present in cells, tissues, and body fluids (e.g., enzymes, hormones, antibodies)."
+"How are proteins classified?","- Classification: 
+  - Based on function: 
+    - Enzymes (catalyze reactions). 
+    - Structural proteins (e.g., collagen, keratin). 
+    - Transport proteins (e.g., hemoglobin). 
+    - Hormones (e.g., insulin). 
+  - Based on shape: 
+    - Fibrous proteins (long and narrow, e.g., collagen). 
+    - Globular proteins (spherical, e.g., enzymes)."
+"What is the primary structure of a protein?","- Primary structure: 
+  - The linear sequence of amino acids in a polypeptide chain. 
+  - Determined by the genetic code. 
+  - Example: The sequence of amino acids in insulin."
+"What is the secondary structure of a protein?","- Secondary structure: 
+  - Local folding of the polypeptide chain into regular structures. 
+  - Types: 
+    - Alpha-helices: Spiral structures stabilized by hydrogen bonds. 
+    - Beta-sheets: Pleated sheets stabilized by hydrogen bonds. 
+  - Example: Alpha-helices in myoglobin, beta-sheets in silk fibroin."
+"What is the tertiary structure of a protein?","- Tertiary structure: 
+  - The 3D folding of a single polypeptide chain. 
+  - Stabilized by interactions: 
+    - Hydrogen bonds, ionic bonds, disulfide bridges, hydrophobic interactions. 
+  - Example: Myoglobin, a globular protein with a heme group."
+"What is the quaternary structure of a protein?","- Quaternary structure: 
+  - The arrangement of multiple polypeptide chains (subunits) into a functional protein. 
+  - Stabilized by non-covalent interactions. 
+  - Example: Hemoglobin (4 subunits), DNA polymerase (multiple subunits)."
+"What is protein denaturation, and what causes it?","- Denaturation: 
+  - The loss of a protein’s 3D structure due to disruption of non-covalent bonds. 
+  - Causes: 
+    - Heat, pH extremes, organic solvents, detergents, heavy metals. 
+  - Result: Loss of biological activity (e.g., enzyme inactivation)."
+"What is protein renaturation, and is it always possible?","- Renaturation: 
+  - The process of a denatured protein refolding into its native structure. 
+  - Possible for some proteins (e.g., ribonuclease A). 
+  - Not always possible: 
+    - Irreversible denaturation occurs if conditions are too harsh or if chaperones are absent."
+"What is the biological importance of proteins?","- Biological importance: 
+  - Enzymes: Catalyze biochemical reactions. 
+  - Structural proteins: Provide support (e.g., collagen, keratin). 
+  - Transport proteins: Carry molecules (e.g., hemoglobin, albumin). 
+  - Hormones: Regulate physiological processes (e.g., insulin). 
+  - Antibodies: Defend against pathogens. 
+  - Contractile proteins: Enable movement (e.g., actin, myosin)."
+"What are fibrous proteins, and what are their functions?","- Fibrous proteins: 
+  - Long, narrow, and insoluble in water. 
+  - Functions: 
+    - Structural support (e.g., collagen in connective tissues). 
+    - Protection (e.g., keratin in hair and nails). 
+    - Movement (e.g., actin and myosin in muscles)."
+"What are globular proteins, and what are their functions?","- Globular proteins: 
+  - Spherical, water-soluble, and often have enzymatic or signaling roles. 
+  - Functions: 
+    - Enzymes: Catalyze reactions (e.g., hexokinase). 
+    - Transport: Carry molecules (e.g., hemoglobin). 
+    - Hormones: Regulate processes (e.g., insulin). 
+    - Antibodies: Immune defense (e.g., immunoglobulins)."
+"What are the forces stabilizing protein structure?","- Stabilizing forces: 
+  - Hydrogen bonds: Between polar side chains. 
+  - Ionic bonds: Between charged side chains. 
+  - Hydrophobic interactions: Between nonpolar side chains. 
+  - Disulfide bridges: Covalent bonds between cysteine residues. 
+  - Van der Waals forces: Weak interactions between atoms."
+"What is the role of chaperones in protein folding?","- Chaperones: 
+  - Proteins that assist in the proper folding of other proteins. 
+  - Prevent misfolding and aggregation. 
+  - Example: Heat shock proteins (HSPs) help refold denatured proteins."
+"What is the significance of disulfide bonds in proteins?","- Disulfide bonds: 
+  - Covalent bonds between cysteine residues. 
+  - Stabilize the tertiary and quaternary structures of proteins. 
+  - Example: Insulin has disulfide bonds that stabilize its structure."
+"What are the differences between simple and conjugated proteins?","- Simple proteins: 
+  - Composed only of amino acids (e.g., albumin, globulins). 
+- Conjugated proteins: 
+  - Contain non-protein groups (prosthetic groups). 
+  - Examples: 
+    - Hemoglobin (heme group). 
+    - Glycoproteins (carbohydrate groups). 
+    - Lipoproteins (lipid groups)."
+"What is the role of proteins in enzyme catalysis?","- Proteins: 
+  - Form the active site of enzymes, where substrates bind and reactions occur. 
+  - Stabilize transition states, lowering activation energy. 
+  - Example: Hexokinase catalyzes the phosphorylation of glucose."
+"What is the significance of protein-protein interactions?","- Protein-protein interactions: 
+  - Essential for cellular processes like signaling, metabolism, and gene expression. 
+  - Examples: 
+    - Receptor-ligand interactions. 
+    - Enzyme-substrate interactions. 
+    - Antibody-antigen interactions."
+"What is the role of proteins in the immune system?","- Proteins: 
+  - Antibodies (immunoglobulins) recognize and neutralize pathogens. 
+  - Cytokines regulate immune responses. 
+  - Major histocompatibility complex (MHC) proteins present antigens to immune cells."
+Question,Answer
+"What are nucleosides and nucleotides?","- Nucleosides: 
+  - Composed of a nitrogenous base (purine or pyrimidine) linked to a sugar (ribose or deoxyribose). 
+  - Example: Adenosine (adenine + ribose). 
+- Nucleotides: 
+  - Composed of a nucleoside plus one or more phosphate groups. 
+  - Example: Adenosine triphosphate (ATP)."
+"What is the general structure of DNA?","- DNA structure: 
+  - Double-stranded helix composed of two antiparallel polynucleotide chains. 
+  - Each strand has a sugar-phosphate backbone with nitrogenous bases (A, T, C, G) projecting inward. 
+  - Bases pair via hydrogen bonds (A-T, C-G)."
+"What is the base pairing rule in DNA?","- Base pairing rule: 
+  - Adenine (A) pairs with Thymine (T) via two hydrogen bonds. 
+  - Cytosine (C) pairs with Guanine (G) via three hydrogen bonds. 
+  - Ensures accurate replication and transcription."
+"What is the double helical structure of DNA?","- Double helix: 
+  - Proposed by Watson and Crick in 1953. 
+  - Two antiparallel strands twisted around a central axis. 
+  - Features: 
+    - Major and minor grooves for protein binding. 
+    - Stabilized by hydrogen bonds and hydrophobic interactions."
+"What is the general structure of RNA?","- RNA structure: 
+  - Single-stranded, but can form secondary structures (e.g., hairpins) via base pairing. 
+  - Composed of ribose sugar, phosphate groups, and nitrogenous bases (A, U, C, G). 
+  - Uracil (U) replaces thymine (T)."
+"What are the types and functions of RNA?","- Types and functions: 
+  - mRNA (messenger RNA): Carries genetic information from DNA to ribosomes for protein synthesis. 
+  - tRNA (transfer RNA): Brings amino acids to ribosomes during translation. 
+  - rRNA (ribosomal RNA): Forms the core of ribosomes and catalyzes protein synthesis. 
+  - Other RNAs: snRNA (splicing), miRNA (gene regulation), siRNA (gene silencing)."
+"What are the physiochemical properties of nucleic acids?","- Physiochemical properties: 
+  - Absorb UV light at 260 nm due to aromatic bases. 
+  - Negatively charged due to phosphate groups. 
+  - Soluble in water due to hydrophilic sugar-phosphate backbone. 
+  - Can denature (melt) at high temperatures or extreme pH."
+"What is denaturation of nucleic acids?","- Denaturation: 
+  - The separation of double-stranded DNA into single strands due to disruption of hydrogen bonds. 
+  - Caused by: 
+    - High temperature (melting). 
+    - Extreme pH. 
+    - Chemicals (e.g., urea, formamide). 
+  - Result: Loss of biological function."
+"What is renaturation of nucleic acids?","- Renaturation: 
+  - The reformation of double-stranded DNA from single strands under favorable conditions. 
+  - Requires: 
+    - Slow cooling (annealing). 
+    - Proper salt concentration. 
+  - Example: Hybridization of complementary DNA strands."
+"What is the difference between DNA and RNA?","- DNA: 
+  - Double-stranded, contains deoxyribose sugar, and thymine (T). 
+  - Stores genetic information. 
+- RNA: 
+  - Single-stranded, contains ribose sugar, and uracil (U). 
+  - Involved in protein synthesis and gene regulation."
+"What is the role of hydrogen bonds in DNA structure?","- Hydrogen bonds: 
+  - Stabilize the double helix by pairing complementary bases (A-T, C-G). 
+  - Provide specificity for base pairing. 
+  - Contribute to the overall stability of the DNA molecule."
+"What is the significance of the major and minor grooves in DNA?","- Major and minor grooves: 
+  - Provide binding sites for proteins (e.g., transcription factors, DNA polymerases). 
+  - Major groove: Wider and more accessible for protein binding. 
+  - Minor groove: Narrower and less accessible."
+"What is the role of tRNA in protein synthesis?","- tRNA: 
+  - Transfers amino acids to the ribosome during translation. 
+  - Contains an anticodon that pairs with the mRNA codon. 
+  - Ensures the correct amino acid is added to the growing polypeptide chain."
+"What is the function of rRNA in ribosomes?","- rRNA: 
+  - Forms the structural and catalytic core of ribosomes. 
+  - Catalyzes peptide bond formation during translation. 
+  - Example: 16S rRNA in prokaryotes, 18S rRNA in eukaryotes."
+"What is the role of mRNA in gene expression?","- mRNA: 
+  - Carries genetic information from DNA to ribosomes. 
+  - Acts as a template for protein synthesis during translation. 
+  - Contains codons that specify the sequence of amino acids in a protein."
+"What is the significance of nucleic acid hybridization?","- Hybridization: 
+  - The pairing of complementary DNA or RNA strands. 
+  - Applications: 
+    - DNA probes for detecting specific sequences. 
+    - PCR (polymerase chain reaction). 
+    - Southern and Northern blotting."
+"What is the melting temperature (Tm) of DNA?","- Melting temperature (Tm): 
+  - The temperature at which 50% of the DNA is denatured. 
+  - Depends on: 
+    - GC content (higher GC content increases Tm). 
+    - Salt concentration (higher salt increases Tm). 
+  - Example: Used to design PCR primers."
+"What is the role of nucleic acids in heredity?","- Nucleic acids: 
+  - Store and transmit genetic information. 
+  - DNA is replicated and passed to daughter cells during cell division. 
+  - RNA translates genetic information into proteins."
+Question,Answer
+"What are vitamins, and how are they classified?","- Vitamins: 
+  - Organic compounds required in small amounts for normal growth and metabolism. 
+- Classification: 
+  - Water-soluble: B-complex vitamins (e.g., B1, B2, B12) and vitamin C. 
+  - Fat-soluble: Vitamins A, D, E, and K."
+"What are the functions of water-soluble vitamins?","- Functions: 
+  - Coenzymes in metabolic reactions (e.g., NAD+ from niacin, FAD from riboflavin). 
+  - Antioxidants (e.g., vitamin C). 
+  - Examples: 
+    - Vitamin B1 (thiamine): Energy metabolism. 
+    - Vitamin B12 (cobalamin): DNA synthesis and red blood cell formation."
+"What are the functions of fat-soluble vitamins?","- Functions: 
+  - Vitamin A: Vision, immune function, and skin health. 
+  - Vitamin D: Calcium absorption and bone health. 
+  - Vitamin E: Antioxidant, protects cell membranes. 
+  - Vitamin K: Blood clotting and bone metabolism."
+"What are hormones, and how are they classified?","- Hormones: 
+  - Chemical messengers that regulate physiological processes. 
+- Classification: 
+  - Peptide hormones: Insulin, glucagon. 
+  - Steroid hormones: Cortisol, estrogen. 
+  - Amino acid-derived hormones: Epinephrine, thyroxine."
+"What are the functions of hormones in the body?","- Functions: 
+  - Regulate metabolism (e.g., insulin, glucagon). 
+  - Control growth and development (e.g., growth hormone). 
+  - Maintain homeostasis (e.g., cortisol, antidiuretic hormone). 
+  - Coordinate reproduction (e.g., estrogen, testosterone)."
+"What is the importance of vitamins and hormones in biochemistry?","- Importance: 
+  - Vitamins: Act as coenzymes and antioxidants, essential for metabolic processes. 
+  - Hormones: Regulate cellular activities, maintain homeostasis, and coordinate body functions."
+"What are enzymes, and what are their characteristics?","- Enzymes: 
+  - Biological catalysts that speed up chemical reactions without being consumed. 
+- Characteristics: 
+  - Highly specific to their substrates. 
+  - Lower activation energy of reactions. 
+  - Regulated by inhibitors, activators, and feedback mechanisms."
+"How are enzymes named and classified?","- Nomenclature: 
+  - Often end with '-ase' (e.g., amylase, protease). 
+  - Named based on substrate (e.g., lactase acts on lactose) or reaction type (e.g., oxidase). 
+- Classification: 
+  - Six main classes: Oxidoreductases, transferases, hydrolases, lyases, isomerases, ligases."
+"What is enzyme kinetics, and what is the Michaelis-Menten equation?","- Enzyme kinetics: 
+  - Study of reaction rates catalyzed by enzymes. 
+- Michaelis-Menten equation: 
+  - Describes the relationship between substrate concentration and reaction rate. 
+  - Formula: V = (Vmax [S]) / (Km + [S]), where Vmax is the maximum rate, and Km is the Michaelis constant."
+"What factors affect enzyme activity?","- Factors: 
+  - Substrate concentration: Increases activity until saturation. 
+  - Temperature: Optimal activity at a specific temperature; too high causes denaturation. 
+  - pH: Optimal activity at a specific pH; extremes cause denaturation. 
+  - Inhibitors: Reduce activity (e.g., competitive, non-competitive). 
+  - Cofactors and coenzymes: Required for activity (e.g., metal ions, vitamins)."
+"What are the roles of enzymes in food processing?","- Enzymes in food processing: 
+  - Amylases: Break down starch into sugars (e.g., in baking and brewing). 
+  - Proteases: Hydrolyze proteins (e.g., in cheese making and meat tenderization). 
+  - Pectinases: Break down pectin (e.g., in fruit juice clarification). 
+  - Phosphatases: Remove phosphate groups (e.g., in dairy processing)."
+"What is the role of amylases in food processing?","- Amylases: 
+  - Break down starch into simpler sugars (e.g., maltose, glucose). 
+  - Applications: 
+    - Baking: Improves dough texture and volume. 
+    - Brewing: Converts starch in grains to fermentable sugars."
+"What is the role of proteases in food processing?","- Proteases: 
+  - Hydrolyze proteins into peptides and amino acids. 
+  - Applications: 
+    - Cheese making: Curd formation and flavor development. 
+    - Meat tenderization: Breaks down connective tissues."
+"What is the role of pectinases in food processing?","- Pectinases: 
+  - Break down pectin, a polysaccharide in plant cell walls. 
+  - Applications: 
+    - Fruit juice clarification: Removes cloudiness. 
+    - Wine production: Improves juice extraction and clarity."
+"What is the role of phosphatases in food processing?","- Phosphatases: 
+  - Remove phosphate groups from molecules. 
+  - Applications: 
+    - Dairy processing: Improves cheese texture and flavor. 
+    - Brewing: Enhances fermentation efficiency."
+"What is the significance of enzyme regulation in metabolism?","- Enzyme regulation: 
+  - Ensures metabolic pathways operate efficiently. 
+  - Mechanisms: 
+    - Feedback inhibition: End products inhibit earlier enzymes in the pathway. 
+    - Allosteric regulation: Binding of molecules at sites other than the active site. 
+    - Covalent modification: Addition or removal of chemical groups (e.g., phosphorylation)."
+"What are cofactors and coenzymes, and what are their roles?","- Cofactors: 
+  - Non-protein molecules required for enzyme activity (e.g., metal ions like Zn2+, Mg2+). 
+- Coenzymes: 
+  - Organic cofactors (e.g., NAD+, FAD, coenzyme A). 
+- Roles: 
+  - Assist in catalysis by transferring electrons, atoms, or functional groups."
+"What is the difference between competitive and non-competitive inhibition?","- Competitive inhibition: 
+  - Inhibitor competes with the substrate for the active site. 
+  - Can be overcome by increasing substrate concentration. 
+- Non-competitive inhibition: 
+  - Inhibitor binds to a site other than the active site, altering enzyme shape. 
+  - Cannot be overcome by increasing substrate concentration."

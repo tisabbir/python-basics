@@ -1,0 +1,200 @@
+Question,Answer
+"What are the basic components of a cell?","- **Definition/Overview:** Cells are the fundamental units of life, composed of a plasma membrane, cytoplasm, and genetic material (DNA). 
+- **Logical Flow:** 
+  - The plasma membrane regulates what enters and exits the cell. 
+  - The cytoplasm contains organelles like mitochondria and ribosomes. 
+  - DNA stores genetic information. 
+- **Example/Analogy:** Think of a cell as a factory: the membrane is the security gate, the cytoplasm is the workspace, and DNA is the manager's office with all the blueprints. 
+- **Clear and Concise:** Cells consist of a membrane, cytoplasm, and DNA, each playing a critical role in maintaining life."
+"Can you explain the central dogma of molecular biology?","- **Definition/Overview:** The central dogma describes the flow of genetic information: DNA → RNA → Protein. 
+- **Logical Flow:** 
+  - DNA is transcribed into RNA. 
+  - RNA is translated into proteins. 
+- **Example/Analogy:** Imagine DNA as a cookbook, RNA as a recipe copied from the book, and proteins as the final dish prepared from the recipe. 
+- **Clear and Concise:** Genetic information flows from DNA to RNA to proteins, enabling cellular functions."
+"What are the key differences between prokaryotic and eukaryotic cells?","- **Definition/Overview:** Prokaryotic cells lack a nucleus and membrane-bound organelles, while eukaryotic cells have both. 
+- **Logical Flow:** 
+  - Prokaryotes (e.g., bacteria) have simpler structures, with DNA floating in the cytoplasm. 
+  - Eukaryotes (e.g., human cells) have complex organelles like the nucleus and mitochondria. 
+- **Example/Analogy:** Prokaryotes are like a studio apartment (everything in one room), while eukaryotes are like a multi-room house. 
+- **Clear and Concise:** Prokaryotes lack a nucleus and organelles; eukaryotes have both."
+"Describe the structure and function of DNA, RNA, and proteins.","- **Definition/Overview:** DNA stores genetic information, RNA transfers it, and proteins perform cellular functions. 
+- **Logical Flow:** 
+  - DNA is a double helix with nucleotides (A, T, C, G). 
+  - RNA is single-stranded (A, U, C, G). 
+  - Proteins are made of amino acids and fold into functional shapes. 
+- **Example/Analogy:** DNA is like a library, RNA is like a librarian fetching a book, and proteins are like workers building structures. 
+- **Clear and Concise:** DNA stores info, RNA transfers it, and proteins execute functions."
+"How do enzymes work? Can you explain the concept of activation energy?","- **Definition/Overview:** Enzymes are biological catalysts that speed up reactions by lowering activation energy. 
+- **Logical Flow:** 
+  - Enzymes bind substrates at their active sites. 
+  - They stabilize transition states and release products. 
+  - Activation energy is the energy needed to start a reaction. 
+- **Example/Analogy:** Enzymes are like keys that unlock reactions, and activation energy is the effort needed to turn the key. 
+- **Clear and Concise:** Enzymes lower activation energy, making reactions faster and more efficient."
+Question,Answer
+"What is the role of ATP in cellular metabolism?","- **Definition/Overview:** ATP (adenosine triphosphate) is the primary energy currency of the cell. 
+- **Logical Flow:** 
+  - ATP stores energy in its high-energy phosphate bonds. 
+  - When ATP is hydrolyzed to ADP (adenosine diphosphate), energy is released for cellular processes like muscle contraction, active transport, and biosynthesis. 
+- **Example/Analogy:** Think of ATP as a rechargeable battery: it stores energy when charged (ATP) and releases it when used (ADP). 
+- **Clear and Concise:** ATP provides energy for cellular processes by releasing energy when hydrolyzed to ADP."
+"Explain glycolysis and its regulation.","- **Definition/Overview:** Glycolysis is the breakdown of glucose into pyruvate, producing ATP and NADH. 
+- **Logical Flow:** 
+  - Occurs in the cytoplasm and consists of 10 steps divided into two phases: energy investment and energy payoff. 
+  - Key regulatory enzymes include hexokinase, phosphofructokinase-1 (PFK-1), and pyruvate kinase. 
+  - Regulated by feedback inhibition and hormones like insulin and glucagon. 
+- **Example/Analogy:** Glycolysis is like a factory assembly line that breaks down glucose into smaller parts while generating energy. 
+- **Clear and Concise:** Glycolysis converts glucose to pyruvate, producing ATP and NADH, and is tightly regulated by enzymes and hormones."
+"How does the citric acid cycle contribute to energy production?","- **Definition/Overview:** The citric acid cycle (TCA cycle or Krebs cycle) oxidizes acetyl-CoA to produce ATP, NADH, and FADH2. 
+- **Logical Flow:** 
+  - Occurs in the mitochondrial matrix. 
+  - Each turn of the cycle generates 3 NADH, 1 FADH2, and 1 GTP (equivalent to ATP). 
+  - NADH and FADH2 feed into the electron transport chain to produce more ATP. 
+- **Example/Analogy:** The TCA cycle is like a power plant that burns fuel (acetyl-CoA) to generate energy carriers (NADH, FADH2). 
+- **Clear and Concise:** The TCA cycle produces energy carriers (NADH, FADH2) that drive ATP synthesis in the electron transport chain."
+"What are the different types of metabolic pathways and how are they regulated?","- **Definition/Overview:** Metabolic pathways include catabolic (breakdown) and anabolic (synthesis) pathways, regulated to maintain energy balance. 
+- **Logical Flow:** 
+  - Catabolic pathways (e.g., glycolysis, TCA cycle) release energy by breaking down molecules. 
+  - Anabolic pathways (e.g., gluconeogenesis, fatty acid synthesis) use energy to build molecules. 
+  - Regulation occurs via feedback inhibition, allosteric regulation, and hormonal control (e.g., insulin, glucagon). 
+- **Example/Analogy:** Metabolism is like a city’s energy grid: catabolism is the power plant generating energy, and anabolism is the construction crew using energy to build. 
+- **Clear and Concise:** Catabolic pathways break down molecules to release energy, while anabolic pathways use energy to build molecules, both tightly regulated."
+Question,Answer
+"What is PCR (Polymerase Chain Reaction) and how does it work?","- **Definition/Overview:** PCR is a technique used to amplify specific DNA sequences. 
+- **Logical Flow:** 
+  - Involves three steps: denaturation (DNA strands separate), annealing (primers bind to target sequences), and extension (DNA polymerase synthesizes new strands). 
+  - Repeated cycles exponentially increase the amount of target DNA. 
+- **Example/Analogy:** PCR is like a photocopier for DNA: it makes millions of copies of a specific DNA sequence. 
+- **Clear and Concise:** PCR amplifies DNA through cycles of denaturation, annealing, and extension."
+"Explain the concept of gene expression and regulation.","- **Definition/Overview:** Gene expression is the process by which information from a gene is used to synthesize a functional product (protein or RNA). 
+- **Logical Flow:** 
+  - Transcription (DNA → RNA) and translation (RNA → protein) are key steps. 
+  - Regulation occurs at transcriptional, post-transcriptional, translational, and post-translational levels. 
+- **Example/Analogy:** Gene expression is like a recipe: DNA is the cookbook, RNA is the recipe, and proteins are the dishes prepared. 
+- **Clear and Concise:** Gene expression involves transcription and translation, regulated at multiple levels to control protein production."
+"What are mutations and how do they affect genetic material?","- **Definition/Overview:** Mutations are changes in the DNA sequence that can alter gene function. 
+- **Logical Flow:** 
+  - Types include point mutations (single base changes), insertions, deletions, and frameshift mutations. 
+  - Effects range from silent (no change) to harmful (e.g., genetic disorders) or beneficial (e.g., evolution). 
+- **Example/Analogy:** Mutations are like typos in a book: some are harmless, while others change the meaning of the story. 
+- **Clear and Concise:** Mutations alter DNA sequences, potentially affecting gene function and leading to genetic variation or disorders."
+"Can you explain the role of transcription factors in gene regulation?","- **Definition/Overview:** Transcription factors are proteins that bind to DNA to regulate gene transcription. 
+- **Logical Flow:** 
+  - They can activate or repress transcription by binding to promoter or enhancer regions. 
+  - Examples include TATA-binding protein (TBP) and hormone receptors. 
+- **Example/Analogy:** Transcription factors are like switches that turn genes on or off, controlling when and where they are expressed. 
+- **Clear and Concise:** Transcription factors regulate gene expression by binding to DNA and controlling transcription."
+"Can you explain how techniques like Western Blotting or ELISA work?","- **Definition/Overview:** Western blotting detects specific proteins, while ELISA measures the presence of antigens or antibodies. 
+- **Logical Flow:** 
+  - Western blotting involves protein separation by gel electrophoresis, transfer to a membrane, and detection using antibodies. 
+  - ELISA uses enzyme-linked antibodies to produce a color change in the presence of a target molecule. 
+- **Example/Analogy:** Western blotting is like finding a specific person in a crowd using a photo, while ELISA is like using a color-changing test strip to detect a substance. 
+- **Clear and Concise:** Western blotting detects proteins, and ELISA measures antigens/antibodies using enzyme-linked reactions."
+"How does DNA sequencing work? What are its applications?","- **Definition/Overview:** DNA sequencing determines the order of nucleotides in a DNA molecule. 
+- **Logical Flow:** 
+  - Sanger sequencing uses chain-terminating dideoxynucleotides, while next-generation sequencing (NGS) uses high-throughput methods. 
+  - Applications include genetic research, diagnostics, and personalized medicine. 
+- **Example/Analogy:** DNA sequencing is like reading a book letter by letter to understand its content. 
+- **Clear and Concise:** DNA sequencing determines nucleotide order, with applications in research, diagnostics, and medicine."
+"What is chromatography and how is it used in biochemical research?","- **Definition/Overview:** Chromatography separates mixtures based on differences in their components' affinity for a stationary and mobile phase. 
+- **Logical Flow:** 
+  - Types include gas chromatography (GC), liquid chromatography (LC), and affinity chromatography. 
+  - Used to purify proteins, analyze compounds, and study biochemical interactions. 
+- **Example/Analogy:** Chromatography is like sorting marbles by size using a sieve: different components separate based on their properties. 
+- **Clear and Concise:** Chromatography separates mixtures for analysis or purification in biochemical research."
+"Explain how molecular cloning is done and its significance.","- **Definition/Overview:** Molecular cloning involves inserting a DNA fragment into a vector to replicate it in a host organism. 
+- **Logical Flow:** 
+  - Steps include DNA extraction, restriction enzyme digestion, ligation into a vector, and transformation into a host (e.g., bacteria). 
+  - Used for gene expression studies, protein production, and genetic engineering. 
+- **Example/Analogy:** Molecular cloning is like copying a chapter from one book into another to study or reproduce it. 
+- **Clear and Concise:** Molecular cloning replicates DNA fragments for research, protein production, and genetic engineering."
+Question,Answer
+"What are the main differences between passive and active transport?","- **Definition/Overview:** Passive transport moves molecules across membranes without energy, while active transport requires energy. 
+- **Logical Flow:** 
+  - Passive transport includes diffusion and osmosis, driven by concentration gradients. 
+  - Active transport uses ATP to move molecules against their gradient, often via pumps (e.g., Na+/K+ ATPase). 
+- **Example/Analogy:** Passive transport is like rolling a ball downhill, while active transport is like pushing a ball uphill with effort. 
+- **Clear and Concise:** Passive transport moves molecules with the gradient; active transport moves them against the gradient using energy."
+"Explain the process of signal transduction.","- **Definition/Overview:** Signal transduction is the process by which cells respond to external signals through a series of molecular events. 
+- **Logical Flow:** 
+  - A signaling molecule (ligand) binds to a receptor on the cell surface. 
+  - This triggers a cascade of intracellular events, often involving second messengers (e.g., cAMP, Ca2+). 
+  - The signal ultimately leads to a cellular response (e.g., gene expression, enzyme activation). 
+- **Example/Analogy:** Signal transduction is like a relay race: the signal is passed from one runner (molecule) to the next until it reaches the finish line (cellular response). 
+- **Clear and Concise:** Signal transduction converts extracellular signals into cellular responses through a series of molecular events."
+"What are the various stages of the cell cycle and their regulation?","- **Definition/Overview:** The cell cycle consists of interphase (G1, S, G2) and mitosis (M phase), regulated by cyclins and cyclin-dependent kinases (CDKs). 
+- **Logical Flow:** 
+  - G1: Cell growth and preparation for DNA replication. 
+  - S: DNA synthesis. 
+  - G2: Preparation for mitosis. 
+  - M: Cell division (mitosis and cytokinesis). 
+  - Checkpoints ensure proper progression (e.g., G1/S, G2/M). 
+- **Example/Analogy:** The cell cycle is like a factory production line, with quality checks at each stage to ensure everything runs smoothly. 
+- **Clear and Concise:** The cell cycle includes interphase and mitosis, regulated by cyclins, CDKs, and checkpoints."
+"How are natural products used in drug design and pharmaceutical development?","- **Definition/Overview:** Natural products are compounds derived from plants, microbes, or animals, often used as drugs or drug leads. 
+- **Logical Flow:** 
+  - Many drugs (e.g., aspirin, penicillin) are derived from natural sources. 
+  - Natural products are screened for bioactivity, modified to improve efficacy, and tested for safety. 
+  - They serve as inspiration for synthetic drug development. 
+- **Example/Analogy:** Natural products are like a treasure chest of potential medicines, waiting to be discovered and refined. 
+- **Clear and Concise:** Natural products are used as drugs or templates for drug development due to their bioactive properties."
+"What is the biochemical mechanism behind enzyme inhibition by natural products?","- **Definition/Overview:** Natural products can inhibit enzymes by binding to their active sites or allosteric sites, disrupting function. 
+- **Logical Flow:** 
+  - Competitive inhibition: The natural product competes with the substrate for the active site. 
+  - Non-competitive inhibition: The natural product binds elsewhere, altering the enzyme's shape and function. 
+  - Examples include statins (cholesterol-lowering drugs) and protease inhibitors. 
+- **Example/Analogy:** Enzyme inhibition by natural products is like putting a lock on a keyhole (active site) or bending the key (allosteric site) to prevent it from working. 
+- **Clear and Concise:** Natural products inhibit enzymes by binding to active or allosteric sites, blocking their function."
+Question,Answer
+"How can the principles of biochemistry and molecular biology be applied in biotechnology and medicine?","- **Definition/Overview:** Biochemistry and molecular biology provide the foundation for advancements in biotechnology and medicine. 
+- **Logical Flow:** 
+  - Biotechnology: Genetic engineering, recombinant protein production (e.g., insulin), and CRISPR-based gene editing. 
+  - Medicine: Development of drugs, vaccines, and diagnostic tools (e.g., PCR for disease detection). 
+- **Example/Analogy:** Biochemistry and molecular biology are like the tools and blueprints used to build and repair the machinery of life. 
+- **Clear and Concise:** These principles enable genetic engineering, drug development, and disease diagnostics in biotechnology and medicine."
+"Can you explain the concept of gene therapy and its potential applications?","- **Definition/Overview:** Gene therapy involves introducing, removing, or altering genetic material to treat or prevent disease. 
+- **Logical Flow:** 
+  - Techniques include viral vectors (e.g., adenoviruses) and CRISPR-Cas9 for precise gene editing. 
+  - Applications: Treating genetic disorders (e.g., cystic fibrosis), cancer, and infectious diseases. 
+- **Example/Analogy:** Gene therapy is like fixing a typo in a book to correct a story or adding a new chapter to improve it. 
+- **Clear and Concise:** Gene therapy uses genetic modification to treat diseases, with applications in genetic disorders, cancer, and infections."
+"What is personalized medicine and how is molecular biology related to it?","- **Definition/Overview:** Personalized medicine tailors treatments based on an individual’s genetic, environmental, and lifestyle factors. 
+- **Logical Flow:** 
+  - Molecular biology tools (e.g., genomics, proteomics) identify biomarkers for disease risk and drug response. 
+  - Applications: Targeted cancer therapies, pharmacogenomics (e.g., warfarin dosing based on genetics). 
+- **Example/Analogy:** Personalized medicine is like a custom-tailored suit, designed to fit an individual’s unique needs. 
+- **Clear and Concise:** Personalized medicine uses molecular biology to customize treatments based on individual genetic profiles."
+"Can you design an experiment to test the activity of an enzyme?","- **Definition/Overview:** Enzyme activity can be tested by measuring the rate of substrate conversion to product. 
+- **Logical Flow:** 
+  - Prepare a reaction mixture with the enzyme, substrate, and buffer. 
+  - Measure product formation over time using spectrophotometry or chromatography. 
+  - Control variables: pH, temperature, and substrate concentration. 
+- **Example/Analogy:** Testing enzyme activity is like timing how fast a factory worker (enzyme) assembles products (substrates) under different conditions. 
+- **Clear and Concise:** Enzyme activity is tested by measuring product formation under controlled conditions."
+"How do you ensure accuracy and reliability in molecular biology experiments?","- **Definition/Overview:** Accuracy and reliability are ensured through proper controls, replication, and validation. 
+- **Logical Flow:** 
+  - Use positive and negative controls to verify results. 
+  - Repeat experiments to ensure reproducibility. 
+  - Validate findings using independent methods (e.g., Western blot after PCR). 
+- **Example/Analogy:** Ensuring accuracy is like double-checking a recipe: taste-testing (controls), repeating the dish (replication), and using a different cookbook (validation). 
+- **Clear and Concise:** Accuracy is ensured through controls, replication, and validation in experiments."
+"What statistical methods would you use to analyze your data?","- **Definition/Overview:** Statistical methods help interpret experimental data and determine significance. 
+- **Logical Flow:** 
+  - Descriptive statistics: Mean, median, standard deviation. 
+  - Inferential statistics: t-tests, ANOVA, regression analysis. 
+  - Use software like Excel, SPSS, or R for analysis. 
+- **Example/Analogy:** Statistical analysis is like using a magnifying glass to spot patterns and differences in your data. 
+- **Clear and Concise:** Data is analyzed using descriptive and inferential statistics to determine significance."
+"What are the current advancements in genomics and proteomics?","- **Definition/Overview:** Genomics studies entire genomes, while proteomics analyzes the complete set of proteins in a cell. 
+- **Logical Flow:** 
+  - Genomics: Next-generation sequencing (NGS), single-cell genomics, and epigenomics. 
+  - Proteomics: Mass spectrometry, protein-protein interaction networks, and post-translational modification analysis. 
+- **Example/Analogy:** Genomics and proteomics are like mapping the entire library (genome) and studying every book (protein) in detail. 
+- **Clear and Concise:** Advancements include NGS, single-cell genomics, mass spectrometry, and protein interaction studies."
+"How do you think CRISPR-Cas9 will impact research and therapy in the future?","- **Definition/Overview:** CRISPR-Cas9 is a revolutionary gene-editing tool with wide-ranging applications. 
+- **Logical Flow:** 
+  - Research: Faster and more precise genetic modifications in model organisms. 
+  - Therapy: Potential to cure genetic disorders (e.g., sickle cell anemia), treat cancers, and combat infectious diseases. 
+- **Example/Analogy:** CRISPR-Cas9 is like a molecular scalpel, allowing precise edits to the genetic code. 
+- **Clear and Concise:** CRISPR-Cas9 will revolutionize research and therapy by enabling precise gene editing."
