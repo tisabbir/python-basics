@@ -1,0 +1,683 @@
+Question,Answer
+"What is Molecular Biology, and what is its scope?","- Molecular Biology: 
+  - The study of biological processes at the molecular level, focusing on DNA, RNA, and protein synthesis. 
+- Scope: 
+  - Understanding gene expression, regulation, and replication. 
+  - Applications in biotechnology, medicine, and genetic engineering."
+"What is the historical background of Molecular Biology?","- Historical background: 
+  - 1869: Friedrich Miescher discovered DNA. 
+  - 1944: Avery, MacLeod, and McCarty proved DNA as the genetic material. 
+  - 1953: Watson and Crick proposed the double-helix model of DNA. 
+  - 1961: Jacob and Monod proposed the operon model of gene regulation."
+"What is the evidence that DNA is the genetic material?","- Evidence: 
+  - Griffith’s experiment (1928): Showed transformation in bacteria. 
+  - Avery, MacLeod, and McCarty (1944): Identified DNA as the transforming principle. 
+  - Hershey-Chase experiment (1952): Confirmed DNA as the genetic material using bacteriophages."
+"What is the interrelationship of Molecular Biology with other disciplines?","- Interrelationship: 
+  - Biochemistry: Studies chemical processes in living organisms. 
+  - Genetics: Focuses on heredity and variation. 
+  - Biotechnology: Applies molecular techniques for industrial and medical purposes. 
+  - Bioinformatics: Uses computational tools to analyze biological data."
+"What is the Central Dogma of Molecular Biology?","- Central Dogma: 
+  - Describes the flow of genetic information: DNA → RNA → Protein. 
+  - Steps: 
+    - DNA replication: DNA makes a copy of itself. 
+    - Transcription: DNA is transcribed into RNA. 
+    - Translation: RNA is translated into proteins."
+"What are nucleic acids, and where do they occur?","- Nucleic acids: 
+  - Biomolecules that store and transmit genetic information. 
+  - Occurrence: 
+    - DNA: Found in the nucleus, mitochondria, and chloroplasts. 
+    - RNA: Found in the nucleus, cytoplasm, and ribosomes."
+"What are the functions of nucleic acids?","- Functions: 
+  - DNA: Stores genetic information and directs protein synthesis. 
+  - RNA: Transfers genetic information (mRNA), transports amino acids (tRNA), and forms ribosomes (rRNA)."
+"What are the components of nucleic acids?","- Components: 
+  - Nitrogenous bases: Purines (adenine, guanine) and pyrimidines (cytosine, thymine, uracil). 
+  - Sugar: Ribose (in RNA) or deoxyribose (in DNA). 
+  - Phosphate group: Forms the backbone of the nucleic acid chain."
+"How are nucleic acids isolated and purified?","- Isolation and purification: 
+  - Cell lysis: Breaking cells to release nucleic acids. 
+  - Phenol-chloroform extraction: Separates nucleic acids from proteins. 
+  - Ethanol precipitation: Concentrates nucleic acids. 
+  - Column purification: Removes impurities using silica-based columns."
+"How is the molecular weight of nucleic acids determined?","- Molecular weight determination: 
+  - Gel electrophoresis: Separates nucleic acids by size and estimates molecular weight using a DNA ladder. 
+  - UV spectrophotometry: Measures absorbance at 260 nm to estimate concentration and purity. 
+  - Mass spectrometry: Provides precise molecular weight measurements."
+"What is the significance of the double-helix structure of DNA?","- Double-helix structure: 
+  - Proposed by Watson and Crick in 1953. 
+  - Features: 
+    - Two antiparallel strands with complementary base pairing (A-T, C-G). 
+    - Major and minor grooves for protein binding. 
+  - Significance: 
+    - Explains DNA replication and information storage."
+"What is the role of RNA in protein synthesis?","- RNA roles: 
+  - mRNA: Carries genetic information from DNA to ribosomes. 
+  - tRNA: Transfers amino acids to the ribosome during translation. 
+  - rRNA: Forms the core of ribosomes and catalyzes peptide bond formation."
+"What are the differences between DNA and RNA?","- DNA: 
+  - Double-stranded, contains deoxyribose sugar, and thymine (T). 
+  - Stores genetic information. 
+- RNA: 
+  - Single-stranded, contains ribose sugar, and uracil (U). 
+  - Involved in protein synthesis and gene regulation."
+"What is the importance of nucleic acids in heredity?","- Nucleic acids: 
+  - Store and transmit genetic information. 
+  - DNA is replicated and passed to daughter cells during cell division. 
+  - RNA translates genetic information into proteins."
+"What are the applications of nucleic acid research?","- Applications: 
+  - Genetic engineering: Recombinant DNA technology. 
+  - Medical diagnostics: PCR, DNA sequencing. 
+  - Forensic science: DNA fingerprinting. 
+  - Biotechnology: Production of recombinant proteins and vaccines."
+"What is the role of nucleic acids in evolution?","- Nucleic acids: 
+  - Carry genetic variations that drive evolution. 
+  - Mutations in DNA lead to genetic diversity. 
+  - RNA viruses (e.g., HIV) evolve rapidly due to high mutation rates."
+"What is the future prospect of Molecular Biology?","- Future prospects: 
+  - Advances in gene editing (e.g., CRISPR-Cas9). 
+  - Personalized medicine based on genetic profiles. 
+  - Synthetic biology: Designing and constructing new biological systems. 
+  - Understanding complex diseases at the molecular level."
+Question,Answer
+"What is the significance of the Hershey-Chase experiment?","- Hershey-Chase experiment (1952): 
+  - Used bacteriophages to confirm DNA as the genetic material. 
+  - Labeled DNA with radioactive phosphorus (32P) and protein with radioactive sulfur (35S). 
+  - Found that only 32P entered bacterial cells, proving DNA carries genetic information."
+"What is the role of DNA polymerase in DNA replication?","- DNA polymerase: 
+  - Synthesizes new DNA strands by adding nucleotides to the 3' end of a growing strand. 
+  - Requires a primer to start synthesis. 
+  - Proofreads and corrects errors during replication."
+"What is the function of RNA polymerase in transcription?","- RNA polymerase: 
+  - Synthesizes RNA from a DNA template during transcription. 
+  - Types: 
+    - Prokaryotes: Single RNA polymerase. 
+    - Eukaryotes: RNA polymerase I, II, and III for different RNA types."
+"What is the importance of the genetic code?","- Genetic code: 
+  - A set of rules by which DNA and RNA sequences are translated into proteins. 
+  - Features: 
+    - Universal: Same in almost all organisms. 
+    - Redundant: Multiple codons can code for the same amino acid. 
+    - Non-overlapping: Each nucleotide is part of only one codon."
+"What is the role of ribosomes in protein synthesis?","- Ribosomes: 
+  - Cellular machinery that synthesizes proteins during translation. 
+  - Composed of rRNA and proteins. 
+  - Have two subunits (large and small) that assemble on mRNA to translate it into a polypeptide chain."
+"What is the difference between prokaryotic and eukaryotic transcription?","- Prokaryotic transcription: 
+  - Occurs in the cytoplasm. 
+  - Single RNA polymerase synthesizes all RNA types. 
+  - Transcription and translation occur simultaneously. 
+- Eukaryotic transcription: 
+  - Occurs in the nucleus. 
+  - Three RNA polymerases (I, II, III) synthesize different RNA types. 
+  - Transcription and translation are separated in time and space."
+"What is the significance of post-transcriptional modifications in eukaryotes?","- Post-transcriptional modifications: 
+  - 5' capping: Adds a methylated guanine cap to mRNA for stability and translation initiation. 
+  - 3' polyadenylation: Adds a poly-A tail for stability and export from the nucleus. 
+  - Splicing: Removes introns and joins exons to produce mature mRNA."
+"What is the role of tRNA in translation?","- tRNA: 
+  - Transfers amino acids to the ribosome during translation. 
+  - Contains an anticodon that pairs with the mRNA codon. 
+  - Ensures the correct amino acid is added to the growing polypeptide chain."
+"What is the difference between exons and introns?","- Exons: 
+  - Coding regions of a gene that are expressed in the final protein. 
+- Introns: 
+  - Non-coding regions of a gene that are removed during RNA splicing. 
+- Significance: 
+  - Introns allow for alternative splicing, increasing protein diversity."
+"What is the role of telomeres in DNA replication?","- Telomeres: 
+  - Repetitive DNA sequences at the ends of chromosomes. 
+  - Protect chromosomes from degradation and fusion. 
+  - Shorten with each cell division, contributing to aging. 
+  - Telomerase enzyme extends telomeres in germ and stem cells."
+"What is the significance of the operon model in gene regulation?","- Operon model: 
+  - Proposed by Jacob and Monod in 1961. 
+  - Describes gene regulation in prokaryotes (e.g., lac operon). 
+  - Includes structural genes, an operator, and a promoter. 
+  - Regulated by repressor proteins and inducers."
+"What is the role of restriction enzymes in molecular biology?","- Restriction enzymes: 
+  - Cut DNA at specific recognition sequences. 
+  - Used in recombinant DNA technology to create DNA fragments for cloning. 
+  - Example: EcoRI cuts at GAATTC."
+"What is the importance of gel electrophoresis in nucleic acid analysis?","- Gel electrophoresis: 
+  - Separates nucleic acids by size using an electric field. 
+  - Agarose gel: Used for larger DNA fragments. 
+  - Polyacrylamide gel: Used for smaller DNA or RNA fragments. 
+  - Applications: DNA fingerprinting, PCR product analysis."
+"What is the role of PCR in molecular biology?","- PCR (Polymerase Chain Reaction): 
+  - Amplifies specific DNA sequences exponentially. 
+  - Steps: Denaturation, annealing, and extension. 
+  - Applications: DNA cloning, diagnostics, forensic analysis."
+"What is the significance of DNA sequencing?","- DNA sequencing: 
+  - Determines the order of nucleotides in a DNA molecule. 
+  - Methods: Sanger sequencing, next-generation sequencing (NGS). 
+  - Applications: Genome analysis, mutation detection, personalized medicine."
+"What is the role of chromatin in gene regulation?","- Chromatin: 
+  - DNA wrapped around histone proteins to form nucleosomes. 
+  - Regulates gene expression by controlling access to DNA. 
+  - Modifications (e.g., acetylation, methylation) influence chromatin structure and gene activity."
+"What is the importance of epigenetics in molecular biology?","- Epigenetics: 
+  - Study of heritable changes in gene expression without altering DNA sequence. 
+  - Mechanisms: DNA methylation, histone modification, non-coding RNAs. 
+  - Role: Regulates development, aging, and disease."
+"What is the role of CRISPR-Cas9 in genome editing?","- CRISPR-Cas9: 
+  - A gene-editing tool that uses a guide RNA to target specific DNA sequences. 
+  - Cas9 enzyme introduces double-strand breaks, enabling gene knockout or insertion. 
+  - Applications: Gene therapy, functional genomics, agriculture."
+"What is the significance of molecular cloning?","- Molecular cloning: 
+  - The process of inserting a DNA fragment into a vector for replication in a host organism. 
+  - Steps: DNA extraction, restriction digestion, ligation, transformation. 
+  - Applications: Gene expression studies, protein production, genetic engineering."
+
+  Question,Answer
+"What are the chemical agents that cause DNA damage?","- Chemical agents: 
+  - Alkylating agents: Add alkyl groups to DNA bases (e.g., methyl methanesulfonate). 
+  - Oxidizing agents: Produce reactive oxygen species (e.g., hydrogen peroxide). 
+  - Intercalating agents: Insert between DNA bases (e.g., ethidium bromide). 
+  - Base analogs: Mimic normal bases and cause mispairing (e.g., 5-bromouracil)."
+"What is deamination, and how does it affect DNA?","- Deamination: 
+  - The removal of an amino group from a DNA base. 
+  - Examples: 
+    - Cytosine deaminates to uracil. 
+    - Adenine deaminates to hypoxanthine. 
+  - Effects: Causes mutations by altering base pairing (e.g., C-G → U-A)."
+"What is depurination, and how does it affect DNA?","- Depurination: 
+  - The loss of a purine base (adenine or guanine) from DNA. 
+  - Occurs spontaneously due to hydrolysis. 
+  - Effects: Creates apurinic sites, leading to mutations during DNA replication."
+"How does UV light cause DNA damage?","- UV light: 
+  - Induces the formation of pyrimidine dimers (e.g., thymine dimers). 
+  - Mechanism: Covalent bonds form between adjacent pyrimidines, distorting the DNA helix. 
+  - Effects: Blocks replication and transcription, leading to mutations or cell death."
+"What are the physicochemical properties of DNA?","- Physicochemical properties: 
+  - Absorbs UV light at 260 nm due to aromatic bases. 
+  - Negatively charged due to phosphate groups. 
+  - Soluble in water due to the hydrophilic sugar-phosphate backbone. 
+  - Can denature (melt) at high temperatures or extreme pH."
+"What is the Tm value of DNA, and what factors affect it?","- Tm (melting temperature): 
+  - The temperature at which 50% of the DNA is denatured. 
+  - Factors affecting Tm: 
+    - GC content: Higher GC content increases Tm (3 hydrogen bonds vs. 2 in AT). 
+    - Salt concentration: Higher salt increases Tm by stabilizing the DNA helix."
+"What are Cot values, and what do they indicate?","- Cot values: 
+  - A measure of DNA renaturation kinetics, representing the product of DNA concentration (Co) and time (t). 
+  - Indicates sequence complexity: 
+    - Low Cot: Simple, repetitive sequences renature quickly. 
+    - High Cot: Complex, unique sequences renature slowly."
+"What is DNA hybridization, and how is it used?","- DNA hybridization: 
+  - The pairing of complementary DNA strands to form a double helix. 
+  - Applications: 
+    - Southern blotting: Detects specific DNA sequences. 
+    - DNA microarrays: Analyzes gene expression. 
+    - PCR: Amplifies specific DNA sequences."
+"What are the different conformations of DNA?","- DNA conformations: 
+  - B-DNA: The most common, right-handed helix with 10.5 base pairs per turn. 
+  - A-DNA: Shorter and wider, found in dehydrated conditions. 
+  - Z-DNA: Left-handed helix with a zigzag backbone, found in high salt conditions."
+"What is DNA-DNA and DNA-RNA hybridization?","- DNA-DNA hybridization: 
+  - Pairing of complementary DNA strands to form a double helix. 
+- DNA-RNA hybridization: 
+  - Pairing of a DNA strand with a complementary RNA strand. 
+  - Applications: Northern blotting (detects RNA), reverse transcription (synthesizes cDNA)."
+"What is sequence complexity in DNA?","- Sequence complexity: 
+  - Refers to the diversity and uniqueness of DNA sequences. 
+  - Types: 
+    - Unique sequences: Single-copy genes. 
+    - Repetitive sequences: Tandem repeats, interspersed repeats. 
+  - Significance: Affects renaturation kinetics and genome organization."
+"What are tandem and palindromic sequences?","- Tandem sequences: 
+  - Repeated sequences arranged consecutively (e.g., satellite DNA). 
+- Palindromic sequences: 
+  - Sequences that read the same forward and backward (e.g., GAATTC). 
+  - Significance: Often recognized by restriction enzymes."
+"What is a cruciform structure in DNA?","- Cruciform structure: 
+  - A secondary structure formed by palindromic sequences. 
+  - Resembles a cross with hairpin loops. 
+  - Significance: May play a role in gene regulation and recombination."
+"What is the size of a DNA molecule, and how is it measured?","- DNA size: 
+  - Measured in base pairs (bp), kilobase pairs (kb), or megabase pairs (Mb). 
+  - Methods: 
+    - Gel electrophoresis: Separates DNA fragments by size. 
+    - Pulsed-field gel electrophoresis: Separates large DNA molecules. 
+    - Sequencing: Determines the exact size and sequence."
+"What is DNA denaturation, and what causes it?","- DNA denaturation: 
+  - The separation of double-stranded DNA into single strands. 
+  - Causes: 
+    - High temperature (melting). 
+    - Extreme pH. 
+    - Chemicals (e.g., urea, formamide). 
+  - Effects: Loss of biological function."
+"What are DNA chips, and how are they used?","- DNA chips (microarrays): 
+  - Small solid surfaces with thousands of DNA probes attached. 
+  - Applications: 
+    - Gene expression analysis: Measures mRNA levels. 
+    - Genotyping: Detects mutations or polymorphisms. 
+    - Comparative genomic hybridization: Identifies copy number variations."
+Question,Answer
+"What is the primary structure of RNA?","- Primary structure: 
+  - The linear sequence of nucleotides in an RNA molecule. 
+  - Composed of ribose sugar, phosphate groups, and nitrogenous bases (A, U, C, G). 
+  - Example: The sequence of mRNA determines the amino acid sequence in proteins."
+"What is the secondary structure of RNA?","- Secondary structure: 
+  - Local folding of RNA into structures like hairpins, loops, and stems. 
+  - Stabilized by hydrogen bonds between complementary bases (A-U, C-G). 
+  - Example: tRNA forms a cloverleaf structure with anticodon and acceptor arms."
+"What is the tertiary structure of RNA?","- Tertiary structure: 
+  - The 3D folding of RNA stabilized by interactions between secondary structures. 
+  - Involves base stacking, hydrogen bonding, and metal ion interactions. 
+  - Example: The L-shaped structure of tRNA."
+"What are the functional roles of RNA sequences?","- Functional roles: 
+  - mRNA: Carries genetic information from DNA to ribosomes. 
+  - tRNA: Transfers amino acids to the ribosome during translation. 
+  - rRNA: Forms the core of ribosomes and catalyzes peptide bond formation. 
+  - Regulatory RNAs: Control gene expression (e.g., miRNA, siRNA)."
+"What is the structure of eukaryotic ribosomes?","- Eukaryotic ribosomes: 
+  - Composed of two subunits: 40S (small) and 60S (large), forming an 80S ribosome. 
+  - Contains rRNA (28S, 18S, 5.8S, 5S) and ribosomal proteins. 
+  - Location: Cytoplasm and rough endoplasmic reticulum."
+"What are the functional sites of the ribosome?","- Functional sites: 
+  - A site (aminoacyl site): Binds incoming tRNA with amino acids. 
+  - P site (peptidyl site): Holds tRNA carrying the growing polypeptide chain. 
+  - E site (exit site): Releases tRNA after peptide bond formation. 
+  - Peptidyl transferase center: Catalyzes peptide bond formation."
+"What is the role of protein-tRNA interaction in translation?","- Protein-tRNA interaction: 
+  - Ensures the correct amino acid is added to the growing polypeptide chain. 
+  - Aminoacyl-tRNA synthetases attach amino acids to tRNA. 
+  - Ribosome verifies codon-anticodon pairing during translation."
+"What is the role of protein-RNA interaction in ribosomes?","- Protein-RNA interaction: 
+  - Stabilizes the ribosome structure and facilitates its function. 
+  - Ribosomal proteins bind to rRNA to form functional ribosomes. 
+  - Example: Ribosomal proteins help position tRNA and mRNA during translation."
+"What is the genetics of ribosomal RNA?","- Genetics of rRNA: 
+  - rRNA genes are present in multiple copies in the genome (rDNA). 
+  - In eukaryotes, rRNA genes are located in the nucleolus. 
+  - Transcribed by RNA polymerase I (18S, 5.8S, 28S) and III (5S)."
+"How is the synthesis of ribosomes regulated?","- Regulation of ribosome synthesis: 
+  - Controlled by nutrient availability and growth signals. 
+  - Key regulators: mTOR pathway, transcription factors (e.g., TIF-IA). 
+  - rRNA transcription is coordinated with ribosomal protein synthesis."
+"What is the role of rRNA in ribosome function?","- rRNA: 
+  - Forms the structural and catalytic core of ribosomes. 
+  - 28S rRNA in the large subunit catalyzes peptide bond formation. 
+  - 18S rRNA in the small subunit ensures proper mRNA-tRNA alignment."
+"What are the differences between prokaryotic and eukaryotic ribosomes?","- Prokaryotic ribosomes: 
+  - 70S ribosomes (50S and 30S subunits). 
+  - Contain 16S, 23S, and 5S rRNA. 
+- Eukaryotic ribosomes: 
+  - 80S ribosomes (60S and 40S subunits). 
+  - Contain 28S, 18S, 5.8S, and 5S rRNA."
+"What is the role of the nucleolus in ribosome synthesis?","- Nucleolus: 
+  - Site of rRNA transcription, processing, and ribosome assembly. 
+  - Contains rDNA repeats and ribosomal proteins. 
+  - Coordinates the synthesis of rRNA and ribosomal proteins."
+"What is the significance of ribosome biogenesis?","- Ribosome biogenesis: 
+  - Essential for cell growth and protein synthesis. 
+  - Involves transcription, processing, and assembly of rRNA and ribosomal proteins. 
+  - Dysregulation is linked to diseases like cancer (ribosomopathies)."
+"What is the role of tRNA in translation?","- tRNA: 
+  - Transfers amino acids to the ribosome during translation. 
+  - Contains an anticodon that pairs with the mRNA codon. 
+  - Ensures the correct amino acid is added to the growing polypeptide chain."
+"What is the role of mRNA in translation?","- mRNA: 
+  - Carries genetic information from DNA to ribosomes. 
+  - Acts as a template for protein synthesis during translation. 
+  - Contains codons that specify the sequence of amino acids in a protein."
+"What is the role of rRNA in translation?","- rRNA: 
+  - Forms the structural and catalytic core of ribosomes. 
+  - Catalyzes peptide bond formation during translation. 
+  - Ensures proper alignment of mRNA and tRNA."
+Question,Answer
+"What are genomes and chromosomes?","- Genome: 
+  - The complete set of genetic material in an organism. 
+- Chromosomes: 
+  - Structures that organize and package DNA into a compact form. 
+  - In eukaryotes, chromosomes are linear and located in the nucleus. 
+  - In prokaryotes, chromosomes are circular and located in the nucleoid."
+"How is DNA packaged into nucleosomes?","- Nucleosomes: 
+  - The basic unit of DNA packaging in eukaryotes. 
+  - Structure: DNA wrapped around a histone octamer (2 copies each of H2A, H2B, H3, H4). 
+  - Linker DNA connects nucleosomes, forming a 'beads-on-a-string' structure."
+"What is the constitution of the eukaryotic genome?","- Eukaryotic genome: 
+  - Composed of coding (exons) and non-coding (introns, regulatory regions) DNA. 
+  - Contains repetitive sequences (e.g., satellite DNA, transposable elements). 
+  - Organized into chromosomes with telomeres and centromeres."
+"What are interrupted genes, and how are they organized?","- Interrupted genes: 
+  - Genes containing introns (non-coding regions) and exons (coding regions). 
+  - Organization: 
+    - Introns are removed during RNA splicing to produce mature mRNA. 
+    - Exons are joined to form the final protein-coding sequence."
+"What are structural gene families?","- Structural gene families: 
+  - Groups of genes with similar sequences and functions. 
+  - Examples: 
+    - Globin gene family (e.g., alpha-globin, beta-globin). 
+    - Histone gene family (e.g., H2A, H2B, H3, H4). 
+  - Significance: Provides redundancy and functional diversity."
+"What are the genomes of organelles?","- Organelle genomes: 
+  - Mitochondria and chloroplasts have their own DNA. 
+  - Mitochondrial DNA (mtDNA): Circular, encodes proteins for oxidative phosphorylation. 
+  - Chloroplast DNA (cpDNA): Circular, encodes proteins for photosynthesis. 
+  - Inherited maternally in most eukaryotes."
+"What is the chemical method of DNA sequencing?","- Chemical method (Maxam-Gilbert sequencing): 
+  - Uses chemicals to cleave DNA at specific bases. 
+  - Steps: Label DNA, chemically cleave, separate fragments by gel electrophoresis. 
+  - Limitations: Requires radioactive labeling and is less commonly used today."
+"What is the enzymatic method of DNA sequencing?","- Enzymatic method (Sanger sequencing): 
+  - Uses DNA polymerase to synthesize DNA with chain-terminating dideoxynucleotides (ddNTPs). 
+  - Steps: Primer extension, gel electrophoresis, and fragment analysis. 
+  - Significance: First-generation sequencing method, widely used for small-scale projects."
+"What is the polymerase chain reaction (PCR) method of sequencing?","- PCR-based sequencing: 
+  - Amplifies DNA fragments before sequencing. 
+  - Combines PCR with Sanger sequencing or next-generation sequencing (NGS). 
+  - Applications: Genome sequencing, mutation detection, and forensic analysis."
+"What are next-generation sequencing (NGS) methods?","- NGS methods: 
+  - High-throughput sequencing technologies that parallelize the sequencing process. 
+  - Examples: 
+    - Illumina sequencing: Uses reversible dye-terminators. 
+    - Pyrosequencing: Detects pyrophosphate release during nucleotide incorporation. 
+    - Nanopore sequencing: Measures changes in electrical current as DNA passes through a nanopore."
+"What are the advantages of next-generation sequencing?","- Advantages: 
+  - High speed: Sequences millions of fragments simultaneously. 
+  - Low cost: Reduced cost per base compared to Sanger sequencing. 
+  - Applications: Whole-genome sequencing, transcriptomics, epigenomics."
+"What is the role of chromatin in DNA packaging?","- Chromatin: 
+  - DNA wrapped around histone proteins to form nucleosomes. 
+  - Further condensed into higher-order structures (e.g., 30-nm fiber, chromosomes). 
+  - Regulates gene expression by controlling access to DNA."
+"What is the significance of histone modifications in chromatin?","- Histone modifications: 
+  - Chemical changes (e.g., acetylation, methylation) to histone proteins. 
+  - Regulate chromatin structure and gene expression. 
+  - Example: Acetylation of histones loosens chromatin, promoting transcription."
+"What is the role of telomeres in chromosome stability?","- Telomeres: 
+  - Repetitive DNA sequences at the ends of chromosomes. 
+  - Protect chromosomes from degradation and fusion. 
+  - Shorten with each cell division, contributing to aging. 
+  - Telomerase enzyme extends telomeres in germ and stem cells."
+"What is the role of centromeres in chromosome segregation?","- Centromeres: 
+  - Specialized regions of chromosomes that attach to spindle fibers during cell division. 
+  - Ensure proper segregation of chromosomes to daughter cells. 
+  - Composed of repetitive DNA sequences and associated proteins."
+"What is the significance of repetitive DNA in genomes?","- Repetitive DNA: 
+  - Sequences repeated multiple times in the genome. 
+  - Types: 
+    - Tandem repeats (e.g., satellite DNA, microsatellites). 
+    - Interspersed repeats (e.g., transposable elements). 
+  - Functions: Structural roles, genome stability, and evolution."
+"What is the role of transposable elements in genomes?","- Transposable elements: 
+  - DNA sequences that can move within the genome. 
+  - Types: 
+    - DNA transposons: 'Cut-and-paste' mechanism. 
+    - Retrotransposons: 'Copy-and-paste' mechanism via RNA intermediates. 
+  - Significance: Drive genome evolution and contribute to genetic diversity."
+  Question,Answer
+"What are the fundamental rules of DNA replication?","- Fundamental rules: 
+  - Semiconservative: Each new DNA molecule consists of one old and one new strand. 
+  - Bidirectional: Replication proceeds in both directions from the origin. 
+  - Requires a primer: DNA polymerase needs a short RNA primer to start synthesis. 
+  - High fidelity: DNA polymerase proofreads and corrects errors."
+"What is the mode of DNA replication?","- Mode of replication: 
+  - Semiconservative: Each daughter DNA molecule contains one parental and one new strand. 
+  - Bidirectional: Replication forks move in opposite directions from the origin. 
+  - Semi-discontinuous: Leading strand is synthesized continuously, lagging strand in Okazaki fragments."
+"What is the process of DNA replication in prokaryotes?","- Prokaryotic replication: 
+  - Initiation: Begins at a single origin (oriC), DnaA protein unwinds DNA. 
+  - Elongation: DNA polymerase III synthesizes new strands, helicase unwinds DNA, primase synthesizes RNA primers. 
+  - Termination: Replication forks meet at the terminus region, Tus protein halts replication."
+"What is the process of DNA replication in eukaryotes?","- Eukaryotic replication: 
+  - Initiation: Begins at multiple origins, ORC (origin recognition complex) binds to origins. 
+  - Elongation: DNA polymerase α, δ, and ε synthesize new strands, helicase unwinds DNA, primase synthesizes RNA primers. 
+  - Termination: Replication forks meet, and telomerase extends telomeres in germ cells."
+"How is DNA synthesis controlled in prokaryotes?","- Control in prokaryotes: 
+  - Regulated by the availability of DnaA protein and the initiation complex. 
+  - Replication is coupled to the cell cycle and nutrient availability. 
+  - Example: In E. coli, replication occurs once per cell cycle."
+"How is DNA synthesis controlled in eukaryotes?","- Control in eukaryotes: 
+  - Regulated by cyclins and cyclin-dependent kinases (CDKs). 
+  - Licensing factors ensure replication occurs only once per cell cycle. 
+  - Checkpoints (e.g., G1/S, G2/M) monitor DNA integrity before replication."
+"What is transcription, and how does it differ in prokaryotes and eukaryotes?","- Transcription: 
+  - The synthesis of RNA from a DNA template. 
+  - Prokaryotes: 
+    - Occurs in the cytoplasm, single RNA polymerase synthesizes all RNA types. 
+  - Eukaryotes: 
+    - Occurs in the nucleus, three RNA polymerases (I, II, III) synthesize different RNA types."
+"What are the roles of RNA polymerases in transcription?","- RNA polymerases: 
+  - Prokaryotes: Single RNA polymerase synthesizes mRNA, tRNA, and rRNA. 
+  - Eukaryotes: 
+    - RNA polymerase I: Synthesizes rRNA. 
+    - RNA polymerase II: Synthesizes mRNA and snRNA. 
+    - RNA polymerase III: Synthesizes tRNA and 5S rRNA."
+"How is transcription regulated in prokaryotes?","- Regulation in prokaryotes: 
+  - Operon model: Genes are organized into operons (e.g., lac operon). 
+  - Repressor proteins bind to operators to block transcription. 
+  - Inducers (e.g., lactose) inactivate repressors, allowing transcription."
+"How is transcription regulated in eukaryotes?","- Regulation in eukaryotes: 
+  - Transcription factors bind to promoters and enhancers to activate or repress transcription. 
+  - Chromatin remodeling: Histone modifications and DNA methylation regulate access to DNA. 
+  - Example: TATA box and transcription factor II D (TFIID) initiate transcription."
+"What are promoters, enhancers, and terminators?","- Promoters: 
+  - DNA sequences where RNA polymerase binds to initiate transcription. 
+  - Example: TATA box in eukaryotes, -10 and -35 sequences in prokaryotes. 
+- Enhancers: 
+  - DNA sequences that increase transcription by binding activator proteins. 
+- Terminators: 
+  - DNA sequences that signal the end of transcription. 
+  - Example: Rho-dependent and Rho-independent terminators in prokaryotes."
+"What is the mechanism of RNA splicing?","- RNA splicing: 
+  - Removal of introns and joining of exons in pre-mRNA. 
+  - Catalyzed by the spliceosome, a complex of snRNAs and proteins. 
+  - Steps: 
+    - Cleavage at the 5' splice site. 
+    - Formation of a lariat structure. 
+    - Cleavage at the 3' splice site and exon ligation."
+"What is RNA processing, and why is it important?","- RNA processing: 
+  - Modifications to pre-mRNA to produce mature mRNA. 
+  - Steps: 
+    - 5' capping: Addition of a methylated guanine cap. 
+    - 3' polyadenylation: Addition of a poly-A tail. 
+    - Splicing: Removal of introns. 
+  - Importance: Ensures stability, export, and translation of mRNA."
+"What is the structure of mRNA, and how does it relate to stability?","- mRNA structure: 
+  - 5' cap: Protects mRNA from degradation and aids in translation initiation. 
+  - 5' UTR and 3' UTR: Untranslated regions that regulate translation and stability. 
+  - Poly-A tail: Protects mRNA from degradation and aids in export from the nucleus. 
+  - Stability: Longer poly-A tails and secondary structures increase mRNA stability."
+"What are post-transcriptional modifications?","- Post-transcriptional modifications: 
+  - 5' capping: Addition of a methylated guanine cap. 
+  - 3' polyadenylation: Addition of a poly-A tail. 
+  - Splicing: Removal of introns and joining of exons. 
+  - RNA editing: Alteration of nucleotide sequences (e.g., A-to-I editing)."
+"What are inhibitors of transcription, and how do they work?","- Inhibitors: 
+  - Actinomycin D: Binds DNA and prevents RNA polymerase from elongating. 
+  - Rifampicin: Binds prokaryotic RNA polymerase, blocking initiation. 
+  - Alpha-amanitin: Inhibits eukaryotic RNA polymerase II. 
+  - Significance: Used as antibiotics and research tools."
+Question,Answer
+"What is the role of helicase in DNA replication?","- Helicase: 
+  - Unwinds the DNA double helix at the replication fork. 
+  - Breaks hydrogen bonds between complementary bases. 
+  - Ensures single-stranded DNA is available for replication."
+"What is the role of single-stranded binding proteins (SSBs) in DNA replication?","- SSBs: 
+  - Bind to single-stranded DNA to prevent re-annealing. 
+  - Protect single-stranded DNA from nucleases. 
+  - Maintain the stability of the replication fork."
+"What is the role of DNA ligase in DNA replication?","- DNA ligase: 
+  - Joins Okazaki fragments on the lagging strand by forming phosphodiester bonds. 
+  - Seals nicks in the DNA backbone. 
+  - Essential for completing DNA synthesis."
+"What is the significance of telomerase in eukaryotic DNA replication?","- Telomerase: 
+  - Adds repetitive DNA sequences (telomeres) to the ends of chromosomes. 
+  - Prevents chromosome shortening during replication. 
+  - Active in germ cells, stem cells, and cancer cells."
+"What is the difference between leading and lagging strands in DNA replication?","- Leading strand: 
+  - Synthesized continuously in the 5' to 3' direction. 
+  - Requires a single RNA primer. 
+- Lagging strand: 
+  - Synthesized discontinuously as Okazaki fragments. 
+  - Requires multiple RNA primers."
+"What is the role of primase in DNA replication?","- Primase: 
+  - Synthesizes short RNA primers complementary to the DNA template. 
+  - Provides a 3' OH group for DNA polymerase to start synthesis. 
+  - Essential for initiating replication on both strands."
+"What is the role of topoisomerases in DNA replication?","- Topoisomerases: 
+  - Relieve torsional stress caused by unwinding DNA. 
+  - Cut and rejoin DNA strands to prevent supercoiling. 
+  - Example: DNA gyrase (a type II topoisomerase) in prokaryotes."
+"What is the difference between prokaryotic and eukaryotic transcription initiation?","- Prokaryotic initiation: 
+  - RNA polymerase binds directly to the promoter (e.g., -10 and -35 sequences). 
+  - Sigma factor helps RNA polymerase recognize the promoter. 
+- Eukaryotic initiation: 
+  - RNA polymerase II requires transcription factors (e.g., TFIID, TFIIH) to bind the promoter (e.g., TATA box). 
+  - More complex regulation involving enhancers and silencers."
+"What is the role of the TATA box in eukaryotic transcription?","- TATA box: 
+  - A DNA sequence (TATAAA) found in many eukaryotic promoters. 
+  - Binds transcription factor II D (TFIID), initiating the assembly of the transcription complex. 
+  - Helps position RNA polymerase II for accurate transcription initiation."
+"What is the role of enhancers in transcription regulation?","- Enhancers: 
+  - DNA sequences that increase transcription by binding activator proteins. 
+  - Can be located far from the promoter and work in a position- and orientation-independent manner. 
+  - Example: Enhancers in the beta-globin gene cluster."
+"What is the role of terminators in transcription?","- Terminators: 
+  - DNA sequences that signal the end of transcription. 
+  - Prokaryotes: 
+    - Rho-dependent: Rho protein binds RNA and terminates transcription. 
+    - Rho-independent: Hairpin structure in RNA causes termination. 
+  - Eukaryotes: Polyadenylation signal (AAUAAA) and cleavage site."
+"What is alternative splicing, and why is it important?","- Alternative splicing: 
+  - The process by which different combinations of exons are joined to produce multiple mRNA variants from a single gene. 
+  - Importance: 
+    - Increases protein diversity. 
+    - Regulates gene expression. 
+    - Example: Different isoforms of the troponin gene in muscle cells."
+"What is the role of the spliceosome in RNA splicing?","- Spliceosome: 
+  - A complex of snRNAs (small nuclear RNAs) and proteins. 
+  - Catalyzes the removal of introns and joining of exons. 
+  - Steps: 
+    - Recognition of splice sites. 
+    - Cleavage at the 5' splice site and formation of a lariat. 
+    - Cleavage at the 3' splice site and exon ligation."
+"What is RNA editing, and how does it occur?","- RNA editing: 
+  - The post-transcriptional alteration of RNA sequences. 
+  - Mechanisms: 
+    - Base substitution: Adenosine-to-inosine (A-to-I) editing by ADAR enzymes. 
+    - Cytidine-to-uridine (C-to-U) editing by APOBEC enzymes. 
+  - Example: Editing of the apolipoprotein B mRNA creates two protein isoforms."
+"What is the role of the 5' cap in mRNA stability and translation?","- 5' cap: 
+  - A methylated guanine nucleotide added to the 5' end of mRNA. 
+  - Functions: 
+    - Protects mRNA from degradation by exonucleases. 
+    - Facilitates mRNA export from the nucleus. 
+    - Enhances translation initiation by recruiting ribosomes."
+"What is the role of the poly-A tail in mRNA stability and translation?","- Poly-A tail: 
+  - A stretch of adenine nucleotides added to the 3' end of mRNA. 
+  - Functions: 
+    - Protects mRNA from degradation. 
+    - Enhances mRNA stability and translation efficiency. 
+    - Involved in mRNA export from the nucleus."
+"What are the differences between prokaryotic and eukaryotic mRNA?","- Prokaryotic mRNA: 
+  - Often polycistronic (encodes multiple proteins). 
+  - Lacks introns and extensive processing. 
+  - Short half-life. 
+- Eukaryotic mRNA: 
+  - Monocistronic (encodes a single protein). 
+  - Contains introns and undergoes extensive processing (capping, splicing, polyadenylation). 
+  - Longer half-life."
+"What is the role of transcription factors in eukaryotic transcription?","- Transcription factors: 
+  - Proteins that bind to DNA and regulate transcription. 
+  - Examples: 
+    - General transcription factors (e.g., TFIID, TFIIH) required for RNA polymerase II binding. 
+    - Specific transcription factors (e.g., Sp1, CREB) regulate gene expression in response to signals."
+Question,Answer
+"What is the genetic code, and what are its characteristics?","- Genetic code: 
+  - The set of rules by which DNA and RNA sequences are translated into proteins. 
+- Characteristics: 
+  - Universal: Same in almost all organisms. 
+  - Redundant: Multiple codons can code for the same amino acid. 
+  - Non-overlapping: Each nucleotide is part of only one codon. 
+  - Unambiguous: Each codon codes for only one amino acid."
+"What is the wobble hypothesis, and what is its significance?","- Wobble hypothesis: 
+  - Proposed by Francis Crick to explain redundancy in the genetic code. 
+  - The third base of a codon (wobble position) can pair with multiple bases in the anticodon. 
+  - Significance: Allows a single tRNA to recognize multiple codons, reducing the number of tRNAs needed."
+"What is the experimental evidence for the wobble hypothesis?","- Experimental evidence: 
+  - tRNA molecules can recognize multiple codons differing in the third position. 
+  - Example: A tRNA with the anticodon 5'-GAA-3' can recognize both UUU and UUC codons (both code for phenylalanine)."
+"What is colinearity of gene and protein structure?","- Colinearity: 
+  - The linear correspondence between the nucleotide sequence of a gene and the amino acid sequence of the protein it encodes. 
+  - Example: A mutation in the DNA sequence leads to a corresponding change in the protein sequence."
+"What are post-translational modifications, and why are they important?","- Post-translational modifications: 
+  - Chemical changes to proteins after translation. 
+  - Examples: 
+    - Phosphorylation: Adds phosphate groups to regulate activity. 
+    - Glycosylation: Adds carbohydrate groups for cell signaling. 
+    - Ubiquitination: Tags proteins for degradation. 
+  - Importance: Regulates protein function, localization, and stability."
+"What are the steps of protein synthesis (translation)?","- Steps: 
+  - Initiation: Ribosome assembles on mRNA, and the first tRNA binds to the start codon (AUG). 
+  - Elongation: tRNAs bring amino acids to the ribosome, and peptide bonds form between them. 
+  - Termination: A stop codon (UAA, UAG, UGA) signals the end of translation, and the polypeptide is released."
+"What is the role of initiation factors in translation?","- Initiation factors: 
+  - Proteins that help assemble the ribosome, mRNA, and initiator tRNA. 
+  - Prokaryotes: IF1, IF2, IF3. 
+  - Eukaryotes: eIF1, eIF2, eIF3, eIF4. 
+  - Functions: Ensure accurate binding of mRNA and tRNA to the ribosome."
+"What is the role of elongation factors in translation?","- Elongation factors: 
+  - Proteins that assist in adding amino acids to the growing polypeptide chain. 
+  - Prokaryotes: EF-Tu, EF-Ts, EF-G. 
+  - Eukaryotes: eEF1, eEF2. 
+  - Functions: Facilitate tRNA binding, peptide bond formation, and ribosome translocation."
+"What is the role of release factors in translation termination?","- Release factors: 
+  - Proteins that recognize stop codons and terminate translation. 
+  - Prokaryotes: RF1, RF2, RF3. 
+  - Eukaryotes: eRF1, eRF3. 
+  - Functions: Hydrolyze the bond between the tRNA and the polypeptide, releasing the protein."
+"How is translation controlled in prokaryotes?","- Control in prokaryotes: 
+  - Ribosome binding sites (Shine-Dalgarno sequences) regulate initiation. 
+  - Regulatory proteins (e.g., IF3) control ribosome assembly. 
+  - Example: In the lac operon, translation is coupled to transcription."
+"How is translation controlled in eukaryotes?","- Control in eukaryotes: 
+  - 5' cap and poly-A tail regulate mRNA stability and translation initiation. 
+  - Translation factors (e.g., eIF2) are regulated by phosphorylation. 
+  - Example: mTOR pathway controls translation in response to nutrient availability."
+"What is the role of the ribosome in protein synthesis?","- Ribosome: 
+  - Cellular machinery that synthesizes proteins during translation. 
+  - Composed of rRNA and proteins. 
+  - Functions: 
+    - Binds mRNA and tRNA. 
+    - Catalyzes peptide bond formation. 
+    - Ensures accurate translation of the genetic code."
+"What is the role of tRNA in translation?","- tRNA: 
+  - Transfers amino acids to the ribosome during translation. 
+  - Contains an anticodon that pairs with the mRNA codon. 
+  - Ensures the correct amino acid is added to the growing polypeptide chain."
+"What is the role of mRNA in translation?","- mRNA: 
+  - Carries genetic information from DNA to ribosomes. 
+  - Acts as a template for protein synthesis during translation. 
+  - Contains codons that specify the sequence of amino acids in a protein."
+"What is the significance of the start codon in translation?","- Start codon: 
+  - AUG (codes for methionine) signals the beginning of translation. 
+  - In prokaryotes, formylmethionine is used as the initiator amino acid. 
+  - Ensures accurate initiation of protein synthesis."
+"What is the significance of stop codons in translation?","- Stop codons: 
+  - UAA, UAG, and UGA signal the end of translation. 
+  - Release factors bind to stop codons, terminating translation and releasing the polypeptide. 
+  - Prevent incomplete or incorrect protein synthesis."
+"What is the role of chaperones in protein folding?","- Chaperones: 
+  - Proteins that assist in the proper folding of newly synthesized polypeptides. 
+  - Prevent misfolding and aggregation. 
+  - Example: Heat shock proteins (HSPs) help refold denatured proteins."
+"What is the role of ubiquitin in protein degradation?","- Ubiquitin: 
+  - A small protein that tags damaged or misfolded proteins for degradation. 
+  - Ubiquitinated proteins are recognized and degraded by the proteasome. 
+  - Regulates protein levels and removes defective proteins."
+"What is the role of phosphorylation in post-translational modifications?","- Phosphorylation: 
+  - Addition of phosphate groups to proteins by kinases. 
+  - Regulates protein activity, localization, and interactions. 
+  - Example: Phosphorylation of glycogen phosphorylase activates it during glycogen breakdown."
+"What is the role of glycosylation in post-translational modifications?","- Glycosylation: 
+  - Addition of carbohydrate groups to proteins. 
+  - Occurs in the endoplasmic reticulum and Golgi apparatus. 
+  - Functions: 
+    - Stabilizes proteins. 
+    - Facilitates cell-cell recognition and signaling. 
+    - Example: Glycosylation of antibodies enhances their function."

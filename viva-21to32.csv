@@ -1,0 +1,1354 @@
+Question,Answer
+What is reversible enzyme inhibition?,"- Definition or overview: Reversible inhibition occurs when an inhibitor binds non-covalently to an enzyme, temporarily reducing its activity.
+- Logical flow: Types include competitive, non-competitive, and uncompetitive inhibition.
+- Example or analogy: Think of reversible inhibition as a temporary roadblock. The road (enzyme activity) is blocked (inhibited) but can be cleared (reversed)."
+
+What is competitive inhibition?,"- Definition or overview: Competitive inhibition occurs when an inhibitor competes with the substrate for the active site of the enzyme.
+- Logical flow: It can be overcome by increasing substrate concentration.
+- Example or analogy: Think of competitive inhibition as two keys (substrate and inhibitor) competing for the same lock (active site)."
+
+What is non-competitive inhibition?,"- Definition or overview: Non-competitive inhibition occurs when an inhibitor binds to an enzyme at a site other than the active site, altering its shape and function.
+- Logical flow: It cannot be overcome by increasing substrate concentration.
+- Example or analogy: Think of non-competitive inhibition as a wrench thrown into a machine (enzyme). It disrupts the machine’s function regardless of input (substrate)."
+
+What is uncompetitive inhibition?,"- Definition or overview: Uncompetitive inhibition occurs when an inhibitor binds only to the enzyme-substrate complex, preventing product formation.
+- Logical flow: It is rare and typically seen in multi-substrate reactions.
+- Example or analogy: Think of uncompetitive inhibition as a lock (inhibitor) that only works when the key (substrate) is in the lock (enzyme-substrate complex)."
+
+What is irreversible enzyme inhibition?,"- Definition or overview: Irreversible inhibition occurs when an inhibitor binds covalently to the enzyme, permanently inactivating it.
+- Logical flow: Examples include nerve gases (e.g., sarin) inhibiting acetylcholinesterase.
+- Example or analogy: Think of irreversible inhibition as breaking a key in a lock. The lock (enzyme) can no longer be used."
+
+What factors affect enzyme activity?,"- Definition or overview: Factors include enzyme concentration, substrate concentration, pH, temperature, activators, and inhibitors.
+- Logical flow: Each factor influences the rate of enzyme-catalyzed reactions.
+- Example or analogy: Think of enzyme activity as a car’s speed. Factors like fuel (substrate), road conditions (pH), and engine health (temperature) affect how fast it goes."
+
+What is enzyme specificity?,"- Definition or overview: Enzyme specificity refers to an enzyme’s ability to catalyze a specific reaction or act on a specific substrate.
+- Logical flow: Types include absolute, broad, intermediate, and stereo-specificity.
+- Example or analogy: Think of enzyme specificity as a key (enzyme) that fits only certain locks (substrates)."
+
+What are catalytic antibodies?,"- Definition or overview: Catalytic antibodies (abzymes) are antibodies engineered to catalyze specific chemical reactions.
+- Logical flow: They combine the specificity of antibodies with the catalytic power of enzymes.
+- Example or analogy: Think of catalytic antibodies as multitasking tools. They recognize targets (like antibodies) and perform reactions (like enzymes)."
+
+What are ribozymes?,"- Definition or overview: Ribozymes are RNA molecules with catalytic activity, capable of catalyzing biochemical reactions.
+- Logical flow: Examples include the ribosome (peptide bond formation) and self-splicing introns.
+- Example or analogy: Think of ribozymes as RNA chefs. They can both carry recipes (genetic information) and cook (catalyze reactions)."
+
+What are membrane-bound enzymes?,"- Definition or overview: Membrane-bound enzymes are embedded in cell membranes and play key roles in signal transduction and transport.
+- Logical flow: Examples include ATPases and receptor tyrosine kinases.
+- Example or analogy: Think of membrane-bound enzymes as gatekeepers. They control what enters and exits the cell (transport) and send signals (signal transduction)."
+
+What is covalent modification in enzyme regulation?,"- Definition or overview: Covalent modification involves adding or removing chemical groups (e.g., phosphate) to regulate enzyme activity.
+- Logical flow: Examples include phosphorylation (activation) and dephosphorylation (inactivation).
+- Example or analogy: Think of covalent modification as a switch. Adding a phosphate (turning on) activates the enzyme, while removing it (turning off) deactivates it."
+
+What is cooperative interaction in enzymes?,"- Definition or overview: Cooperative interaction occurs when the binding of a substrate to one active site affects the binding of substrates to other active sites.
+- Logical flow: It is seen in multi-subunit enzymes like hemoglobin.
+- Example or analogy: Think of cooperative interaction as teamwork. When one worker (subunit) starts, others (subunits) join in more easily."
+
+What is the hemoglobin-oxygen binding curve?,"- Definition or overview: The hemoglobin-oxygen binding curve is sigmoidal, showing cooperative binding of oxygen to hemoglobin.
+- Logical flow: It ensures efficient oxygen uptake in the lungs and release in tissues.
+- Example or analogy: Think of the hemoglobin-oxygen curve as a group hug. The first hug (oxygen binding) makes it easier for others (oxygen molecules) to join."
+
+What is X-ray crystallography in enzyme structure analysis?,"- Definition or overview: X-ray crystallography is a technique used to determine the 3D structure of enzymes by analyzing X-ray diffraction patterns.
+- Logical flow: It provides atomic-level details of enzyme structure and active sites.
+- Example or analogy: Think of X-ray crystallography as taking a 3D photo of a molecule. It reveals every detail (atomic structure) of the enzyme."
+
+What are industrial sources of enzymes?,"- Definition or overview: Industrial enzymes are sourced from microorganisms (e.g., bacteria, fungi), plants, and animals.
+- Logical flow: Examples include amylase (starch hydrolysis), protease (protein breakdown), and lipase (fat digestion).
+- Example or analogy: Think of industrial enzymes as specialized workers. Each worker (enzyme) has a specific job (e.g., breaking down starch, proteins, fats)."
+
+What is the role of enzymes in baking?,"- Definition or overview: Enzymes like amylase and protease are used in baking to improve dough texture, volume, and shelf life.
+- Logical flow: They break down starch and proteins, enhancing bread quality.
+- Example or analogy: Think of enzymes in baking as dough improvers. They make the dough (bread) softer, fluffier, and longer-lasting."
+
+What is the role of enzymes in starch hydrolysis?,"- Definition or overview: Enzymes like amylase and glucoamylase break down starch into sugars for use in food and beverage industries.
+- Logical flow: They are used in producing syrups, sweeteners, and fermented products.
+- Example or analogy: Think of enzymes in starch hydrolysis as sugar factories. They convert starch (raw material) into sugar (product)."
+
+What is the role of enzymes in dairy processing?,"- Definition or overview: Enzymes like rennet (chymosin) and lactase are used in cheese-making and lactose-free milk production.
+- Logical flow: Rennet coagulates milk proteins, while lactase breaks down lactose.
+- Example or analogy: Think of enzymes in dairy as cheese makers. They turn milk (raw material) into cheese (product)."
+
+What is the role of enzymes in fruit juice processing?,"- Definition or overview: Enzymes like pectinase are used to clarify fruit juices by breaking down pectin.
+- Logical flow: They improve juice yield, clarity, and stability.
+- Example or analogy: Think of enzymes in juice processing as filters. They remove cloudiness (pectin) to make the juice clear."
+
+What is the role of enzymes in meat processing?,"- Definition or overview: Enzymes like papain and bromelain are used to tenderize meat by breaking down connective tissues.
+- Logical flow: They improve texture and reduce cooking time.
+- Example or analogy: Think of enzymes in meat processing as tenderizers. They soften tough meat (connective tissue) for easier cooking."
+
+What is the role of enzymes in fat processing?,"- Definition or overview: Enzymes like lipase are used to modify fats and oils for use in food and industrial applications.
+- Logical flow: They improve texture, flavor, and shelf life of fat-based products.
+- Example or analogy: Think of enzymes in fat processing as sculptors. They shape fats (raw material) into desired forms (products)."
+Question,Answer
+What is the lymphoid system, and what are its functions?,"- Definition or overview: The lymphoid system includes lymph, lymph vessels, and lymphoid organs (e.g., lymph nodes, thymus, spleen). It maintains fluid balance, filters pathogens, and supports immune responses.
+- Logical flow: Lymphatic circulation drains excess fluid, while lymphoid organs produce and store immune cells.
+- Example or analogy: Think of the lymphoid system as a drainage and security system. It removes waste (fluid) and checks for intruders (pathogens)."
+
+What are primary and secondary lymphoid organs?,"- Definition or overview: Primary lymphoid organs (e.g., bone marrow, thymus) produce and mature immune cells, while secondary lymphoid organs (e.g., lymph nodes, spleen) activate immune responses.
+- Logical flow: Bone marrow produces B cells, the thymus matures T cells, and lymph nodes/spleen filter pathogens.
+- Example or analogy: Think of primary lymphoid organs as schools (training immune cells) and secondary lymphoid organs as police stations (activating immune responses)."
+
+What is the structure and function of lymph nodes?,"- Definition or overview: Lymph nodes are small, bean-shaped structures that filter lymph and house immune cells (e.g., lymphocytes, macrophages).
+- Logical flow: They trap pathogens, activate immune responses, and produce antibodies.
+- Example or analogy: Think of lymph nodes as security checkpoints. They inspect lymph (fluid) for threats (pathogens) and respond if needed."
+
+What is spermatogenesis, and how is it regulated?,"- Definition or overview: Spermatogenesis is the process of sperm production in the testes, regulated by hormones like FSH, LH, and testosterone.
+- Logical flow: FSH stimulates Sertoli cells, LH stimulates Leydig cells to produce testosterone, and testosterone promotes sperm maturation.
+- Example or analogy: Think of spermatogenesis as a factory. Hormones (managers) oversee the production line (sperm development)."
+
+What is the composition of semen?,"- Definition or overview: Semen is a mixture of sperm and seminal fluid, containing fructose, enzymes, prostaglandins, and buffers.
+- Logical flow: It provides nutrients and protection for sperm during transport.
+- Example or analogy: Think of semen as a nutrient-packed smoothie. It fuels (fructose) and protects (buffers) the sperm on their journey."
+
+What is the ovarian cycle?,"- Definition or overview: The ovarian cycle involves the maturation of an ovarian follicle, ovulation, and formation of the corpus luteum, regulated by FSH and LH.
+- Logical flow: FSH stimulates follicle growth, LH triggers ovulation, and the corpus luteum produces progesterone.
+- Example or analogy: Think of the ovarian cycle as a monthly event. The follicle (contestant) grows, wins (ovulation), and prepares for the next round (corpus luteum)."
+
+What is the role of the placenta during pregnancy?,"- Definition or overview: The placenta provides oxygen, nutrients, and waste removal for the fetus, and produces hormones like hCG, progesterone, and estrogen.
+- Logical flow: It acts as a lifeline between mother and fetus, ensuring proper development.
+- Example or analogy: Think of the placenta as a delivery service. It supplies essentials (oxygen, nutrients) and removes trash (waste) for the fetus."
+
+What is the mechanism of respiration?,"- Definition or overview: Respiration involves inhalation (air enters lungs) and exhalation (air leaves lungs), driven by diaphragm and intercostal muscle contractions.
+- Logical flow: Inhalation expands the thoracic cavity, creating negative pressure, while exhalation relaxes muscles, expelling air.
+- Example or analogy: Think of respiration as a bellows. Inhalation pulls air in, and exhalation pushes it out."
+
+What are pulmonary volumes and capacities?,"- Definition or overview: Pulmonary volumes (e.g., tidal volume, residual volume) and capacities (e.g., vital capacity, total lung capacity) measure lung function and airflow.
+- Logical flow: They help assess respiratory health and diagnose conditions like COPD.
+- Example or analogy: Think of pulmonary volumes as measuring cups. They quantify how much air the lungs can hold and move."
+
+What is the oxygen-hemoglobin dissociation curve?,"- Definition or overview: The oxygen-hemoglobin dissociation curve shows the relationship between oxygen partial pressure and hemoglobin saturation.
+- Logical flow: It is sigmoidal, reflecting cooperative binding of oxygen to hemoglobin.
+- Example or analogy: Think of the curve as a teamwork graph. The first oxygen (team member) makes it easier for others to join (cooperative binding)."
+
+What factors affect the oxygen-hemoglobin dissociation curve?,"- Definition or overview: Factors include pH (Bohr effect), temperature, CO2 levels, and 2,3-BPG, which shift the curve to the right (lower affinity) or left (higher affinity).
+- Logical flow: Lower pH, higher temperature, and higher CO2 decrease oxygen affinity, promoting oxygen release to tissues.
+- Example or analogy: Think of the curve as a flexible bridge. Factors like heat (temperature) or acidity (pH) adjust its slope (affinity)."
+
+What is the structure and function of a neuron?,"- Definition or overview: Neurons are nerve cells that transmit electrical and chemical signals. They consist of a cell body, dendrites, and an axon.
+- Logical flow: Dendrites receive signals, the cell body processes them, and the axon transmits them to other neurons or muscles.
+- Example or analogy: Think of a neuron as a messenger. It receives (dendrites), processes (cell body), and delivers (axon) messages."
+
+What is a synapse, and how does it work?,"- Definition or overview: A synapse is the junction between two neurons where neurotransmitters transmit signals.
+- Logical flow: An action potential triggers neurotransmitter release, which binds to receptors on the postsynaptic neuron, propagating the signal.
+- Example or analogy: Think of a synapse as a relay race. The baton (neurotransmitter) is passed from one runner (neuron) to the next."
+
+What are the functions of the cerebral cortex?,"- Definition or overview: The cerebral cortex is responsible for higher brain functions like thought, memory, perception, and voluntary movement.
+- Logical flow: Different regions (e.g., frontal lobe, parietal lobe) specialize in specific functions.
+- Example or analogy: Think of the cerebral cortex as a command center. It processes information (thought) and issues commands (movement)."
+
+What is Parkinson’s disease?,"- Definition or overview: Parkinson’s disease is a neurodegenerative disorder caused by the loss of dopamine-producing neurons, leading to motor symptoms like tremors and rigidity.
+- Logical flow: It results from dopamine deficiency in the basal ganglia, affecting movement control.
+- Example or analogy: Think of Parkinson’s as a broken gear in a machine. The motor system (machine) malfunctions due to missing parts (dopamine neurons)."
+
+What is Alzheimer’s disease?,"- Definition or overview: Alzheimer’s disease is a progressive neurodegenerative disorder characterized by memory loss, cognitive decline, and amyloid plaques in the brain.
+- Logical flow: It involves the accumulation of beta-amyloid and tau proteins, disrupting neuronal function.
+- Example or analogy: Think of Alzheimer’s as a clogged filter. Plaques (debris) block information flow (memory) in the brain."
+
+What is epilepsy?,"- Definition or overview: Epilepsy is a neurological disorder characterized by recurrent seizures due to abnormal electrical activity in the brain.
+- Logical flow: Seizures result from excessive or synchronized neuronal firing, disrupting normal brain function.
+- Example or analogy: Think of epilepsy as an electrical storm. Neurons (wires) fire uncontrollably, causing a blackout (seizure)."
+Question,Answer
+What are monosaccharides, and how are they classified?,"- Definition or overview: Monosaccharides are the simplest carbohydrates, classified by the number of carbon atoms (e.g., trioses, pentoses, hexoses) and functional groups (aldoses, ketoses).
+- Logical flow: Examples include glucose (aldohexose) and fructose (ketohexose).
+- Example or analogy: Think of monosaccharides as building blocks. They are the smallest units (blocks) that make up larger carbohydrates (structures)."
+
+What is the ring structure of glucose?,"- Definition or overview: Glucose forms a six-membered pyranose ring in solution, with two anomeric forms (α and β) differing in the orientation of the hydroxyl group at C1.
+- Logical flow: The ring structure is proven by reactions like methylation and oxidation.
+- Example or analogy: Think of glucose’s ring structure as a chair. The atoms (people) sit in specific positions (orientations) to form a stable structure."
+
+What is mutarotation?,"- Definition or overview: Mutarotation is the change in optical rotation of a sugar (e.g., glucose) as it equilibrates between α and β anomers in solution.
+- Logical flow: It occurs due to the interconversion of cyclic forms through the open-chain form.
+- Example or analogy: Think of mutarotation as a spinning top. It wobbles (rotates) until it finds balance (equilibrium) between two positions (anomers)."
+
+What are reducing sugars, and how are they identified?,"- Definition or overview: Reducing sugars have a free aldehyde or ketone group that can reduce reagents like Benedict’s or Fehling’s solution, producing a color change (e.g., red precipitate).
+- Logical flow: Examples include glucose, maltose, and lactose.
+- Example or analogy: Think of reducing sugars as chemical detectives. They reveal themselves by changing color (reducing reagents) in a test."
+
+What are the structures and functions of disaccharides?,"- Definition or overview: Disaccharides consist of two monosaccharides linked by a glycosidic bond. Examples include maltose (glucose + glucose), lactose (glucose + galactose), and sucrose (glucose + fructose).
+- Logical flow: They serve as energy sources (maltose, lactose) or transport sugars (sucrose).
+- Example or analogy: Think of disaccharides as paired dancers. Each pair (disaccharide) performs a specific dance (function) in the body."
+
+What are storage and structural polysaccharides?,"- Definition or overview: Storage polysaccharides (e.g., starch, glycogen) store energy, while structural polysaccharides (e.g., cellulose, chitin) provide support.
+- Logical flow: Starch and glycogen are branched, while cellulose and chitin are linear and form strong fibers.
+- Example or analogy: Think of storage polysaccharides as savings accounts (energy reserves) and structural polysaccharides as building materials (support structures)."
+
+What are fatty acids, and how are they classified?,"- Definition or overview: Fatty acids are long hydrocarbon chains with a carboxyl group. They are classified as saturated (no double bonds) or unsaturated (one or more double bonds).
+- Logical flow: Examples include palmitic acid (saturated) and oleic acid (unsaturated).
+- Example or analogy: Think of fatty acids as chains. Saturated chains are straight (no kinks), while unsaturated chains have bends (double bonds)."
+
+What are the physical properties of fats and oils?,"- Definition or overview: Fats are solid at room temperature (saturated), while oils are liquid (unsaturated). They are insoluble in water, less dense than water, and have characteristic odors and tastes.
+- Logical flow: These properties depend on the fatty acid composition.
+- Example or analogy: Think of fats and oils as butter (solid) and olive oil (liquid). Their consistency (physical state) depends on their structure (saturation)."
+
+What is saponification?,"- Definition or overview: Saponification is the hydrolysis of fats/oils by alkali to produce glycerol and soap (fatty acid salts).
+- Logical flow: It is used in soap-making and involves breaking ester bonds.
+- Example or analogy: Think of saponification as a chemical recipe. Mix fats (ingredients) with alkali (heat) to make soap (product)."
+
+What are phospholipids, and what is their structure?,"- Definition or overview: Phospholipids are lipids with a phosphate group, forming the main component of cell membranes. They have a hydrophilic head (phosphate) and hydrophobic tails (fatty acids).
+- Logical flow: Examples include phosphatidylcholine and phosphatidylethanolamine.
+- Example or analogy: Think of phospholipids as tadpoles. The head (phosphate) loves water, while the tails (fatty acids) avoid it."
+
+What are steroids, and what are their functions?,"- Definition or overview: Steroids are lipids with a four-ring structure. Examples include cholesterol (membrane component) and hormones (e.g., testosterone, estrogen).
+- Logical flow: They regulate metabolism, immune response, and reproduction.
+- Example or analogy: Think of steroids as multitasking managers. They oversee various body functions (metabolism, reproduction)."
+
+What are amino acids, and how are they classified?,"- Definition or overview: Amino acids are organic compounds with an amino group, a carboxyl group, and a side chain (R group). They are classified as nonpolar, polar, acidic, or basic based on their R groups.
+- Logical flow: Examples include glycine (nonpolar) and glutamic acid (acidic).
+- Example or analogy: Think of amino acids as Lego pieces. Each piece (amino acid) has a unique shape (R group) that determines its role (function)."
+
+What is the isoelectric point (pI) of an amino acid?,"- Definition or overview: The isoelectric point is the pH at which an amino acid has no net charge, as its amino and carboxyl groups are equally ionized.
+- Logical flow: It is used to separate amino acids by electrophoresis.
+- Example or analogy: Think of the pI as a balancing point. At this pH, the amino acid is neutral (no charge)."
+
+What are peptide bonds, and how are they formed?,"- Definition or overview: Peptide bonds are covalent bonds formed between the carboxyl group of one amino acid and the amino group of another, releasing water (dehydration synthesis).
+- Logical flow: They link amino acids to form peptides and proteins.
+- Example or analogy: Think of peptide bonds as glue. They stick amino acids (pieces) together to build proteins (structures)."
+
+What is the primary structure of a protein?,"- Definition or overview: The primary structure is the linear sequence of amino acids in a polypeptide chain, determined by peptide bonds.
+- Logical flow: It dictates the protein’s folding and function.
+- Example or analogy: Think of the primary structure as a sentence. The order of words (amino acids) determines the meaning (function)."
+
+What is protein denaturation?,"- Definition or overview: Denaturation is the loss of a protein’s structure (secondary, tertiary, quaternary) due to heat, pH changes, or chemicals, leading to loss of function.
+- Logical flow: It disrupts hydrogen bonds, disulfide bridges, and other interactions.
+- Example or analogy: Think of denaturation as unraveling a ball of yarn. The structure (yarn) falls apart, losing its shape (function)."
+
+What are nucleosides and nucleotides?,"- Definition or overview: Nucleosides consist of a nitrogenous base (e.g., adenine) and a sugar (ribose or deoxyribose). Nucleotides add a phosphate group to nucleosides.
+- Logical flow: Nucleotides are the building blocks of DNA and RNA.
+- Example or analogy: Think of nucleosides as incomplete Lego sets (base + sugar) and nucleotides as complete sets (base + sugar + phosphate)."
+
+What is the biological importance of nucleotides?,"- Definition or overview: Nucleotides form DNA and RNA, store genetic information, and participate in energy transfer (e.g., ATP) and signaling (e.g., cAMP).
+- Logical flow: They are essential for replication, transcription, and metabolism.
+- Example or analogy: Think of nucleotides as multitasking workers. They build (DNA), communicate (signaling), and power (ATP) the cell."
+Question,Answer
+What is intermediary metabolism?,"- Definition or overview: Intermediary metabolism refers to the network of biochemical pathways that convert nutrients into energy and biomolecules.
+- Logical flow: It includes catabolic (breakdown), anabolic (synthesis), and amphibolic (dual-purpose) pathways.
+- Example or analogy: Think of intermediary metabolism as a city’s transportation system. Nutrients (people) are transported and transformed into energy and products (destinations)."
+
+What are multienzyme systems?,"- Definition or overview: Multienzyme systems are complexes of enzymes that work together to catalyze sequential reactions in a metabolic pathway.
+- Logical flow: Examples include the pyruvate dehydrogenase complex and fatty acid synthase.
+- Example or analogy: Think of multienzyme systems as assembly lines. Each worker (enzyme) performs a specific task (reaction) to produce the final product (metabolite)."
+
+What is glycolysis, and what are its key steps?,"- Definition or overview: Glycolysis is the breakdown of glucose into pyruvate, producing ATP and NADH. Key steps include phosphorylation, isomerization, and substrate-level phosphorylation.
+- Logical flow: It occurs in the cytoplasm and is regulated by enzymes like hexokinase, phosphofructokinase, and pyruvate kinase.
+- Example or analogy: Think of glycolysis as a ten-step dance. Each step (reaction) transforms glucose (dancer) into pyruvate (final pose)."
+
+What is the difference between aerobic and anaerobic glycolysis?,"- Definition or overview: Aerobic glycolysis produces pyruvate, which enters the TCA cycle, while anaerobic glycolysis converts pyruvate to lactate in the absence of oxygen.
+- Logical flow: Aerobic glycolysis yields more ATP (up to 38 ATP) compared to anaerobic glycolysis (2 ATP).
+- Example or analogy: Think of aerobic glycolysis as a marathon (efficient energy production) and anaerobic glycolysis as a sprint (quick energy)."
+
+What is the physiological importance of anaerobic glycolysis?,"- Definition or overview: Anaerobic glycolysis provides rapid ATP production during intense exercise or oxygen deprivation, but it leads to lactate accumulation.
+- Logical flow: It is crucial for short bursts of energy but can cause muscle fatigue and acidosis.
+- Example or analogy: Think of anaerobic glycolysis as an emergency generator. It provides quick power (ATP) but can overheat (lactate buildup)."
+
+What is the tricarboxylic acid (TCA) cycle?,"- Definition or overview: The TCA cycle is a series of reactions that oxidize acetyl-CoA to CO2, generating NADH, FADH2, and ATP.
+- Logical flow: It occurs in the mitochondrial matrix and is central to energy production.
+- Example or analogy: Think of the TCA cycle as a recycling plant. It breaks down acetyl-CoA (waste) into reusable materials (energy carriers)."
+
+What is the amphibolic nature of the TCA cycle?,"- Definition or overview: The TCA cycle is amphibolic because it serves both catabolic (energy production) and anabolic (biosynthesis) roles.
+- Logical flow: It provides intermediates for amino acid, nucleotide, and lipid synthesis.
+- Example or analogy: Think of the TCA cycle as a multitasking chef. It cooks meals (energy) and prepares ingredients (biosynthesis) simultaneously."
+
+What are anaplerotic reactions?,"- Definition or overview: Anaplerotic reactions replenish TCA cycle intermediates that are used for biosynthesis. Examples include pyruvate carboxylase and PEP carboxykinase.
+- Logical flow: They ensure the TCA cycle continues to function despite intermediate withdrawal.
+- Example or analogy: Think of anaplerotic reactions as restocking shelves. They replace items (intermediates) taken from the store (TCA cycle)."
+
+What is the electron transport chain (ETC)?,"- Definition or overview: The ETC is a series of protein complexes in the inner mitochondrial membrane that transfer electrons, generating a proton gradient for ATP synthesis.
+- Logical flow: Electrons from NADH and FADH2 are passed through complexes I-IV, driving ATP synthase.
+- Example or analogy: Think of the ETC as a waterwheel. Electrons (water) flow through the wheel (complexes), turning it to generate power (ATP)."
+
+What is oxidative phosphorylation?,"- Definition or overview: Oxidative phosphorylation is the process of ATP synthesis driven by the proton gradient created by the ETC.
+- Logical flow: Protons flow back into the mitochondrial matrix through ATP synthase, producing ATP.
+- Example or analogy: Think of oxidative phosphorylation as a hydroelectric dam. The proton gradient (water flow) powers ATP synthase (turbine) to generate ATP (electricity)."
+
+What are uncouplers of oxidative phosphorylation?,"- Definition or overview: Uncouplers disrupt the proton gradient, allowing protons to re-enter the mitochondrial matrix without ATP production. Examples include DNP (dinitrophenol).
+- Logical flow: They generate heat instead of ATP, leading to increased metabolic rate.
+- Example or analogy: Think of uncouplers as leaks in a dam. Protons (water) bypass the turbine (ATP synthase), wasting energy (heat)."
+
+What are mitochondrial myopathies?,"- Definition or overview: Mitochondrial myopathies are disorders caused by defects in mitochondrial proteins, leading to impaired energy production and muscle weakness.
+- Logical flow: Examples include deficiencies in ETC complexes and ATP synthase.
+- Example or analogy: Think of mitochondrial myopathies as power outages. The energy factory (mitochondria) fails, causing blackouts (muscle weakness)."
+
+What is glucose-6-phosphate dehydrogenase (G6PD) deficiency?,"- Definition or overview: G6PD deficiency is a genetic disorder that impairs the pentose phosphate pathway, leading to hemolytic anemia under oxidative stress.
+- Logical flow: It reduces NADPH production, making red blood cells vulnerable to damage.
+- Example or analogy: Think of G6PD deficiency as a faulty shield. Without NADPH (protection), red blood cells (soldiers) are destroyed by oxidative stress (enemies)."
+
+What is brown adipose tissue, and what is its role in thermogenesis?,"- Definition or overview: Brown adipose tissue generates heat through uncoupled oxidative phosphorylation, mediated by uncoupling protein 1 (UCP1).
+- Logical flow: It is important for thermoregulation in infants and hibernating animals.
+- Example or analogy: Think of brown adipose tissue as a heater. It burns fat (fuel) to produce heat (thermogenesis)."
+
+What is diet-induced thermogenesis?,"- Definition or overview: Diet-induced thermogenesis is the increase in energy expenditure after eating, due to the digestion, absorption, and metabolism of nutrients.
+- Logical flow: It is regulated by hormones like norepinephrine and thyroid hormones.
+- Example or analogy: Think of diet-induced thermogenesis as a post-meal workout. The body burns calories (energy) to process food (nutrients)."
+
+What is pyruvate dehydrogenase deficiency?,"- Definition or overview: Pyruvate dehydrogenase deficiency is a genetic disorder that impairs the conversion of pyruvate to acetyl-CoA, leading to lactic acidosis and neurological issues.
+- Logical flow: It disrupts the TCA cycle and energy production, causing metabolic stress.
+- Example or analogy: Think of pyruvate dehydrogenase deficiency as a blocked road. Pyruvate (traffic) cannot enter the TCA cycle (highway), causing a backup (lactic acidosis)."
+
+What is Leigh syndrome?,"- Definition or overview: Leigh syndrome is a severe mitochondrial disorder caused by defects in oxidative phosphorylation, leading to progressive neurological degeneration.
+- Logical flow: It results from mutations in mitochondrial or nuclear DNA affecting ETC complexes.
+- Example or analogy: Think of Leigh syndrome as a failing power grid. The brain (city) suffers blackouts (neurological damage) due to energy shortages."
+Question,Answer
+What is nutrition, and why is it important?,"- Definition or overview: Nutrition is the science of how the body uses food for growth, maintenance, and energy. It is essential for health, disease prevention, and overall well-being.
+- Logical flow: Proper nutrition provides the nutrients needed for bodily functions, while malnutrition leads to deficiencies or excesses.
+- Example or analogy: Think of nutrition as fuel for a car. The right fuel (nutrients) keeps the car (body) running smoothly, while the wrong fuel (malnutrition) causes breakdowns."
+
+What are the essential nutrients, and how are they classified?,"- Definition or overview: Essential nutrients are substances the body cannot produce in sufficient amounts and must obtain from food. They are classified as macronutrients (carbohydrates, proteins, fats) and micronutrients (vitamins, minerals).
+- Logical flow: Macronutrients provide energy, while micronutrients support metabolism and physiological functions.
+- Example or analogy: Think of essential nutrients as building blocks. Macronutrients are the bricks (energy), and micronutrients are the mortar (support)."
+
+What are the roles of carbohydrates in human nutrition?,"- Definition or overview: Carbohydrates are the body’s primary energy source, providing 4 kcal/g. They include sugars, starches, and fiber.
+- Logical flow: They fuel the brain, muscles, and other tissues, and fiber supports digestive health.
+- Example or analogy: Think of carbohydrates as gasoline. They power the engine (body) and keep it running efficiently."
+
+What are the different forms of starch in food, and how do they change during cooking?,"- Definition or overview: Starch exists as amylose (linear) and amylopectin (branched). Cooking gelatinizes starch, making it digestible.
+- Logical flow: Raw starch is insoluble, but heating breaks hydrogen bonds, allowing water absorption and gelatinization.
+- Example or analogy: Think of starch as a sponge. Cooking (heating) softens the sponge (starch), making it absorb water and swell."
+
+What are the roles of proteins in human nutrition?,"- Definition or overview: Proteins are essential for growth, repair, and maintenance of tissues. They also function as enzymes, hormones, and antibodies.
+- Logical flow: Proteins provide 4 kcal/g and are made of amino acids, including essential amino acids.
+- Example or analogy: Think of proteins as construction workers. They build (growth), repair (maintenance), and protect (immune function) the body."
+
+What are essential amino acids, and what is a limiting amino acid?,"- Definition or overview: Essential amino acids cannot be synthesized by the body and must be obtained from food. A limiting amino acid is the one in shortest supply, restricting protein synthesis.
+- Logical flow: Examples include lysine (limiting in cereals) and methionine (limiting in legumes).
+- Example or analogy: Think of essential amino acids as puzzle pieces. If one piece (limiting amino acid) is missing, the puzzle (protein synthesis) can’t be completed."
+
+What is mutual supplementation in protein nutrition?,"- Definition or overview: Mutual supplementation combines incomplete protein sources (e.g., rice and beans) to provide all essential amino acids.
+- Logical flow: It ensures a balanced intake of amino acids, improving protein quality.
+- Example or analogy: Think of mutual supplementation as teamwork. Each food (team member) contributes missing pieces (amino acids) to complete the puzzle (protein synthesis)."
+
+What are the roles of fats and oils in human nutrition?,"- Definition or overview: Fats and oils provide energy (9 kcal/g), support cell membrane structure, and aid in the absorption of fat-soluble vitamins.
+- Logical flow: They include saturated, monounsaturated, and polyunsaturated fatty acids.
+- Example or analogy: Think of fats and oils as insulation. They store energy (heat) and protect cells (walls) from damage."
+
+What are essential fatty acids, and why are they important?,"- Definition or overview: Essential fatty acids (EFAs) like omega-3 and omega-6 cannot be synthesized by the body and must be obtained from food. They support brain function, inflammation regulation, and heart health.
+- Logical flow: Examples include alpha-linolenic acid (omega-3) and linoleic acid (omega-6).
+- Example or analogy: Think of EFAs as lubricants. They keep the body’s systems (brain, heart) running smoothly."
+
+What are fat-soluble vitamins, and what are their functions?,"- Definition or overview: Fat-soluble vitamins (A, D, E, K) are stored in body fat and play roles in vision (A), bone health (D), antioxidant protection (E), and blood clotting (K).
+- Logical flow: They require dietary fat for absorption and can accumulate to toxic levels.
+- Example or analogy: Think of fat-soluble vitamins as reserves. They are stored (fat) and used as needed (functions)."
+
+What are water-soluble vitamins, and what are their functions?,"- Definition or overview: Water-soluble vitamins (B-complex, C) are not stored in the body and must be consumed regularly. They act as coenzymes in energy metabolism (B) and antioxidant protection (C).
+- Logical flow: Excess amounts are excreted in urine, reducing the risk of toxicity.
+- Example or analogy: Think of water-soluble vitamins as daily supplements. They are used immediately (functions) and flushed out if not needed."
+
+What is the role of calcium in human nutrition?,"- Definition or overview: Calcium is essential for bone and teeth formation, muscle contraction, and nerve signaling.
+- Logical flow: Deficiency leads to osteoporosis, while excess can cause kidney stones.
+- Example or analogy: Think of calcium as cement. It strengthens bones (structures) and supports muscle and nerve function (movement)."
+
+What are trace elements, and why are they important?,"- Definition or overview: Trace elements (e.g., iron, zinc, iodine) are minerals required in small amounts for enzyme function, oxygen transport, and hormone production.
+- Logical flow: Examples include iron (hemoglobin), zinc (immune function), and iodine (thyroid hormones).
+- Example or analogy: Think of trace elements as spark plugs. They are small but essential for the engine (body) to run smoothly."
+
+What is the role of dietary fiber in human health?,"- Definition or overview: Dietary fiber, found in plant foods, supports digestive health, regulates blood sugar, and lowers cholesterol.
+- Logical flow: It includes soluble fiber (dissolves in water) and insoluble fiber (adds bulk to stool).
+- Example or analogy: Think of fiber as a broom. It sweeps through the digestive tract (gut), cleaning (regulating) and preventing blockages (constipation)."
+
+What are the interrelationships between vitamins and minerals?,"- Definition or overview: Vitamins and minerals work together in metabolic processes. For example, vitamin D enhances calcium absorption, and vitamin C increases iron absorption.
+- Logical flow: Synergistic interactions optimize nutrient utilization and physiological functions.
+- Example or analogy: Think of vitamins and minerals as dance partners. They work together (synergy) to perform complex routines (metabolic processes)."
+
+What are the deficiency symptoms of vitamin A?,"- Definition or overview: Vitamin A deficiency causes night blindness, dry skin, and increased susceptibility to infections.
+- Logical flow: It is essential for vision (retinal) and immune function.
+- Example or analogy: Think of vitamin A as a nightlight. Without it, you can’t see in the dark (night blindness) or protect against invaders (infections)."
+
+What are the dietary sources of omega-3 fatty acids?,"- Definition or overview: Omega-3 fatty acids are found in fatty fish (e.g., salmon), flaxseeds, chia seeds, and walnuts.
+- Logical flow: They are essential for brain health, inflammation regulation, and heart health.
+- Example or analogy: Think of omega-3s as brain food. They nourish the brain (function) and protect the heart (health)."
+
+What is the role of iron in human nutrition?,"- Definition or overview: Iron is essential for hemoglobin production, oxygen transport, and energy metabolism.
+- Logical flow: Deficiency causes anemia, while excess can lead to toxicity.
+- Example or analogy: Think of iron as a delivery truck. It transports oxygen (cargo) to cells (destinations) for energy production."
+Question,Answer
+What are hormones, and what are their general functions?,"- Definition or overview: Hormones are chemical messengers secreted by endocrine glands that regulate growth, metabolism, reproduction, and homeostasis.
+- Logical flow: They act on target cells via receptors, triggering specific physiological responses.
+- Example or analogy: Think of hormones as text messages. They send instructions (signals) to cells (recipients) to perform tasks (functions)."
+
+What is the target gland concept?,"- Definition or overview: The target gland concept describes how hormones from one gland (e.g., pituitary) regulate the activity of another gland (e.g., thyroid).
+- Logical flow: For example, TSH from the pituitary stimulates the thyroid to release thyroxine.
+- Example or analogy: Think of the target gland concept as a boss (pituitary) giving orders to an employee (thyroid) to complete a task (hormone release)."
+
+What is negative feedback in hormone regulation?,"- Definition or overview: Negative feedback occurs when the output of a system (e.g., hormone levels) inhibits its own production to maintain homeostasis.
+- Logical flow: For example, high thyroid hormone levels inhibit TSH release from the pituitary.
+- Example or analogy: Think of negative feedback as a thermostat. When the room (body) gets too hot (high hormone levels), the AC (feedback) turns off to cool it down."
+
+What are hormone receptors, and what happens if they malfunction?,"- Definition or overview: Hormone receptors are proteins on or inside cells that bind hormones, triggering a response. Abnormalities can lead to hormone resistance or overactivity.
+- Logical flow: Examples include insulin resistance in type 2 diabetes and hyperthyroidism due to TSH receptor mutations.
+- Example or analogy: Think of hormone receptors as locks. If the lock (receptor) is broken, the key (hormone) can’t open the door (cellular response)."
+
+How are hormones classified?,"- Definition or overview: Hormones are classified by chemical structure: peptides (e.g., insulin), steroids (e.g., cortisol), and amino acid derivatives (e.g., thyroxine).
+- Logical flow: Each class has distinct synthesis, transport, and mechanisms of action.
+- Example or analogy: Think of hormone classification as grouping vehicles. Peptides are cars (small and fast), steroids are trucks (large and slow), and amino acid derivatives are motorcycles (fast and specific)."
+
+What are intracellular messengers in hormone action?,"- Definition or overview: Intracellular messengers (e.g., cAMP, IP3) relay hormone signals inside cells, amplifying the response.
+- Logical flow: For example, adrenaline activates cAMP, which triggers glycogen breakdown.
+- Example or analogy: Think of intracellular messengers as relay runners. They carry the baton (signal) from the hormone (starter) to the finish line (cellular response)."
+
+What are the hormones of the pituitary gland?,"- Definition or overview: The pituitary gland secretes hormones like growth hormone (GH), thyroid-stimulating hormone (TSH), and adrenocorticotropic hormone (ACTH).
+- Logical flow: These hormones regulate growth, metabolism, and stress responses.
+- Example or analogy: Think of the pituitary gland as a control center. It sends out managers (hormones) to oversee different departments (glands)."
+
+What is the role of thyroid hormones?,"- Definition or overview: Thyroid hormones (T3 and T4) regulate metabolism, growth, and development.
+- Logical flow: They increase basal metabolic rate, heart rate, and protein synthesis.
+- Example or analogy: Think of thyroid hormones as accelerators. They speed up the body’s engine (metabolism) to burn fuel (energy) faster."
+
+What is the pathophysiology of hypothyroidism?,"- Definition or overview: Hypothyroidism is caused by insufficient thyroid hormone production, leading to symptoms like fatigue, weight gain, and cold intolerance.
+- Logical flow: It can result from iodine deficiency, autoimmune disease (Hashimoto’s), or pituitary dysfunction.
+- Example or analogy: Think of hypothyroidism as a slow engine. The body (car) runs sluggishly (fatigue) and struggles to generate heat (cold intolerance)."
+
+What are the hormones of the adrenal cortex?,"- Definition or overview: The adrenal cortex produces glucocorticoids (e.g., cortisol), mineralocorticoids (e.g., aldosterone), and androgens (e.g., DHEA).
+- Logical flow: These hormones regulate stress responses, electrolyte balance, and secondary sexual characteristics.
+- Example or analogy: Think of the adrenal cortex as a multitasking factory. It produces stress relievers (cortisol), salt managers (aldosterone), and gender enhancers (androgens)."
+
+What is the role of cortisol?,"- Definition or overview: Cortisol regulates metabolism, immune responses, and stress adaptation.
+- Logical flow: It increases blood sugar, suppresses inflammation, and modulates the immune system.
+- Example or analogy: Think of cortisol as a stress manager. It prepares the body (team) to handle emergencies (stress) by mobilizing resources (energy)."
+
+What are the hormones of the adrenal medulla?,"- Definition or overview: The adrenal medulla produces catecholamines (e.g., adrenaline, noradrenaline) that mediate the fight-or-flight response.
+- Logical flow: These hormones increase heart rate, blood pressure, and energy availability.
+- Example or analogy: Think of the adrenal medulla as an alarm system. It triggers the body (house) to prepare for danger (fight-or-flight)."
+
+What are the hormones of the gonads?,"- Definition or overview: The gonads produce sex hormones: testosterone (testes), estrogen, and progesterone (ovaries).
+- Logical flow: These hormones regulate reproductive development, secondary sexual characteristics, and fertility.
+- Example or analogy: Think of gonadal hormones as architects. They design (regulate) the body’s reproductive structures (organs) and features (secondary characteristics)."
+
+What is the role of insulin in glucose metabolism?,"- Definition or overview: Insulin lowers blood glucose by promoting glucose uptake in cells and glycogen synthesis in the liver.
+- Logical flow: It is secreted by pancreatic beta cells in response to high blood sugar.
+- Example or analogy: Think of insulin as a key. It unlocks cells (doors) to let glucose (energy) in."
+
+What is the role of glucagon?,"- Definition or overview: Glucagon raises blood glucose by stimulating glycogen breakdown and gluconeogenesis in the liver.
+- Logical flow: It is secreted by pancreatic alpha cells in response to low blood sugar.
+- Example or analogy: Think of glucagon as a backup generator. It kicks in when the main power (glucose) is low, providing energy (glucose) to the body."
+
+What are gastrointestinal hormones?,"- Definition or overview: Gastrointestinal hormones (e.g., gastrin, CCK, secretin) regulate digestion, appetite, and nutrient absorption.
+- Logical flow: They are secreted by the stomach, pancreas, and intestines in response to food intake.
+- Example or analogy: Think of gastrointestinal hormones as restaurant staff. They prepare (digest), serve (absorb), and clean up (regulate) after meals."
+Question,Answer
+What is the hypothalamic-pituitary axis?,"- Definition or overview: The hypothalamic-pituitary axis is a complex feedback system where the hypothalamus regulates the pituitary gland, which in turn controls other endocrine glands.
+- Logical flow: The hypothalamus releases releasing hormones (e.g., TRH, CRH) that stimulate the pituitary to secrete tropic hormones (e.g., TSH, ACTH).
+- Example or analogy: Think of the hypothalamic-pituitary axis as a CEO (hypothalamus) directing a manager (pituitary) to oversee employees (endocrine glands)."
+
+What is the role of growth hormone (GH)?,"- Definition or overview: Growth hormone stimulates growth, cell reproduction, and regeneration. It also regulates metabolism by promoting protein synthesis and fat breakdown.
+- Logical flow: GH is secreted by the anterior pituitary and acts directly on tissues or via insulin-like growth factor 1 (IGF-1).
+- Example or analogy: Think of GH as a construction supervisor. It oversees the building (growth) and maintenance (repair) of the body’s structures."
+
+What is the mechanism of action of steroid hormones?,"- Definition or overview: Steroid hormones (e.g., cortisol, estrogen) diffuse through cell membranes and bind to intracellular receptors, which then regulate gene transcription.
+- Logical flow: This process is slower but longer-lasting compared to peptide hormones.
+- Example or analogy: Think of steroid hormones as architects. They enter the cell (building) and redesign the blueprint (DNA) for long-term changes."
+
+What is the role of parathyroid hormone (PTH)?,"- Definition or overview: Parathyroid hormone regulates calcium and phosphate levels by increasing calcium absorption in the gut, reabsorption in the kidneys, and release from bones.
+- Logical flow: It is secreted in response to low blood calcium levels.
+- Example or analogy: Think of PTH as a calcium manager. It ensures calcium levels (inventory) are balanced by sourcing from bones (warehouse) and kidneys (suppliers)."
+
+What is the pathophysiology of hyperparathyroidism?,"- Definition or overview: Hyperparathyroidism is caused by excessive PTH secretion, leading to high blood calcium (hypercalcemia), bone loss, and kidney stones.
+- Logical flow: It can result from parathyroid adenomas or hyperplasia.
+- Example or analogy: Think of hyperparathyroidism as an overactive manager. It extracts too much calcium (resources) from bones (warehouse), causing damage."
+
+What is the role of aldosterone?,"- Definition or overview: Aldosterone regulates sodium and potassium balance by promoting sodium reabsorption and potassium excretion in the kidneys.
+- Logical flow: It is secreted by the adrenal cortex in response to low blood pressure or high potassium levels.
+- Example or analogy: Think of aldosterone as a salt and water regulator. It adjusts the body’s fluid balance (plumbing) to maintain blood pressure (pressure)."
+
+What is the role of adrenaline (epinephrine)?,"- Definition or overview: Adrenaline mediates the fight-or-flight response by increasing heart rate, blood pressure, and energy availability.
+- Logical flow: It is secreted by the adrenal medulla in response to stress or danger.
+- Example or analogy: Think of adrenaline as an emergency alarm. It prepares the body (house) to respond to threats (danger) quickly."
+
+What is the role of estrogen in the female reproductive system?,"- Definition or overview: Estrogen regulates the menstrual cycle, promotes secondary sexual characteristics, and maintains pregnancy.
+- Logical flow: It is produced by the ovaries and acts on the uterus, breasts, and other tissues.
+- Example or analogy: Think of estrogen as a project manager. It oversees the menstrual cycle (project timeline) and prepares the body (team) for pregnancy (delivery)."
+
+What is the role of testosterone in the male reproductive system?,"- Definition or overview: Testosterone promotes sperm production, secondary sexual characteristics, and muscle growth.
+- Logical flow: It is produced by the testes and regulated by LH from the pituitary.
+- Example or analogy: Think of testosterone as a coach. It trains the body (team) to develop strength (muscles) and perform (reproduce)."
+
+What is the role of somatostatin?,"- Definition or overview: Somatostatin inhibits the release of growth hormone, insulin, and glucagon, regulating growth and metabolism.
+- Logical flow: It is produced by the hypothalamus, pancreas, and gastrointestinal tract.
+- Example or analogy: Think of somatostatin as a brake pedal. It slows down hormone release (speed) to maintain balance (homeostasis)."
+
+What is the role of gastrin?,"- Definition or overview: Gastrin stimulates gastric acid secretion and stomach motility, aiding digestion.
+- Logical flow: It is secreted by G cells in the stomach in response to food intake.
+- Example or analogy: Think of gastrin as a chef. It prepares the stomach (kitchen) to digest food (meal) by releasing acid (ingredients)."
+
+What is the role of cholecystokinin (CCK)?,"- Definition or overview: CCK stimulates bile release from the gallbladder and pancreatic enzyme secretion, aiding fat and protein digestion.
+- Logical flow: It is secreted by the small intestine in response to fatty acids and amino acids.
+- Example or analogy: Think of CCK as a delivery driver. It sends bile (package) and enzymes (tools) to the small intestine (worksite) for digestion (construction)."
+
+What is the role of secretin?,"- Definition or overview: Secretin stimulates bicarbonate secretion from the pancreas, neutralizing stomach acid in the small intestine.
+- Logical flow: It is secreted by the small intestine in response to acidic chyme.
+- Example or analogy: Think of secretin as a fire extinguisher. It neutralizes acid (fire) in the small intestine (building) to prevent damage."
+
+What is the role of vasoactive intestinal polypeptide (VIP)?,"- Definition or overview: VIP relaxes smooth muscles, dilates blood vessels, and stimulates water and electrolyte secretion in the intestines.
+- Logical flow: It is produced by neurons in the gastrointestinal tract.
+- Example or analogy: Think of VIP as a plumber. It relaxes pipes (smooth muscles) and regulates fluid flow (secretion) in the intestines (plumbing system)."
+
+What is the role of neurotensin?,"- Definition or overview: Neurotensin regulates gut motility, pancreatic secretion, and fat metabolism.
+- Logical flow: It is secreted by the small intestine in response to fat intake.
+- Example or analogy: Think of neurotensin as a traffic controller. It directs gut motility (traffic) and pancreatic secretion (supplies) for digestion (operations)."
+
+What is the role of substance P?,"- Definition or overview: Substance P is a neurotransmitter involved in pain perception, inflammation, and gut motility.
+- Logical flow: It is produced by neurons in the central and peripheral nervous systems.
+- Example or analogy: Think of substance P as an alarm system. It signals pain (danger) and inflammation (response) in the body (house)."
+Question,Answer
+What is the secondary structure of proteins?,"- Definition or overview: The secondary structure of proteins refers to local folding patterns stabilized by hydrogen bonds, such as alpha-helices and beta-sheets.
+- Logical flow: These structures are formed by interactions between backbone atoms (NH and CO groups).
+- Example or analogy: Think of secondary structures as the twists (alpha-helices) and folds (beta-sheets) in a piece of paper (protein chain)."
+
+What is an alpha-helix?,"- Definition or overview: An alpha-helix is a right-handed coiled structure stabilized by hydrogen bonds between every fourth amino acid.
+- Logical flow: It is common in fibrous proteins like keratin and globular proteins like myoglobin.
+- Example or analogy: Think of an alpha-helix as a spiral staircase. Each step (amino acid) is connected by a railing (hydrogen bond)."
+
+What is a beta-sheet?,"- Definition or overview: A beta-sheet is a secondary structure where polypeptide chains align side-by-side, forming hydrogen bonds between adjacent strands.
+- Logical flow: It can be parallel or antiparallel and is found in proteins like silk fibroin.
+- Example or analogy: Think of a beta-sheet as a folded fan. Each fold (strand) is held together by connections (hydrogen bonds)."
+
+What is the collagen triple helix?,"- Definition or overview: The collagen triple helix is a unique secondary structure where three polypeptide chains twist around each other, stabilized by hydrogen bonds and hydroxyproline.
+- Logical flow: It provides tensile strength to connective tissues like skin and tendons.
+- Example or analogy: Think of the collagen triple helix as a braided rope. The three strands (polypeptides) twist together to form a strong structure."
+
+What is the difference between alpha-keratin and collagen?,"- Definition or overview: Alpha-keratin forms alpha-helices and is found in hair and nails, while collagen forms a triple helix and is found in connective tissues.
+- Logical flow: Alpha-keratin is flexible, while collagen provides strength and rigidity.
+- Example or analogy: Think of alpha-keratin as a spring (flexible) and collagen as a steel cable (strong)."
+
+What is the tertiary structure of proteins?,"- Definition or overview: The tertiary structure is the 3D shape of a protein, formed by interactions between side chains (R groups) of amino acids.
+- Logical flow: It is stabilized by hydrophobic interactions, hydrogen bonds, ionic bonds, and disulfide bridges.
+- Example or analogy: Think of tertiary structure as a crumpled paper ball. The folds (interactions) give it a unique shape (3D structure)."
+
+What is the oxygen-binding curve of hemoglobin?,"- Definition or overview: The oxygen-binding curve of hemoglobin is sigmoidal, showing cooperative binding where the binding of one oxygen molecule increases the affinity for others.
+- Logical flow: This allows efficient oxygen loading in the lungs and unloading in tissues.
+- Example or analogy: Think of hemoglobin as a team. The first member (oxygen) joining makes it easier for others to follow (cooperative binding)."
+
+What is sickle-cell anemia, and how is it related to hemoglobin?,"- Definition or overview: Sickle-cell anemia is a genetic disorder caused by a mutation in the beta-globin chain of hemoglobin, leading to abnormal, sickle-shaped red blood cells.
+- Logical flow: The mutation (glutamate to valine) causes hemoglobin to polymerize under low oxygen, distorting red blood cells.
+- Example or analogy: Think of sickle-cell hemoglobin as a broken zipper. It sticks together (polymerizes) under stress (low oxygen), causing blockages (sickling)."
+
+What is the quaternary structure of proteins?,"- Definition or overview: The quaternary structure is the arrangement of multiple polypeptide chains (subunits) into a functional protein complex.
+- Logical flow: Examples include hemoglobin (4 subunits) and antibodies (2 heavy and 2 light chains).
+- Example or analogy: Think of quaternary structure as a team. Each player (subunit) has a role, and together they form a functional team (protein)."
+
+What is dialysis in protein purification?,"- Definition or overview: Dialysis separates proteins from small molecules using a semipermeable membrane that allows small molecules to pass but retains proteins.
+- Logical flow: It is used to remove salts or other small contaminants from protein solutions.
+- Example or analogy: Think of dialysis as a sieve. It lets small particles (salts) through but keeps large ones (proteins) in."
+
+What is salting-out in protein purification?,"- Definition or overview: Salting-out is a technique where high salt concentrations cause proteins to precipitate out of solution due to reduced solubility.
+- Logical flow: It is used to fractionate proteins based on their solubility.
+- Example or analogy: Think of salting-out as adding too much salt to soup. The ingredients (proteins) clump together and settle (precipitate)."
+
+What is electrophoresis?,"- Definition or overview: Electrophoresis separates proteins based on size and charge by applying an electric field to a gel matrix.
+- Logical flow: Smaller or more negatively charged proteins migrate faster toward the positive electrode.
+- Example or analogy: Think of electrophoresis as a race. The fastest runners (small/charged proteins) reach the finish line (positive electrode) first."
+
+What is ion-exchange chromatography?,"- Definition or overview: Ion-exchange chromatography separates proteins based on charge using a resin with charged groups that bind oppositely charged proteins.
+- Logical flow: Proteins are eluted by increasing salt concentration or changing pH.
+- Example or analogy: Think of ion-exchange chromatography as a magnet. It attracts (binds) proteins with opposite charges and releases (elutes) them when conditions change."
+
+What is affinity chromatography?,"- Definition or overview: Affinity chromatography purifies proteins based on specific binding interactions, such as enzyme-substrate or antibody-antigen.
+- Logical flow: A ligand attached to the resin binds the target protein, which is later eluted.
+- Example or analogy: Think of affinity chromatography as a lock and key. The resin (lock) captures the protein (key) and releases it when the right signal (elution) is given."
+
+What is size-exclusion chromatography?,"- Definition or overview: Size-exclusion chromatography separates proteins based on size using a porous gel matrix. Larger proteins elute first, while smaller ones travel through the pores.
+- Logical flow: It is used to determine molecular weight or purify proteins.
+- Example or analogy: Think of size-exclusion chromatography as a sieve. Large objects (proteins) can’t fit through the holes (pores) and come out first."
+
+What is the role of hydrogen bonding in protein structure?,"- Definition or overview: Hydrogen bonds stabilize secondary structures (e.g., alpha-helices, beta-sheets) and tertiary/quaternary structures by forming between polar groups.
+- Logical flow: They are weaker than covalent bonds but crucial for maintaining protein shape.
+- Example or analogy: Think of hydrogen bonds as Velcro. They hold parts (structures) of the protein together but can be pulled apart (broken) easily."
+
+What is the role of disulfide bridges in protein structure?,"- Definition or overview: Disulfide bridges are covalent bonds between cysteine residues that stabilize tertiary and quaternary structures.
+- Logical flow: They are common in extracellular proteins like antibodies and insulin.
+- Example or analogy: Think of disulfide bridges as staples. They hold folded paper (protein) in place, ensuring it doesn’t unravel."
+
+What is the role of hydrophobic interactions in protein folding?,"- Definition or overview: Hydrophobic interactions drive protein folding by clustering nonpolar side chains in the protein’s interior, away from water.
+- Logical flow: They contribute to the stability of the protein’s core.
+- Example or analogy: Think of hydrophobic interactions as a group of friends huddling together (nonpolar side chains) to avoid rain (water)."
+
+What is the role of myoglobin in oxygen storage?,"- Definition or overview: Myoglobin stores oxygen in muscle tissues, releasing it during periods of low oxygen (e.g., exercise).
+- Logical flow: It has a higher affinity for oxygen than hemoglobin, ensuring oxygen delivery to muscles.
+- Example or analogy: Think of myoglobin as an oxygen tank. It stores oxygen (fuel) for muscles (engines) to use when needed."
+Question,Answer
+What is the pentose phosphate pathway (PPP)?,"- Definition or overview: The PPP generates NADPH for biosynthetic reactions and ribose-5-phosphate for nucleotide synthesis.
+- Logical flow: It has oxidative (NADPH production) and non-oxidative (sugar interconversion) phases.
+- Example or analogy: Think of the PPP as a factory. It produces energy currency (NADPH) and building blocks (ribose-5-phosphate) for the cell."
+
+What are the disorders of galactose metabolism?,"- Definition or overview: Disorders include galactosemia, caused by deficiencies in enzymes like galactose-1-phosphate uridylyltransferase (GALT).
+- Logical flow: Accumulation of galactose-1-phosphate leads to liver damage, cataracts, and developmental issues.
+- Example or analogy: Think of galactosemia as a traffic jam. The blocked pathway (enzyme deficiency) causes buildup (galactose-1-phosphate) and damage (symptoms)."
+
+What is gluconeogenesis, and why is it important?,"- Definition or overview: Gluconeogenesis is the synthesis of glucose from non-carbohydrate precursors (e.g., lactate, amino acids, glycerol) during fasting or starvation.
+- Logical flow: It maintains blood glucose levels when dietary glucose is unavailable.
+- Example or analogy: Think of gluconeogenesis as a backup generator. It produces glucose (power) when the main source (diet) is unavailable."
+
+What is the Cori cycle?,"- Definition or overview: The Cori cycle is a metabolic pathway where lactate produced by anaerobic glycolysis in muscles is transported to the liver, converted back to glucose, and returned to the muscles.
+- Logical flow: It prevents lactic acidosis and recycles lactate into usable energy.
+- Example or analogy: Think of the Cori cycle as a recycling system. Lactate (waste) is converted back into glucose (usable fuel) for reuse."
+
+What is glycogenolysis?,"- Definition or overview: Glycogenolysis is the breakdown of glycogen into glucose-1-phosphate, which is converted to glucose-6-phosphate for energy production.
+- Logical flow: It is activated by hormones like glucagon and adrenaline during low blood sugar.
+- Example or analogy: Think of glycogenolysis as breaking open a piggy bank (glycogen) to get coins (glucose) for energy."
+
+What is glycogenesis?,"- Definition or overview: Glycogenesis is the synthesis of glycogen from glucose, primarily in the liver and muscles.
+- Logical flow: It is activated by insulin when blood glucose levels are high.
+- Example or analogy: Think of glycogenesis as saving money (glucose) in a piggy bank (glycogen) for future use."
+
+What are glycogen storage diseases?,"- Definition or overview: Glycogen storage diseases (e.g., von Gierke’s disease) are genetic disorders caused by enzyme deficiencies in glycogen metabolism, leading to abnormal glycogen accumulation.
+- Logical flow: Symptoms include hypoglycemia, liver enlargement, and muscle weakness.
+- Example or analogy: Think of glycogen storage diseases as a broken recycling system. Glycogen (waste) piles up because it can’t be processed (enzyme deficiency)."
+
+What is the structure of the lipid bilayer?,"- Definition or overview: The lipid bilayer is a double layer of phospholipids that forms the core structure of cell membranes.
+- Logical flow: It is amphipathic, with hydrophilic heads facing outward and hydrophobic tails facing inward.
+- Example or analogy: Think of the lipid bilayer as a sandwich. The bread (hydrophilic heads) surrounds the filling (hydrophobic tails)."
+
+What is beta-oxidation of fatty acids?,"- Definition or overview: Beta-oxidation is the breakdown of fatty acids into acetyl-CoA, which enters the TCA cycle for energy production.
+- Logical flow: It occurs in the mitochondria and generates NADH and FADH2.
+- Example or analogy: Think of beta-oxidation as chopping wood (fatty acids) into smaller pieces (acetyl-CoA) to burn for energy."
+
+What are ketone bodies, and how are they used?,"- Definition or overview: Ketone bodies (e.g., acetoacetate, beta-hydroxybutyrate) are produced during fasting or starvation and serve as an alternative energy source for the brain and muscles.
+- Logical flow: They are synthesized in the liver from acetyl-CoA and transported to other tissues.
+- Example or analogy: Think of ketone bodies as emergency fuel. When glucose (gasoline) is low, the body switches to ketones (diesel) for energy."
+
+What is cholesterol biosynthesis?,"- Definition or overview: Cholesterol biosynthesis is the production of cholesterol from acetyl-CoA in the liver, regulated by the enzyme HMG-CoA reductase.
+- Logical flow: Cholesterol is used for cell membranes, steroid hormones, and bile acids.
+- Example or analogy: Think of cholesterol biosynthesis as a factory. It produces cholesterol (product) from raw materials (acetyl-CoA) for various uses."
+
+What are LDL and HDL, and what are their roles?,"- Definition or overview: LDL (low-density lipoprotein) transports cholesterol to tissues, while HDL (high-density lipoprotein) removes excess cholesterol and returns it to the liver.
+- Logical flow: High LDL is associated with atherosclerosis, while high HDL is protective.
+- Example or analogy: Think of LDL as a delivery truck (carries cholesterol to tissues) and HDL as a garbage truck (removes cholesterol from tissues)."
+
+What is arachidonic acid metabolism?,"- Definition or overview: Arachidonic acid is metabolized into eicosanoids (e.g., prostaglandins, thromboxanes, leukotrienes) that regulate inflammation, blood clotting, and immunity.
+- Logical flow: It is released from membrane phospholipids by phospholipase A2.
+- Example or analogy: Think of arachidonic acid as a raw material. It is processed (metabolized) into various products (eicosanoids) with different functions."
+
+What is diabetic ketoacidosis (DKA)?,"- Definition or overview: DKA is a life-threatening condition in diabetes where lack of insulin leads to excessive ketone production, causing acidosis and dehydration.
+- Logical flow: It results from uncontrolled blood sugar and is treated with insulin and fluids.
+- Example or analogy: Think of DKA as a chemical spill. Ketones (toxic waste) build up, causing damage (acidosis) to the body."
+
+What is Refsum’s disease?,"- Definition or overview: Refsum’s disease is a genetic disorder caused by the accumulation of phytanic acid due to a deficiency in alpha-oxidation.
+- Logical flow: Symptoms include neuropathy, vision loss, and hearing impairment.
+- Example or analogy: Think of Refsum’s disease as a blocked drain. Phytanic acid (waste) accumulates, causing damage (symptoms) to the body."
+
+What is respiratory distress syndrome (RDS)?,"- Definition or overview: RDS is a condition in premature infants caused by insufficient surfactant production, leading to collapsed alveoli and breathing difficulties.
+- Logical flow: It is treated with surfactant replacement therapy and oxygen support.
+- Example or analogy: Think of RDS as a deflated balloon. Without surfactant (air), the alveoli (balloon) can’t stay inflated, making breathing difficult."
+
+What is arteriosclerosis?,"- Definition or overview: Arteriosclerosis is the thickening and hardening of arterial walls due to plaque buildup, leading to reduced blood flow.
+- Logical flow: It is caused by factors like high cholesterol, hypertension, and smoking.
+- Example or analogy: Think of arteriosclerosis as a clogged pipe. Plaque (debris) narrows the artery (pipe), reducing blood flow (water flow)."
+
+What is the role of polyunsaturated fatty acids (PUFAs)?,"- Definition or overview: PUFAs (e.g., omega-3, omega-6) are essential fatty acids that support brain function, reduce inflammation, and maintain cell membrane fluidity.
+- Logical flow: They must be obtained from the diet and are precursors to eicosanoids.
+- Example or analogy: Think of PUFAs as lubricants. They keep the body’s systems (brain, heart) running smoothly and reduce friction (inflammation)."
+
+What is the role of phospholipids in cell membranes?,"- Definition or overview: Phospholipids form the lipid bilayer of cell membranes, providing structure and regulating permeability.
+- Logical flow: They have hydrophilic heads and hydrophobic tails, creating a barrier to polar molecules.
+- Example or analogy: Think of phospholipids as bricks. They build the walls (membrane) of the cell (house) and control what enters and exits."
+
+What is the role of glycolipids?,"- Definition or overview: Glycolipids are lipids with carbohydrate groups that play roles in cell recognition, signaling, and membrane stability.
+- Logical flow: They are found on the outer surface of cell membranes.
+- Example or analogy: Think of glycolipids as name tags. They identify the cell (person) and facilitate communication (signaling)."
+Question,Answer
+What is the uronic acid pathway?,"- Definition or overview: The uronic acid pathway converts glucose to glucuronic acid, which is used for detoxification, vitamin C synthesis, and proteoglycan production.
+- Logical flow: It is an alternative to glycolysis and is regulated by UDP-glucose dehydrogenase.
+- Example or analogy: Think of the uronic acid pathway as a detour. It takes glucose (raw material) and processes it into useful products (glucuronic acid) for specific tasks."
+
+What is the effect of drugs on the uronic acid pathway?,"- Definition or overview: Some drugs (e.g., aspirin) are metabolized via the uronic acid pathway, where glucuronic acid conjugates with the drug for excretion.
+- Logical flow: This pathway helps detoxify and eliminate drugs from the body.
+- Example or analogy: Think of the uronic acid pathway as a recycling plant. It processes drugs (waste) into excretable forms (recycled products)."
+
+What is the role of fructose metabolism?,"- Definition or overview: Fructose is metabolized in the liver to produce intermediates for glycolysis and gluconeogenesis.
+- Logical flow: It is converted to fructose-1-phosphate by fructokinase and then split into glyceraldehyde and dihydroxyacetone phosphate.
+- Example or analogy: Think of fructose metabolism as a side road. It processes fructose (raw material) into usable fuel (glycolysis intermediates)."
+
+What is the role of galactose metabolism?,"- Definition or overview: Galactose is converted to glucose-1-phosphate via the Leloir pathway, which involves enzymes like galactokinase and galactose-1-phosphate uridylyltransferase.
+- Logical flow: It provides an alternative source of glucose for energy production.
+- Example or analogy: Think of galactose metabolism as a backup route. It converts galactose (alternative fuel) into glucose (usable energy)."
+
+What is the role of glycoproteins?,"- Definition or overview: Glycoproteins are proteins with carbohydrate groups attached, playing roles in cell signaling, immunity, and structural support.
+- Logical flow: Examples include antibodies, hormones, and cell surface receptors.
+- Example or analogy: Think of glycoproteins as decorated messengers. The protein (message) is enhanced by sugars (decorations) for specific functions."
+
+What is the role of proteoglycans?,"- Definition or overview: Proteoglycans are glycoproteins with long carbohydrate chains (glycosaminoglycans) that provide structural support and hydration to tissues.
+- Logical flow: They are found in the extracellular matrix and cartilage.
+- Example or analogy: Think of proteoglycans as sponges. They absorb water (hydration) and provide cushioning (support) to tissues."
+
+What is the role of carnitine in fatty acid oxidation?,"- Definition or overview: Carnitine transports long-chain fatty acids into the mitochondria for beta-oxidation.
+- Logical flow: It forms acyl-carnitine esters, which are shuttled across the mitochondrial membrane.
+- Example or analogy: Think of carnitine as a ferry. It carries fatty acids (passengers) into the mitochondria (destination) for energy production."
+
+What is the role of ketone bodies in energy production?,"- Definition or overview: Ketone bodies (e.g., acetoacetate, beta-hydroxybutyrate) are used as an energy source by the brain, heart, and muscles during fasting or starvation.
+- Logical flow: They are produced in the liver and transported to other tissues.
+- Example or analogy: Think of ketone bodies as emergency rations. They provide energy (food) when glucose (main supply) is unavailable."
+
+What is the role of phospholipids in lipid metabolism?,"- Definition or overview: Phospholipids are essential components of cell membranes and serve as precursors for signaling molecules (e.g., inositol trisphosphate).
+- Logical flow: They are synthesized from glycerol-3-phosphate and fatty acids.
+- Example or analogy: Think of phospholipids as building blocks. They construct cell membranes (walls) and produce signals (messages) for cellular communication."
+
+What is the role of HDL in cholesterol metabolism?,"- Definition or overview: HDL (high-density lipoprotein) removes excess cholesterol from tissues and transports it to the liver for excretion or recycling.
+- Logical flow: It is known as 'good cholesterol' because it reduces the risk of atherosclerosis.
+- Example or analogy: Think of HDL as a garbage truck. It collects cholesterol (waste) from tissues (neighborhoods) and takes it to the liver (recycling center)."
+
+What is the role of LDL in cholesterol metabolism?,"- Definition or overview: LDL (low-density lipoprotein) transports cholesterol from the liver to tissues, where it can accumulate and contribute to atherosclerosis.
+- Logical flow: It is known as 'bad cholesterol' because high levels increase cardiovascular risk.
+- Example or analogy: Think of LDL as a delivery truck. It delivers cholesterol (packages) to tissues (addresses), but too much can cause blockages (atherosclerosis)."
+
+What is the role of prostaglandins in inflammation?,"- Definition or overview: Prostaglandins are lipid mediators derived from arachidonic acid that regulate inflammation, pain, and fever.
+- Logical flow: They are produced by cyclooxygenase (COX) enzymes and act locally.
+- Example or analogy: Think of prostaglandins as alarm signals. They alert the body (neighborhood) to injury (fire) and trigger a response (inflammation)."
+
+What is the role of thromboxanes in blood clotting?,"- Definition or overview: Thromboxanes are eicosanoids that promote platelet aggregation and vasoconstriction, aiding blood clot formation.
+- Logical flow: They are produced by platelets and play a key role in hemostasis.
+- Example or analogy: Think of thromboxanes as emergency responders. They seal wounds (clots) and reduce blood flow (vasoconstriction) to prevent bleeding."
+
+What is the role of leukotrienes in immunity?,"- Definition or overview: Leukotrienes are inflammatory mediators derived from arachidonic acid that attract immune cells and constrict airways.
+- Logical flow: They are involved in allergic reactions and asthma.
+- Example or analogy: Think of leukotrienes as traffic controllers. They direct immune cells (traffic) to infection sites (accidents) and narrow airways (roads) during inflammation."
+
+What is the role of beta-carotene in metabolism?,"- Definition or overview: Beta-carotene is a precursor to vitamin A, which is essential for vision, immune function, and cell differentiation.
+- Logical flow: It is converted to retinol in the intestine and liver.
+- Example or analogy: Think of beta-carotene as a raw material. It is processed (converted) into vitamin A (finished product) for various uses."
+
+What is the role of triglycerides in energy storage?,"- Definition or overview: Triglycerides are the main form of energy storage in the body, stored in adipose tissue and broken down into fatty acids when needed.
+- Logical flow: They provide a concentrated source of energy (9 kcal/g) compared to carbohydrates (4 kcal/g).
+- Example or analogy: Think of triglycerides as a savings account. They store energy (money) for future use when food (income) is scarce."
+
+What is the role of steroid hormones in metabolism?,"- Definition or overview: Steroid hormones (e.g., cortisol, estrogen, testosterone) regulate metabolism, immune function, and reproduction.
+- Logical flow: They are synthesized from cholesterol and act on nuclear receptors to regulate gene expression.
+- Example or analogy: Think of steroid hormones as managers. They oversee various departments (metabolism, immunity, reproduction) in the body (company)."
+Question,Answer
+What is the difference between innate and adaptive immunity?,"- Definition or overview: Innate immunity is the first line of defense, providing immediate but non-specific protection, while adaptive immunity is slower but highly specific and has memory.
+- Logical flow: Innate immunity includes barriers (skin) and cells (macrophages), while adaptive immunity involves lymphocytes (B cells, T cells).
+- Example or analogy: Think of innate immunity as a security guard (immediate but general) and adaptive immunity as a detective (specific and remembers past threats)."
+
+What are the principles of the clonal selection hypothesis?,"- Definition or overview: The clonal selection hypothesis states that each lymphocyte has a unique receptor, and only those cells that recognize an antigen are activated and proliferate.
+- Logical flow: It explains how the immune system generates a specific response to diverse antigens.
+- Example or analogy: Think of clonal selection as a talent show. Only the best performers (lymphocytes) that match the criteria (antigen) get selected and amplified (proliferate)."
+
+What are the two signals required for lymphocyte activation?,"- Definition or overview: Lymphocyte activation requires two signals: (1) antigen binding to the receptor and (2) co-stimulation from antigen-presenting cells (e.g., B7 binding to CD28).
+- Logical flow: This ensures that only relevant antigens trigger an immune response.
+- Example or analogy: Think of lymphocyte activation as starting a car. The key (antigen) turns the ignition (signal 1), but the engine (immune response) won’t start without fuel (signal 2)."
+
+What are the roles of T cells, B cells, and natural killer (NK) cells?,"- Definition or overview: T cells mediate cellular immunity, B cells produce antibodies, and NK cells kill infected or cancerous cells without prior sensitization.
+- Logical flow: T cells include helper (CD4+) and cytotoxic (CD8+) subsets, while B cells differentiate into plasma cells.
+- Example or analogy: Think of T cells as soldiers (direct attack), B cells as archers (antibody production), and NK cells as assassins (quick elimination of threats)."
+
+What are antigen-presenting cells (APCs)?,"- Definition or overview: APCs (e.g., dendritic cells, macrophages) process and present antigens to T cells, initiating an adaptive immune response.
+- Logical flow: They express MHC molecules that display antigen fragments to T cells.
+- Example or analogy: Think of APCs as messengers. They collect information (antigens) and deliver it (present) to the decision-makers (T cells)."
+
+What are the classes of immunoglobulins, and what are their functions?,"- Definition or overview: Immunoglobulin classes include IgG (long-term immunity), IgM (early response), IgA (mucosal immunity), IgE (allergies), and IgD (B cell activation).
+- Logical flow: Each class has unique properties and roles in the immune response.
+- Example or analogy: Think of immunoglobulins as specialized tools. IgG is a multitool (versatile), IgM is a hammer (strong but basic), and IgE is a fire alarm (triggers allergies)."
+
+What is the structure of an antibody?,"- Definition or overview: Antibodies are Y-shaped proteins with two heavy chains and two light chains, forming antigen-binding sites (Fab) and a constant region (Fc).
+- Logical flow: The variable region binds antigens, while the constant region mediates effector functions.
+- Example or analogy: Think of an antibody as a pair of tweezers. The tips (Fab) grab the antigen (object), and the handle (Fc) determines what to do with it."
+
+What is the role of the complement system?,"- Definition or overview: The complement system is a group of proteins that enhance (complement) the immune response by opsonization, inflammation, and cell lysis.
+- Logical flow: It can be activated via the classical, alternative, or lectin pathways.
+- Example or analogy: Think of the complement system as backup troops. They support the main army (immune cells) by marking enemies (opsonization) and destroying them (lysis)."
+
+What are the pathways of complement activation?,"- Definition or overview: The classical pathway is triggered by antigen-antibody complexes, the alternative pathway by microbial surfaces, and the lectin pathway by mannose-binding lectin.
+- Logical flow: All pathways converge to form the membrane attack complex (MAC), which lyses pathogens.
+- Example or analogy: Think of complement pathways as different routes to the same destination. Each path (classical, alternative, lectin) leads to the destruction of invaders (MAC formation)."
+
+What is the role of high-affinity antibodies?,"- Definition or overview: High-affinity antibodies bind antigens tightly and are produced during later stages of the immune response, providing long-lasting protection.
+- Logical flow: They are the result of affinity maturation in germinal centers.
+- Example or analogy: Think of high-affinity antibodies as strong magnets. They stick firmly to antigens (metal) and don’t let go."
+
+What are haptens, and how do they interact with antibodies?,"- Definition or overview: Haptens are small molecules that can bind antibodies but are not immunogenic on their own. They require a carrier protein to elicit an immune response.
+- Logical flow: Examples include penicillin and poison ivy toxins.
+- Example or analogy: Think of haptens as keys without a keychain. They need a carrier (keychain) to be recognized by the immune system (lock)."
+
+What is the role of neutrophils in the immune response?,"- Definition or overview: Neutrophils are the most abundant white blood cells and are the first responders to infection, engulfing and destroying pathogens.
+- Logical flow: They release enzymes and reactive oxygen species to kill microbes.
+- Example or analogy: Think of neutrophils as firefighters. They rush to the scene (infection) and extinguish the fire (pathogens) quickly."
+
+What is the role of eosinophils in immunity?,"- Definition or overview: Eosinophils defend against parasitic infections and modulate allergic reactions by releasing toxic granules.
+- Logical flow: They are also involved in tissue repair and inflammation regulation.
+- Example or analogy: Think of eosinophils as pest control. They eliminate parasites (pests) and clean up after allergic reactions (damage)."
+
+What is the role of mast cells in immunity?,"- Definition or overview: Mast cells release histamine and other mediators during allergic reactions and defend against parasites.
+- Logical flow: They are activated by IgE binding to their surface receptors.
+- Example or analogy: Think of mast cells as alarm systems. They release signals (histamine) to alert the body (neighborhood) to invaders (allergens or parasites)."
+
+What is the genetic basis of antibody diversity?,"- Definition or overview: Antibody diversity is generated by V(D)J recombination, somatic hypermutation, and class switching during B cell development.
+- Logical flow: These processes create a vast repertoire of antibodies capable of recognizing diverse antigens.
+- Example or analogy: Think of antibody diversity as a library. Each book (antibody) has a unique story (antigen specificity) created by rearranging chapters (gene segments)."
+
+What are the theories of antibody formation?,"- Definition or overview: Theories include the instructive theory (antigen shapes antibody) and the selective theory (pre-existing antibodies are selected by antigen).
+- Logical flow: The clonal selection hypothesis, a modern selective theory, is widely accepted.
+- Example or analogy: Think of antibody formation as a talent show. The instructive theory suggests the judges (antigen) teach the performers (antibodies), while the selective theory suggests they choose the best performers (pre-existing antibodies)."
+
+What is the physiological significance of low-affinity antibodies?,"- Definition or overview: Low-affinity antibodies are produced early in the immune response and provide initial protection until high-affinity antibodies are generated.
+- Logical flow: They are less specific but help control infections until a stronger response develops.
+- Example or analogy: Think of low-affinity antibodies as temporary fixes. They hold things together (control infection) until a permanent solution (high-affinity antibodies) is ready."
+Question,Answer
+What is the difference between classical and molecular genetics?,"- Definition or overview: Classical genetics studies inheritance patterns and traits, while molecular genetics focuses on the structure and function of genes at the molecular level.
+- Logical flow: Classical genetics uses Mendel’s principles, while molecular genetics uses techniques like DNA sequencing and recombinant DNA technology.
+- Example or analogy: Think of classical genetics as studying family trees (inheritance) and molecular genetics as studying the DNA blueprint (genes)."
+
+What are the stages of the cell cycle?,"- Definition or overview: The cell cycle consists of interphase (G1, S, G2) and mitosis (M phase), followed by cytokinesis.
+- Logical flow: G1 is growth, S is DNA synthesis, G2 is preparation for division, and M phase is cell division.
+- Example or analogy: Think of the cell cycle as a factory. G1 is planning (growth), S is production (DNA synthesis), G2 is quality control (preparation), and M phase is packaging (division)."
+
+What is the significance of meiosis in evolution?,"- Definition or overview: Meiosis generates genetic diversity through crossing over and independent assortment, which drives evolution by creating new combinations of traits.
+- Logical flow: It produces haploid gametes with unique genetic combinations, increasing adaptability.
+- Example or analogy: Think of meiosis as a card shuffle. It creates new hands (genetic combinations) for the game of evolution."
+
+What are Mendel’s principles of inheritance?,"- Definition or overview: Mendel’s principles include the law of segregation (alleles separate during gamete formation) and the law of independent assortment (genes for different traits assort independently).
+- Logical flow: These principles explain how traits are inherited and predict genetic ratios.
+- Example or analogy: Think of Mendel’s principles as rules of inheritance. Segregation is like splitting a deck of cards (alleles), and independent assortment is like shuffling two decks (traits)."
+
+What is the role of restriction enzymes in genetic engineering?,"- Definition or overview: Restriction enzymes cut DNA at specific sequences, enabling gene cloning, DNA sequencing, and genetic manipulation.
+- Logical flow: They are used to create recombinant DNA by cutting and joining DNA fragments.
+- Example or analogy: Think of restriction enzymes as molecular scissors. They cut DNA (paper) at specific points (sequences) for editing (genetic engineering)."
+
+What are the types of mutations?,"- Definition or overview: Mutations include point mutations (single base changes), insertions, deletions, and chromosomal rearrangements.
+- Logical flow: They can be silent (no effect), missense (amino acid change), nonsense (premature stop), or frameshift (alter reading frame).
+- Example or analogy: Think of mutations as typos in a book. Some are minor (silent), while others change the meaning (missense) or stop the story (nonsense)."
+
+What is site-directed mutagenesis?,"- Definition or overview: Site-directed mutagenesis is a technique to introduce specific changes in DNA sequences, allowing researchers to study gene function.
+- Logical flow: It uses synthetic oligonucleotides to target and alter specific bases.
+- Example or analogy: Think of site-directed mutagenesis as editing a sentence. You change specific words (bases) to see how it affects the meaning (gene function)."
+
+What are transposons, and how do they cause mutations?,"- Definition or overview: Transposons are mobile genetic elements that can insert themselves into new locations in the genome, disrupting genes or regulatory regions.
+- Logical flow: They are also called 'jumping genes' and can cause insertional mutagenesis.
+- Example or analogy: Think of transposons as bookmarks that move around. When they land in the wrong place (gene), they disrupt the story (function)."
+
+What is DNA repair, and why is it important?,"- Definition or overview: DNA repair mechanisms correct errors in DNA replication and damage from mutagens, maintaining genomic stability.
+- Logical flow: Examples include base excision repair, nucleotide excision repair, and mismatch repair.
+- Example or analogy: Think of DNA repair as a proofreader. It fixes typos (errors) in the DNA manuscript to ensure accuracy (genomic stability)."
+
+What is recombination, and what are its models?,"- Definition or overview: Recombination is the exchange of genetic material between DNA molecules, creating new combinations of alleles. Models include Holliday, Meselson-Radding, and double-strand break repair.
+- Logical flow: It occurs during meiosis and is essential for genetic diversity.
+- Example or analogy: Think of recombination as swapping puzzle pieces. It creates new pictures (genetic combinations) from existing pieces (alleles)."
+
+What is the lac operon, and how is it regulated?,"- Definition or overview: The lac operon controls lactose metabolism in bacteria. It is regulated by the lac repressor (inhibits transcription in the absence of lactose) and CAP-cAMP (activates transcription in low glucose).
+- Logical flow: Lactose binds the repressor, inactivating it, and allows transcription.
+- Example or analogy: Think of the lac operon as a light switch. Lactose (hand) turns it on (transcription), and glucose (darkness) turns it off."
+
+What is transcription attenuation?,"- Definition or overview: Transcription attenuation is a regulatory mechanism where transcription is terminated prematurely based on cellular conditions, as seen in the trp operon.
+- Logical flow: It involves the formation of terminator or anti-terminator structures in the mRNA.
+- Example or analogy: Think of transcription attenuation as a traffic light. It stops (terminates) or allows (continues) transcription based on signals (cellular conditions)."
+
+What is protein engineering?,"- Definition or overview: Protein engineering involves designing and producing proteins with desired functions by altering their amino acid sequences.
+- Logical flow: Techniques include site-directed mutagenesis and directed evolution.
+- Example or analogy: Think of protein engineering as customizing a car. You modify parts (amino acids) to improve performance (function)."
+
+What are heterologous expression systems?,"- Definition or overview: Heterologous expression systems use host organisms (e.g., E. coli, yeast) to produce proteins from foreign genes.
+- Logical flow: They are used in research and industry to produce recombinant proteins.
+- Example or analogy: Think of heterologous expression as outsourcing. You use a factory (host organism) to produce a product (protein) from a blueprint (foreign gene)."
+
+What are the industrial applications of gene manipulation?,"- Definition or overview: Gene manipulation is used to produce pharmaceuticals (e.g., insulin), enzymes (e.g., detergents), and genetically modified organisms (e.g., crops).
+- Logical flow: It improves efficiency, reduces costs, and creates novel products.
+- Example or analogy: Think of gene manipulation as a toolkit. It builds new tools (products) for industries (medicine, agriculture)."
+Front,Back
+What is amino acid metabolism?,"- Definition: Process by which amino acids are synthesized and degraded in the body.
+- Logical Flow: Dietary proteins are broken into amino acids during digestion, absorbed, and used for protein synthesis or energy production. Excess amino acids are degraded into specialized products like urea.
+- Example: Think of amino acids as building blocks. Just like Lego pieces can be used to build structures or broken down for reuse, amino acids are used to build proteins or broken down for energy."
+What are glucogenic and ketogenic amino acids?,"- Definition: Glucogenic amino acids can be converted into glucose, while ketogenic amino acids can be converted into ketone bodies.
+- Logical Flow: Glucogenic amino acids enter gluconeogenesis, and ketogenic amino acids enter ketogenesis pathways. Some amino acids are both glucogenic and ketogenic.
+- Example: Glucogenic amino acids are like recyclable materials turned into new products (glucose), while ketogenic amino acids are like fuel sources (ketones) for energy during fasting."
+What is phenylketonuria (PKU)?,"- Definition: Genetic disorder caused by a deficiency in phenylalanine hydroxylase, leading to accumulation of phenylalanine.
+- Logical Flow: Phenylalanine cannot be converted to tyrosine, causing excess phenylalanine to build up and convert into harmful byproducts. Early diagnosis and dietary management can prevent complications.
+- Example: PKU is like a traffic jam where phenylalanine can't move forward (convert to tyrosine), causing a buildup that damages the brain over time."
+What is the role of folic acid in one-carbon metabolism?,"- Definition: Folic acid is a coenzyme involved in transferring one-carbon units, essential for nucleotide and amino acid synthesis.
+- Logical Flow: Folic acid derivatives carry one-carbon units, which are used in purine and thymidine synthesis. Deficiency leads to impaired DNA synthesis and anemia.
+- Example: Folic acid is like a delivery truck carrying essential parts (one-carbon units) needed to build DNA and proteins."
+What is nitrogen fixation?,"- Definition: Process of converting atmospheric nitrogen (N2) into ammonia (NH3), carried out by certain bacteria and archaea.
+- Logical Flow: Nitrogenase enzyme reduces N2 to NH3, which is incorporated into amino acids and nucleotides, making nitrogen available to living organisms.
+- Example: Nitrogen fixation is like a factory converting raw materials (N2) into usable products (NH3) for building biological molecules."
+What are the metabolic functions of nucleotides?,"- Definition: Nucleotides are building blocks of DNA and RNA, and serve as energy carriers (e.g., ATP) and signaling molecules (e.g., cAMP).
+- Logical Flow: Nucleotides are synthesized from amino acids, CO2, and one-carbon units. They participate in energy transfer and cellular communication, and are degraded into uric acid or recycled.
+- Example: Nucleotides are like Swiss Army knives: they build genetic material, store energy, and send signals in the cell."
+What is Lesch-Nyhan syndrome?,"- Definition: Genetic disorder caused by a deficiency in hypoxanthine-guanine phosphoribosyltransferase (HGPRT), leading to excessive uric acid production and neurological symptoms.
+- Logical Flow: HGPRT deficiency impairs the purine salvage pathway, causing uric acid accumulation and neurological symptoms like self-injurious behavior.
+- Example: Lesch-Nyhan syndrome is like a broken recycling system where waste (uric acid) builds up, causing damage to the body and brain."
+What is the starve-feed cycle?,"- Definition: Metabolic adaptation to switching between fed and fasting states, ensuring energy availability during starvation.
+- Logical Flow: In the fed state, insulin promotes glucose uptake and storage. In the fasting state, glucagon stimulates glycogenolysis and gluconeogenesis. Tissues like liver and muscle adapt to energy demands.
+- Example: The starve-feed cycle is like a thermostat: it switches between heating (fed state) and cooling (fasting state) to maintain energy balance."
+What is the role of Cyt.P450 in xenobiotic metabolism?,"- Definition: Cytochrome P450 enzymes detoxify foreign compounds, mainly found in the liver.
+- Logical Flow: Cyt.P450 oxidizes xenobiotics, making them more water-soluble. Conjugation reactions further modify these compounds for excretion.
+- Example: Cyt.P450 is like a chemical processing plant that breaks down harmful substances into safer, excretable forms."
+What is gout?,"- Definition: Metabolic disorder caused by uric acid crystal deposition in joints, resulting from overproduction or underexcretion of uric acid.
+- Logical Flow: Purine metabolism leads to uric acid formation. Excess uric acid forms crystals in joints, causing inflammation. Diet and medications help manage symptoms.
+- Example: Gout is like a plumbing issue where uric acid crystals clog the joints, causing pain and swelling."
+Front,Back
+What is the significance of branched-chain amino acid (BCAA) metabolism?,"- Definition: BCAAs (leucine, isoleucine, valine) are essential amino acids metabolized primarily in muscle.
+- Logical Flow: BCAAs are transaminated in muscle to form branched-chain keto acids, which are further metabolized in the liver. They provide energy during exercise and stress.
+- Example: BCAAs are like premium fuel for muscles, especially during intense workouts or fasting."
+What is propionate metabolism?,"- Definition: Propionate is a short-chain fatty acid produced during amino acid and odd-chain fatty acid metabolism.
+- Logical Flow: Propionate is converted to succinyl-CoA via methylmalonyl-CoA, entering the TCA cycle. It is a key glucogenic precursor.
+- Example: Propionate metabolism is like recycling waste (odd-chain fatty acids) into useful energy (glucose)."
+What is the role of glutathione in metabolism?,"- Definition: Glutathione is a tripeptide antioxidant that protects cells from oxidative damage.
+- Logical Flow: Glutathione neutralizes reactive oxygen species (ROS) and maintains redox balance. It is regenerated by NADPH.
+- Example: Glutathione is like a bodyguard for cells, protecting them from harmful free radicals."
+What is hyperammonemia?,"- Definition: Condition characterized by elevated ammonia levels in the blood, often due to liver dysfunction or urea cycle disorders.
+- Logical Flow: Ammonia, a byproduct of amino acid metabolism, is not converted to urea efficiently. Excess ammonia is toxic to the brain.
+- Example: Hyperammonemia is like a waste disposal system failure, where toxic ammonia builds up and damages the brain."
+What is the urea cycle?,"- Definition: Metabolic pathway that converts toxic ammonia into urea for excretion.
+- Logical Flow: Ammonia combines with CO2 to form carbamoyl phosphate, which enters the urea cycle. Urea is excreted by the kidneys.
+- Example: The urea cycle is like a detox factory, converting harmful ammonia into a safe waste product (urea)."
+What is the significance of purine and pyrimidine synthesis?,"- Definition: Purines and pyrimidines are essential for DNA, RNA, and ATP synthesis.
+- Logical Flow: Purines are synthesized from amino acids, CO2, and one-carbon units. Pyrimidines are synthesized from aspartate and carbamoyl phosphate.
+- Example: Purine and pyrimidine synthesis is like building a library of genetic information, where each nucleotide is a book."
+What is the role of uric acid in nucleotide metabolism?,"- Definition: Uric acid is the end product of purine degradation.
+- Logical Flow: Purines are broken down into hypoxanthine and xanthine, which are converted to uric acid by xanthine oxidase.
+- Example: Uric acid is like the ash left after burning wood (purines), which must be excreted to avoid buildup."
+What is the metabolic interrelationship between tissues?,"- Definition: Tissues like liver, muscle, and adipose tissue coordinate metabolism to maintain energy balance.
+- Logical Flow: In the fed state, the liver stores glucose as glycogen. In the fasting state, muscle and adipose tissue provide energy via gluconeogenesis and lipolysis.
+- Example: Metabolic interrelationships are like a team sport, where each tissue plays a specific role to keep the body functioning."
+What is the role of heme metabolism?,"- Definition: Heme is a component of hemoglobin and cytochromes, involved in oxygen transport and electron transport.
+- Logical Flow: Heme is synthesized from glycine and succinyl-CoA. Degradation of heme produces bilirubin, which is excreted in bile.
+- Example: Heme metabolism is like a recycling program for red blood cells, where old cells are broken down and their components reused or excreted."
+What is the significance of bile pigments in metabolism?,"- Definition: Bile pigments like bilirubin are breakdown products of heme metabolism.
+- Logical Flow: Bilirubin is conjugated in the liver and excreted in bile. Elevated levels cause jaundice.
+- Example: Bile pigments are like traffic signals for liver function; their buildup indicates a problem in excretion."
+What is the role of skeletal muscle in metabolism?,"- Definition: Skeletal muscle is a major site of glucose uptake and amino acid metabolism.
+- Logical Flow: During exercise, muscle uses glucose and fatty acids for energy. It also stores glycogen and releases amino acids during fasting.
+- Example: Skeletal muscle is like a power plant, generating energy for movement and storing fuel for later use."
+What is the role of adipose tissue in metabolism?,"- Definition: Adipose tissue stores energy as triglycerides and releases fatty acids during fasting.
+- Logical Flow: Insulin promotes fat storage, while glucagon and epinephrine stimulate lipolysis. Fatty acids are used for energy by other tissues.
+- Example: Adipose tissue is like a savings account, storing energy (fat) for times of need (fasting or exercise)."
+What is the role of the liver in metabolism?,"- Definition: The liver is the central hub for metabolism, regulating glucose, lipid, and amino acid metabolism.
+- Logical Flow: The liver stores glucose as glycogen, synthesizes lipoproteins, and detoxifies ammonia via the urea cycle.
+- Example: The liver is like a control center, managing energy distribution and waste disposal for the entire body."
+What is the role of the kidney in metabolism?,"- Definition: The kidney maintains electrolyte balance, excretes waste, and participates in gluconeogenesis.
+- Logical Flow: The kidney filters blood, reabsorbs nutrients, and excretes urea and other waste products. It also produces glucose during fasting.
+- Example: The kidney is like a water treatment plant, filtering out waste while recycling useful substances."
+What is the role of the nervous system in metabolism?,"- Definition: The nervous system regulates metabolism through hormones and neurotransmitters.
+- Logical Flow: The hypothalamus and autonomic nervous system control appetite, energy expenditure, and glucose homeostasis.
+- Example: The nervous system is like a conductor, coordinating the body's metabolic orchestra to maintain balance."
+What is the role of biotransformation in xenobiotic metabolism?,"- Definition: Biotransformation converts foreign compounds (xenobiotics) into more water-soluble forms for excretion.
+- Logical Flow: Phase I reactions (oxidation, reduction, hydrolysis) modify xenobiotics. Phase II reactions (conjugation) make them water-soluble.
+- Example: Biotransformation is like a detox process, turning harmful substances into harmless ones that can be flushed out."
+What is the significance of metabolic disorders like alkaptonuria?,"- Definition: Alkaptonuria is a genetic disorder caused by deficiency of homogentisate oxidase, leading to accumulation of homogentisic acid.
+- Logical Flow: Homogentisic acid builds up and is excreted in urine, causing darkening of urine and connective tissue damage.
+- Example: Alkaptonuria is like a clogged drain, where waste (homogentisic acid) accumulates and causes damage."
+What is the significance of metabolic disorders like orotic aciduria?,"- Definition: Orotic aciduria is a disorder of pyrimidine metabolism, leading to orotic acid accumulation.
+- Logical Flow: Deficiency in UMP synthase impairs pyrimidine synthesis, causing orotic acid buildup and megaloblastic anemia.
+- Example: Orotic aciduria is like a factory defect, where a missing enzyme disrupts production and causes waste buildup."
+Front,Back
+What is clinical biochemistry?,"- Definition: Clinical biochemistry is the study of biochemical processes in the human body to diagnose and manage diseases.
+- Logical Flow: It involves analyzing body fluids (e.g., blood, urine) to detect abnormalities in enzymes, metabolites, and electrolytes, aiding in disease diagnosis and treatment.
+- Example: Clinical biochemistry is like a detective, using clues (biomarkers) in body fluids to solve the mystery of a disease."
+What are the hazards in a clinical laboratory?,"- Definition: Hazards include exposure to infectious agents, toxic chemicals, and physical injuries.
+- Logical Flow: Proper safety measures like PPE, proper waste disposal, and equipment maintenance are essential to prevent accidents and infections.
+- Example: Working in a clinical lab is like handling hazardous materials in a factory; safety protocols are crucial to avoid harm."
+What is quality control in clinical diagnostics?,"- Definition: Quality control ensures the accuracy and precision of laboratory test results.
+- Logical Flow: It involves internal quality control (daily checks) and external quality assurance (comparison with other labs) to maintain reliability.
+- Example: Quality control is like calibrating a scale to ensure it gives the correct weight every time."
+What are pre-analytical errors?,"- Definition: Errors that occur before testing, such as improper sample collection, labeling, or storage.
+- Logical Flow: These errors can lead to inaccurate results, affecting diagnosis and treatment. Proper training and protocols minimize these errors.
+- Example: Pre-analytical errors are like cooking with spoiled ingredients; no matter how good the recipe, the result will be flawed."
+What is the significance of diagnostic tests?,"- Definition: Diagnostic tests help identify diseases by measuring specific biomarkers or parameters.
+- Logical Flow: Tests are chosen based on symptoms and clinical history. Accurate results guide treatment decisions.
+- Example: Diagnostic tests are like a GPS, providing the right direction (diagnosis) to reach the destination (treatment)."
+What are the key enzymes used in clinical diagnostics?,"- Definition: Enzymes like ALT, AST, ALP, CK, and LDH are used to diagnose liver, heart, and muscle disorders.
+- Logical Flow: Elevated levels of these enzymes indicate tissue damage. For example, high ALT and AST suggest liver damage.
+- Example: These enzymes are like warning lights on a car dashboard, signaling potential problems in specific organs."
+What is the diagnostic importance of bilirubin?,"- Definition: Bilirubin is a breakdown product of heme, used to diagnose liver and biliary disorders.
+- Logical Flow: Elevated bilirubin levels indicate jaundice, liver dysfunction, or bile duct obstruction.
+- Example: Bilirubin is like a traffic jam indicator; high levels mean something is blocking the normal flow of bile."
+What is the role of glucose in clinical diagnostics?,"- Definition: Glucose levels are used to diagnose and monitor diabetes and metabolic disorders.
+- Logical Flow: High fasting glucose indicates diabetes, while low levels suggest hypoglycemia. Regular monitoring helps manage the condition.
+- Example: Glucose is like the fuel gauge in a car; abnormal levels mean the body's energy system is out of balance."
+What is the significance of lipid profiles?,"- Definition: Lipid profiles measure cholesterol, triglycerides, and lipoproteins to assess cardiovascular risk.
+- Logical Flow: High LDL cholesterol and triglycerides increase the risk of atherosclerosis, while HDL is protective.
+- Example: Lipid profiles are like a financial report, showing the balance between good (HDL) and bad (LDL) cholesterol."
+What is the genetic basis of sickle cell anemia?,"- Definition: Sickle cell anemia is caused by a mutation in the hemoglobin gene, leading to abnormal red blood cells.
+- Logical Flow: The mutated hemoglobin causes cells to sickle, leading to blockages in blood vessels and tissue damage.
+- Example: Sickle cell anemia is like a traffic jam caused by misshapen cars (sickled cells) blocking the road (blood vessels)."
+What is the biochemical basis of diabetes mellitus?,"- Definition: Diabetes mellitus is characterized by high blood glucose due to insulin deficiency or resistance.
+- Logical Flow: In Type 1 diabetes, the pancreas produces little to no insulin. In Type 2, cells become resistant to insulin.
+- Example: Diabetes is like a broken lock (insulin resistance) or missing key (insulin deficiency), preventing glucose from entering cells."
+What is the role of biomarkers in cardiovascular diseases?,"- Definition: Biomarkers like troponin and CK-MB are used to diagnose heart attacks.
+- Logical Flow: Elevated troponin indicates heart muscle damage, while CK-MB rises after a heart attack.
+- Example: Biomarkers are like smoke detectors, alerting doctors to potential heart damage."
+What is the significance of sodium and potassium in clinical diagnostics?,"- Definition: Sodium and potassium are electrolytes critical for nerve and muscle function.
+- Logical Flow: Abnormal levels (e.g., hyperkalemia or hyponatremia) can cause arrhythmias, muscle weakness, or neurological issues.
+- Example: Electrolytes are like the electrical wiring in a house; imbalances can cause the system to malfunction."
+What is the biochemical basis of gout?,"- Definition: Gout is caused by the accumulation of uric acid crystals in joints due to hyperuricemia.
+- Logical Flow: Uric acid is a byproduct of purine metabolism. High levels lead to crystal formation and inflammation.
+- Example: Gout is like salt crystallizing in a glass of water; too much uric acid forms painful crystals in joints."
+What is the role of CSF analysis in clinical diagnostics?,"- Definition: Cerebrospinal fluid (CSF) analysis helps diagnose neurological disorders like meningitis or multiple sclerosis.
+- Logical Flow: CSF is collected via lumbar puncture and analyzed for cells, proteins, and glucose. Abnormal results indicate specific conditions.
+- Example: CSF analysis is like checking the oil in a car; it provides insights into the health of the nervous system."
+What is the significance of A/G ratio in clinical diagnostics?,"- Definition: The albumin/globulin (A/G) ratio measures the balance between these proteins in the blood.
+- Logical Flow: A low A/G ratio may indicate liver disease, kidney disease, or chronic inflammation.
+- Example: The A/G ratio is like a seesaw; an imbalance indicates something is wrong with protein production or loss."
+What is the biochemical basis of Alzheimer’s disease?,"- Definition: Alzheimer’s is characterized by amyloid plaques and tau tangles in the brain, leading to neurodegeneration.
+- Logical Flow: Amyloid-beta accumulates, forming plaques, while tau proteins form tangles, disrupting neuronal communication.
+- Example: Alzheimer’s is like a computer with corrupted files (plaques and tangles), causing the system (brain) to malfunction."
+What is the role of biomarkers in liver disorders?,"- Definition: Biomarkers like ALT, AST, and bilirubin are used to diagnose liver damage or disease.
+- Logical Flow: Elevated ALT and AST indicate liver cell damage, while high bilirubin suggests impaired bile flow.
+- Example: Liver biomarkers are like warning signs on a road, indicating damage or blockages in the liver."
+What is the significance of creatinine in kidney function tests?,"- Definition: Creatinine is a waste product from muscle metabolism, used to assess kidney function.
+- Logical Flow: High creatinine levels indicate impaired kidney filtration, as seen in chronic kidney disease.
+- Example: Creatinine is like a trash indicator; high levels mean the kidneys aren’t taking out the trash efficiently."
+What is the biochemical basis of rheumatoid arthritis?,"- Definition: Rheumatoid arthritis is an autoimmune disorder causing inflammation and joint damage.
+- Logical Flow: The immune system attacks synovial membranes, leading to inflammation, cartilage damage, and bone erosion.
+- Example: Rheumatoid arthritis is like a faulty alarm system, where the body attacks its own tissues instead of protecting them."
+Front,Back
+What is the cell theory?,"- Definition: The cell theory states that all living organisms are composed of cells, and cells are the basic unit of life.
+- Logical Flow: Cells arise from pre-existing cells, and all cellular functions (metabolism, reproduction, etc.) occur within cells.
+- Example: The cell theory is like the foundation of a house; everything in biology is built upon the understanding that cells are the basic building blocks of life."
+What are the key differences between prokaryotic and eukaryotic cells?,"- Definition: Prokaryotic cells lack a nucleus and membrane-bound organelles, while eukaryotic cells have both.
+- Logical Flow: Prokaryotes (e.g., bacteria) have simpler structures and circular DNA, while eukaryotes (e.g., animal and plant cells) have complex organelles and linear DNA.
+- Example: Prokaryotic cells are like studio apartments (compact and simple), while eukaryotic cells are like mansions (large and compartmentalized)."
+What is the role of the cytoskeleton?,"- Definition: The cytoskeleton provides structural support, facilitates cell movement, and organizes intracellular components.
+- Logical Flow: It consists of microtubules, actin filaments, and intermediate filaments, which work together to maintain cell shape and enable processes like muscle contraction and ciliary movement.
+- Example: The cytoskeleton is like the scaffolding of a building, providing structure and enabling movement within the cell."
+What are microtubules and their functions?,"- Definition: Microtubules are dynamic structures made of tubulin, involved in cell division, intracellular transport, and maintaining cell shape.
+- Logical Flow: They form the mitotic spindle during cell division and serve as tracks for motor proteins like kinesin and dynein.
+- Example: Microtubules are like highways in a city, allowing transport of cargo (organelles and vesicles) within the cell."
+What is the role of actin filaments in non-muscle cells?,"- Definition: Actin filaments are involved in cell motility, cytokinesis, and maintaining cell shape.
+- Logical Flow: They interact with actin-binding proteins to form structures like lamellipodia and filopodia, enabling cell movement.
+- Example: Actin filaments are like construction workers, constantly remodeling the cell's structure to enable movement and division."
+What is the extracellular matrix (ECM)?,"- Definition: The ECM is a network of proteins and carbohydrates that provides structural and biochemical support to surrounding cells.
+- Logical Flow: It consists of collagen, elastin, and proteoglycans, which regulate cell behavior, adhesion, and signaling.
+- Example: The ECM is like the soil in a garden, providing nutrients and support for the plants (cells) to grow and thrive."
+What are cell junctions and their roles?,"- Definition: Cell junctions are specialized structures that connect cells, enabling communication and maintaining tissue integrity.
+- Logical Flow: Types include tight junctions (barrier function), gap junctions (communication), and desmosomes (mechanical strength).
+- Example: Cell junctions are like the bolts and screws in a machine, holding the parts (cells) together and ensuring proper function."
+What is cell signaling?,"- Definition: Cell signaling is the process by which cells communicate with each other to coordinate activities.
+- Logical Flow: Signaling molecules bind to receptors, triggering intracellular pathways (e.g., cAMP, Ca2+) that alter cell behavior.
+- Example: Cell signaling is like a postal system, where messages (signaling molecules) are delivered to specific addresses (receptors) to elicit a response."
+What is the role of cAMP in signal transduction?,"- Definition: cAMP (cyclic AMP) is a secondary messenger that amplifies signals within the cell.
+- Logical Flow: It is produced by adenylate cyclase and activates protein kinase A (PKA), which regulates various cellular processes.
+- Example: cAMP is like a megaphone, amplifying a whisper (signal) into a shout (cellular response)."
+What is the MAP kinase pathway?,"- Definition: The MAP kinase pathway is a signaling cascade that regulates cell growth, differentiation, and survival.
+- Logical Flow: It involves a series of phosphorylation events, starting with receptor activation and ending with gene expression changes.
+- Example: The MAP kinase pathway is like a relay race, where the baton (signal) is passed from one runner (protein) to the next until the finish line (cellular response)."
+What are cell cycle checkpoints?,"- Definition: Cell cycle checkpoints are control mechanisms that ensure proper progression through the cell cycle.
+- Logical Flow: Key checkpoints include G1/S (DNA integrity), G2/M (chromosome alignment), and M (spindle assembly).
+- Example: Cell cycle checkpoints are like quality control inspectors, ensuring each step of the process is correct before moving forward."
+What is the role of cyclin-dependent kinases (CDKs) in the cell cycle?,"- Definition: CDKs are enzymes that regulate the cell cycle by phosphorylating target proteins.
+- Logical Flow: They are activated by cyclins and control transitions between cell cycle phases (e.g., G1 to S phase).
+- Example: CDKs are like traffic lights, controlling the flow of the cell cycle and ensuring it proceeds in an orderly manner."
+What is meiosis?,"- Definition: Meiosis is a type of cell division that produces gametes (sperm and egg) with half the chromosome number.
+- Logical Flow: It involves two rounds of division (meiosis I and II), resulting in four haploid cells from one diploid cell.
+- Example: Meiosis is like a shuffling deck of cards, creating unique combinations of genetic material for reproduction."
+What are stem cells?,"- Definition: Stem cells are undifferentiated cells capable of self-renewal and differentiation into specialized cell types.
+- Logical Flow: They are found in tissues like bone marrow (hematopoietic stem cells) and skin (epidermal stem cells), enabling tissue repair and regeneration.
+- Example: Stem cells are like blank canvases, capable of becoming any type of painting (cell) depending on the signals they receive."
+What is the role of stem cells in tissue maintenance?,"- Definition: Stem cells maintain tissues by replacing damaged or dead cells through differentiation.
+- Logical Flow: They divide asymmetrically, producing one stem cell (self-renewal) and one differentiated cell (tissue repair).
+- Example: Stem cells are like a repair crew, constantly fixing and replacing worn-out parts (cells) in the body."
+What is fertilization?,"- Definition: Fertilization is the fusion of sperm and egg to form a zygote, initiating embryonic development.
+- Logical Flow: It involves sperm penetration, cortical reaction (preventing polyspermy), and fusion of genetic material.
+- Example: Fertilization is like a lock and key, where the sperm (key) unlocks the egg (lock) to start a new life."
+What is the role of tumor viruses in studying the cell cycle?,"- Definition: Tumor viruses (e.g., HPV) are used to study cell cycle regulation because they manipulate it to promote cell division.
+- Logical Flow: They encode proteins that inactivate tumor suppressors (e.g., p53) or activate oncogenes, leading to uncontrolled cell growth.
+- Example: Tumor viruses are like hackers, exploiting the cell cycle's control systems to their advantage."
+What is the JAK/STAT pathway?,"- Definition: The JAK/STAT pathway is a signaling cascade that transmits information from extracellular cytokines to the cell nucleus.
+- Logical Flow: Cytokines activate JAK kinases, which phosphorylate STAT proteins, leading to gene transcription.
+- Example: The JAK/STAT pathway is like a messenger delivering a letter (signal) from the front door (cell surface) to the boss's office (nucleus)."
+What is the role of intermediate filaments?,"- Definition: Intermediate filaments provide mechanical strength and stability to cells and tissues.
+- Logical Flow: They are composed of proteins like keratin and vimentin, forming a network that resists mechanical stress.
+- Example: Intermediate filaments are like the steel beams in a building, providing structural support and resilience."
+What is the significance of cell adhesion proteins?,"- Definition: Cell adhesion proteins (e.g., integrins, cadherins) mediate cell-cell and cell-matrix interactions.
+- Logical Flow: They play roles in tissue formation, immune response, and wound healing by anchoring cells to each other and the ECM.
+- Example: Cell adhesion proteins are like Velcro, holding cells together and ensuring tissues stay intact."
+Front,Back
+What are natural products?,"- Definition: Natural products are chemical compounds produced by living organisms, often with biological activity.
+- Logical Flow: They are derived from plants, animals, microbes, and marine organisms, and play a key role in drug discovery and medicinal chemistry.
+- Example: Natural products are like nature's pharmacy, providing compounds like penicillin (antibiotic) and taxol (anticancer)."
+What are the main sources of natural products?,"- Definition: Natural products are sourced from plants, animals, microorganisms, and marine organisms.
+- Logical Flow: Plants provide alkaloids and terpenes, microbes produce antibiotics, and marine organisms yield unique bioactive compounds.
+- Example: Natural product sources are like a treasure hunt, with each organism offering unique chemical treasures."
+What are terpenes?,"- Definition: Terpenes are a class of natural products made of isoprene units, known for their aromatic and therapeutic properties.
+- Logical Flow: They are classified based on the number of isoprene units (e.g., monoterpenes, sesquiterpenes) and are isolated from essential oils.
+- Example: Terpenes are like the building blocks of nature's perfumes, giving plants like lavender and pine their distinct scents."
+What is the isoprene rule?,"- Definition: The isoprene rule states that terpenes are composed of isoprene units (C5H8) linked in a head-to-tail fashion.
+- Logical Flow: This rule helps predict the structure of terpenes, which are often multiples of isoprene units (e.g., C10 for monoterpenes).
+- Example: The isoprene rule is like a recipe, where isoprene units are the ingredients for building terpenes."
+What are alkaloids?,"- Definition: Alkaloids are nitrogen-containing natural products with potent pharmacological effects.
+- Logical Flow: They are extracted from plants, classified based on structure (e.g., morphine, quinine), and used as medicines or toxins.
+- Example: Alkaloids are like nature's defense chemicals, protecting plants from herbivores while providing drugs like morphine for pain relief."
+What is the medicinal importance of alkaloids?,"- Definition: Alkaloids like morphine, quinine, and vincristine are used as painkillers, antimalarials, and anticancer agents.
+- Logical Flow: Their complex structures interact with biological targets, making them effective but often toxic in high doses.
+- Example: Alkaloids are like double-edged swords; they can heal (e.g., quinine for malaria) or harm (e.g., strychnine as a poison)."
+What are antibiotics?,"- Definition: Antibiotics are natural or synthetic compounds that kill or inhibit the growth of bacteria.
+- Logical Flow: They are produced by microorganisms (e.g., penicillin from Penicillium) and modified to create semi-synthetic antibiotics.
+- Example: Antibiotics are like soldiers fighting bacterial infections, with natural antibiotics as the frontline troops and synthetic ones as reinforcements."
+What are carotenoids?,"- Definition: Carotenoids are pigments found in plants and microorganisms, responsible for red, orange, and yellow colors.
+- Logical Flow: They act as antioxidants and precursors to vitamin A, with examples like beta-carotene and lycopene.
+- Example: Carotenoids are like nature's paint, coloring carrots (beta-carotene) and tomatoes (lycopene) while protecting cells from damage."
+What are steroids?,"- Definition: Steroids are lipid-based natural products with a characteristic four-ring structure, involved in hormone regulation.
+- Logical Flow: They are isolated from plants and animals, with examples like cholesterol, cortisol, and sex hormones.
+- Example: Steroids are like molecular switches, regulating processes like metabolism (cortisol) and reproduction (estrogen, testosterone)."
+What are phenolic compounds?,"- Definition: Phenolic compounds are aromatic molecules with hydroxyl groups, found in plants and known for their antioxidant properties.
+- Logical Flow: They are classified into flavonoids, tannins, and lignans, and are extracted for their health benefits.
+- Example: Phenolic compounds are like nature's antioxidants, protecting cells from damage (e.g., resveratrol in grapes)."
+What are flavonoids?,"- Definition: Flavonoids are a class of phenolic compounds with diverse biological functions, including antioxidant and anti-inflammatory effects.
+- Logical Flow: They are classified into flavones, flavonols, and isoflavonols, and are found in fruits, vegetables, and tea.
+- Example: Flavonoids are like bodyguards, protecting cells from oxidative stress and inflammation."
+What is the role of flavonoids as antioxidants?,"- Definition: Flavonoids neutralize free radicals, preventing oxidative damage to cells and tissues.
+- Logical Flow: They donate electrons to free radicals, stabilizing them and reducing the risk of chronic diseases like cancer and heart disease.
+- Example: Flavonoids are like fire extinguishers, putting out the flames (free radicals) that damage cells."
+What is the biosynthesis of flavonoids?,"- Definition: Flavonoids are synthesized in plants via the phenylpropanoid pathway, starting from phenylalanine.
+- Logical Flow: Enzymes like chalcone synthase and flavonoid synthase catalyze the formation of flavonoid structures.
+- Example: Flavonoid biosynthesis is like an assembly line, where phenylalanine is transformed into various flavonoid products."
+What is the medicinal role of taxol?,"- Definition: Taxol is an alkaloid used as an anticancer drug, derived from the Pacific yew tree.
+- Logical Flow: It inhibits cell division by stabilizing microtubules, preventing cancer cells from proliferating.
+- Example: Taxol is like a roadblock, stopping cancer cells from dividing and spreading."
+What are semi-synthetic antibiotics?,"- Definition: Semi-synthetic antibiotics are chemically modified natural antibiotics to enhance their efficacy or reduce side effects.
+- Logical Flow: Examples include amoxicillin (derived from penicillin) and doxycycline (derived from tetracycline).
+- Example: Semi-synthetic antibiotics are like upgraded tools, combining the best of natural and synthetic chemistry for better performance."
+What are the advantages of semi-synthetic antibiotics?,"- Definition: Semi-synthetic antibiotics have improved efficacy, broader spectrum, and reduced resistance compared to natural antibiotics.
+- Logical Flow: Chemical modifications enhance their stability, solubility, and target specificity.
+- Example: Semi-synthetic antibiotics are like custom-made keys, designed to unlock specific bacterial targets more effectively."
+What is the role of steroids in oral contraceptives?,"- Definition: Steroids like estrogen and progesterone are used in oral contraceptives to prevent ovulation.
+- Logical Flow: They mimic natural hormones, regulating the menstrual cycle and inhibiting egg release.
+- Example: Steroids in contraceptives are like traffic signals, controlling the reproductive cycle to prevent pregnancy."
+What is the structure of quinine?,"- Definition: Quinine is a complex alkaloid with a quinoline ring, used as an antimalarial drug.
+- Logical Flow: It is extracted from the bark of the cinchona tree and inhibits the malaria parasite's growth.
+- Example: Quinine is like a lockpick, disrupting the malaria parasite's life cycle and curing the disease."
+What is the role of carotenoids in health?,"- Definition: Carotenoids like beta-carotene and lycopene protect against oxidative stress and support vision and immune function.
+- Logical Flow: They are converted to vitamin A and act as antioxidants, reducing the risk of chronic diseases.
+- Example: Carotenoids are like shields, protecting cells from damage caused by free radicals."
+What is the mechanism of alkaloid action?,"- Definition: Alkaloids interact with biological targets like receptors and enzymes, altering cellular processes.
+- Logical Flow: For example, morphine binds to opioid receptors, blocking pain signals, while quinine disrupts malaria parasite metabolism.
+- Example: Alkaloids are like master keys, unlocking specific biological pathways to produce therapeutic effects."
+Front,Back
+What are the techniques for protein isolation and solubilization?,"- Definition: Proteins are isolated and solubilized using methods like cell disruption, fractional precipitation, and selective denaturation.
+- Logical Flow: Cells are disrupted (e.g., sonication, homogenization), and proteins are solubilized using buffers. Fractional precipitation separates proteins based on solubility.
+- Example: Protein isolation is like extracting gold from ore; you break down the material (cells) and use specific methods (precipitation) to isolate the valuable component (protein)."
+What is ion exchange chromatography?,"- Definition: Ion exchange chromatography separates proteins based on their charge using a charged resin.
+- Logical Flow: Proteins bind to the resin based on their charge and are eluted using a salt gradient. Cation exchangers bind positively charged proteins, while anion exchangers bind negatively charged ones.
+- Example: Ion exchange chromatography is like a magnet attracting metal objects (proteins) based on their charge."
+What is gel filtration chromatography?,"- Definition: Gel filtration chromatography separates molecules based on size using a porous gel matrix.
+- Logical Flow: Larger molecules pass through the column faster, while smaller molecules enter the pores and elute later. It is used to determine molecular weight.
+- Example: Gel filtration is like a sieve, separating marbles (large molecules) from sand (small molecules) based on size."
+What is SDS-PAGE?,"- Definition: SDS-PAGE (Sodium Dodecyl Sulfate Polyacrylamide Gel Electrophoresis) separates proteins based on size after denaturing them with SDS.
+- Logical Flow: Proteins are coated with SDS (giving them a uniform charge) and separated in a polyacrylamide gel. Smaller proteins migrate faster.
+- Example: SDS-PAGE is like a race where all runners (proteins) are given the same shoes (SDS), so the smallest ones finish first."
+What is 2D gel electrophoresis?,"- Definition: 2D gel electrophoresis separates proteins in two dimensions: first by isoelectric point (pI) and then by molecular weight.
+- Logical Flow: Proteins are separated by pI using isoelectric focusing (IEF) in the first dimension and by size using SDS-PAGE in the second dimension.
+- Example: 2D gel electrophoresis is like sorting a deck of cards first by suit (pI) and then by number (size)."
+What is MALDI-TOF mass spectrometry?,"- Definition: MALDI-TOF (Matrix-Assisted Laser Desorption/Ionization Time-of-Flight) is a technique for identifying proteins based on their mass-to-charge ratio.
+- Logical Flow: Proteins are ionized using a laser and separated based on their time of flight through a vacuum. The mass spectrum is used for identification.
+- Example: MALDI-TOF is like a high-speed camera capturing the flight of ions to determine their mass."
+What is UV-VIS spectrophotometry?,"- Definition: UV-VIS spectrophotometry measures the absorption of ultraviolet or visible light by a sample to determine its concentration.
+- Logical Flow: Light passes through the sample, and the absorbance is measured at specific wavelengths. The Beer-Lambert law relates absorbance to concentration.
+- Example: UV-VIS spectrophotometry is like a light meter, measuring how much light is absorbed by a solution to determine its content."
+What is capillary electrophoresis?,"- Definition: Capillary electrophoresis separates molecules based on their charge and size using an electric field in a narrow capillary.
+- Logical Flow: Molecules migrate through the capillary at different speeds, depending on their charge-to-size ratio. It is used for DNA, RNA, and protein analysis.
+- Example: Capillary electrophoresis is like a narrow river, where smaller and more charged molecules flow faster."
+What is the principle of Western blotting?,"- Definition: Western blotting detects specific proteins in a sample using antibodies.
+- Logical Flow: Proteins are separated by SDS-PAGE, transferred to a membrane, and probed with antibodies. The target protein is visualized using a detection system.
+- Example: Western blotting is like a detective using a specific clue (antibody) to find a suspect (protein) in a crowd (sample)."
+What is PCR (Polymerase Chain Reaction)?,"- Definition: PCR amplifies specific DNA sequences using primers and DNA polymerase.
+- Logical Flow: DNA is denatured, primers anneal to the target sequence, and DNA polymerase extends the primers. The process is repeated for exponential amplification.
+- Example: PCR is like a photocopier, making millions of copies of a specific document (DNA sequence)."
+What is RFLP (Restriction Fragment Length Polymorphism)?,"- Definition: RFLP is a technique used to detect variations in DNA sequences by cutting DNA with restriction enzymes.
+- Logical Flow: DNA is digested with restriction enzymes, and the fragments are separated by gel electrophoresis. Variations in fragment lengths indicate genetic differences.
+- Example: RFLP is like cutting a rope into pieces and measuring the lengths to find differences."
+What is DNA sequencing?,"- Definition: DNA sequencing determines the order of nucleotides in a DNA molecule.
+- Logical Flow: Techniques like Sanger sequencing use chain-terminating nucleotides to generate fragments of varying lengths, which are then separated and read.
+- Example: DNA sequencing is like reading a book letter by letter to understand the story (genetic information)."
+What is ultracentrifugation?,"- Definition: Ultracentrifugation separates particles based on density and size using high-speed centrifugation.
+- Logical Flow: Particles sediment at different rates depending on their size and density. It is used to determine molecular weight and isolate organelles.
+- Example: Ultracentrifugation is like a high-speed merry-go-round, where heavier objects (particles) move to the outside faster."
+What is immunodiffusion?,"- Definition: Immunodiffusion is a technique to study antigen-antibody interactions by allowing them to diffuse through a gel.
+- Logical Flow: Antigens and antibodies diffuse toward each other in a gel, forming visible precipitin lines where they meet.
+- Example: Immunodiffusion is like two rivers meeting and forming a visible boundary (precipitin line)."
+What is ELISA (Enzyme-Linked Immunosorbent Assay)?,"- Definition: ELISA detects antigens or antibodies using an enzyme-linked system that produces a color change.
+- Logical Flow: The target molecule is captured on a plate, and an enzyme-linked antibody is added. The enzyme reacts with a substrate to produce a detectable signal.
+- Example: ELISA is like a lock-and-key system, where the key (antibody) fits the lock (antigen) and triggers a signal (color change)."
+What is immunofluorescence?,"- Definition: Immunofluorescence detects antigens using antibodies labeled with fluorescent dyes.
+- Logical Flow: The fluorescent antibody binds to the target antigen, and the complex is visualized under a fluorescence microscope.
+- Example: Immunofluorescence is like using a glow-in-the-dark marker to highlight specific parts of a drawing (antigen)."
+What is the principle of HPLC (High-Performance Liquid Chromatography)?,"- Definition: HPLC separates molecules based on their interaction with a stationary phase and a mobile phase under high pressure.
+- Logical Flow: The sample is injected into a column, and components are separated based on their affinity for the stationary phase. Detectors measure the eluted compounds.
+- Example: HPLC is like a high-pressure water hose, separating a mixture of liquids based on their flow rates."
+What is the role of affinity chromatography?,"- Definition: Affinity chromatography isolates proteins based on specific interactions with a ligand attached to a matrix.
+- Logical Flow: The target protein binds to the ligand, while other proteins pass through. The bound protein is eluted using a competitive ligand or changing conditions.
+- Example: Affinity chromatography is like a key (ligand) that only fits a specific lock (protein), allowing selective isolation."
+What is the principle of atomic absorption spectrophotometry (AAS)?,"- Definition: AAS measures the concentration of metal ions by their absorption of light at specific wavelengths.
+- Logical Flow: The sample is vaporized, and light is passed through it. The amount of light absorbed is proportional to the metal ion concentration.
+- Example: AAS is like a metal detector, identifying and quantifying specific metals in a sample."
+What is the principle of Southern blotting?,"- Definition: Southern blotting detects specific DNA sequences using hybridization with a labeled probe.
+- Logical Flow: DNA is digested, separated by gel electrophoresis, transferred to a membrane, and probed with a labeled DNA sequence.
+- Example: Southern blotting is like finding a specific sentence (DNA sequence) in a book (DNA sample) using a highlighter (probe)."
+Front,Back
+What are industrially important microorganisms?,"- Definition: Microorganisms like yeast, molds, bacteria, and actinomycetes are used in industries to produce valuable products.
+- Logical Flow: Yeast is used in brewing, molds in antibiotic production, bacteria in probiotics, and actinomycetes in enzyme production.
+- Example: Industrially important microorganisms are like factory workers, each specialized in producing specific products (e.g., yeast for beer, bacteria for yogurt)."
+What is the screening of microorganisms?,"- Definition: Screening involves selecting microorganisms with desired traits for industrial applications.
+- Logical Flow: Microorganisms are tested for their ability to produce metabolites, enzymes, or other products. High-performing strains are selected for further use.
+- Example: Screening microorganisms is like auditioning actors, where only the best performers (strains) are chosen for the role (industrial process)."
+What are primary and secondary metabolites?,"- Definition: Primary metabolites (e.g., ethanol, lactic acid) are essential for growth, while secondary metabolites (e.g., antibiotics, pigments) are not essential but have industrial value.
+- Logical Flow: Primary metabolites are produced during active growth, while secondary metabolites are produced in the stationary phase.
+- Example: Primary metabolites are like basic food (essential for survival), while secondary metabolites are like luxury items (valuable but not essential)."
+What is fermentation technology?,"- Definition: Fermentation technology uses microorganisms to convert raw materials into products like alcohol, acids, and antibiotics.
+- Logical Flow: Microorganisms are grown in controlled conditions (e.g., temperature, pH) to optimize product yield.
+- Example: Fermentation technology is like a bakery, where raw ingredients (substrates) are transformed into bread (products) using yeast (microorganisms)."
+What are the modes of fermentation processes?,"- Definition: Fermentation can be batch (single cycle), fed-batch (nutrients added periodically), or continuous (continuous flow of nutrients and products).
+- Logical Flow: Batch fermentation is simple but less efficient, while continuous fermentation is complex but highly efficient.
+- Example: Fermentation modes are like cooking methods: batch is like baking a cake once, fed-batch is like adding ingredients step-by-step, and continuous is like a conveyor belt in a factory."
+What is media sterilization?,"- Definition: Media sterilization eliminates contaminants from the growth medium using heat, filtration, or chemicals.
+- Logical Flow: Sterilization ensures that only the desired microorganisms grow, preventing contamination and product loss.
+- Example: Media sterilization is like cleaning a kitchen before cooking to ensure no unwanted germs spoil the food."
+What is the design of a fermenter?,"- Definition: A fermenter is a bioreactor designed to provide optimal conditions for microbial growth and product formation.
+- Logical Flow: It includes features like agitation, aeration, temperature control, and pH monitoring to maintain ideal conditions.
+- Example: A fermenter is like a high-tech greenhouse, providing the perfect environment for microorganisms to thrive and produce."
+What is downstream processing?,"- Definition: Downstream processing involves recovering and purifying products from fermentation broth.
+- Logical Flow: Steps include separation (e.g., centrifugation), purification (e.g., chromatography), and packaging.
+- Example: Downstream processing is like refining crude oil into usable products like gasoline and plastics."
+What is microbial production of antibiotics?,"- Definition: Antibiotics like penicillin and streptomycin are produced by microorganisms through fermentation.
+- Logical Flow: The microorganism is grown in a fermenter, and the antibiotic is extracted and purified from the broth.
+- Example: Antibiotic production is like a factory where microorganisms are workers producing life-saving drugs."
+What is microbial production of enzymes?,"- Definition: Enzymes like amylase and protease are produced by microorganisms for industrial applications.
+- Logical Flow: The microorganism is cultured, and the enzyme is extracted and purified for use in industries like food and detergents.
+- Example: Enzyme production is like hiring a specialist (microorganism) to produce a specific tool (enzyme) for a job."
+What is microbial production of biogas?,"- Definition: Biogas is produced by anaerobic digestion of organic waste by microorganisms.
+- Logical Flow: Organic waste is broken down into methane and CO2 by bacteria in a biogas plant.
+- Example: Biogas production is like a compost pile, where microorganisms turn waste into useful energy."
+What are genetically modified foods?,"- Definition: GM foods are produced from organisms whose DNA has been altered to introduce desirable traits.
+- Logical Flow: Genes for pest resistance or higher yield are inserted into crops, improving productivity and reducing pesticide use.
+- Example: GM foods are like upgrading a car with better features (genes) to improve performance (yield or resistance)."
+What are the advantages of GM foods?,"- Definition: GM foods offer higher yields, pest resistance, and improved nutritional content.
+- Logical Flow: They reduce the need for pesticides, increase food security, and can be engineered to contain more nutrients.
+- Example: GM foods are like a high-efficiency engine, producing more output (food) with less input (resources)."
+What are the environmental hazards of GMOs?,"- Definition: GMOs can lead to biodiversity loss, gene flow to wild species, and unintended ecological impacts.
+- Logical Flow: Cross-breeding with wild species can create superweeds, and non-target organisms may be harmed by GM traits.
+- Example: GMOs are like introducing a new species into an ecosystem; it can disrupt the balance and cause unintended consequences."
+What is the microbial production of polysaccharides?,"- Definition: Polysaccharides like xanthan gum and dextran are produced by bacteria for use in food and industry.
+- Logical Flow: Bacteria are cultured, and the polysaccharide is extracted and purified for use as a thickener or stabilizer.
+- Example: Polysaccharide production is like a factory producing glue (polysaccharides) to hold things together in food or industrial products."
+What is the microbial production of solvents?,"- Definition: Solvents like acetone and butanol are produced by bacteria through fermentation.
+- Logical Flow: Bacteria break down sugars into solvents, which are then extracted and purified for industrial use.
+- Example: Solvent production is like a distillery, where microorganisms turn sugar into useful chemicals (solvents)."
+What is the microbial production of amino acids?,"- Definition: Amino acids like lysine and glutamic acid are produced by bacteria for use in food and pharmaceuticals.
+- Logical Flow: Bacteria are cultured, and the amino acids are extracted and purified for use as supplements or flavor enhancers.
+- Example: Amino acid production is like a factory producing building blocks (amino acids) for proteins and other molecules."
+What is the microbial production of vaccines?,"- Definition: Vaccines are produced using microorganisms to generate antigens that stimulate immunity.
+- Logical Flow: The microorganism is cultured, and the antigen is purified and formulated into a vaccine.
+- Example: Vaccine production is like training a security system (immune system) to recognize and fight intruders (pathogens)."
+What is the microbial production of pigments?,"- Definition: Pigments like carotenoids and melanin are produced by microorganisms for use in food, cosmetics, and textiles.
+- Logical Flow: Microorganisms are cultured, and the pigment is extracted and purified for industrial applications.
+- Example: Pigment production is like a paint factory, where microorganisms produce colors for various uses."
+What is the microbial production of organic acids?,"- Definition: Organic acids like citric acid and lactic acid are produced by microorganisms for use in food and industry.
+- Logical Flow: Microorganisms ferment sugars into acids, which are then extracted and purified.
+- Example: Organic acid production is like a sourdough starter, where microorganisms turn sugar into acid for flavor and preservation."
+Front,Back
+What are the structural and metabolic peculiarities of the brain?,"- Definition: The brain has unique structural (e.g., neurons, glial cells) and metabolic (e.g., high glucose consumption) features.
+- Logical Flow: The brain consumes 20% of the body's energy despite being only 2% of its weight. It relies on glucose and oxygen for ATP production.
+- Example: The brain is like a high-performance car, requiring premium fuel (glucose) and constant maintenance (oxygen) to function."
+What are the differences between growing and adult brains?,"- Definition: The growing brain has high plasticity and neurogenesis, while the adult brain has stable neural networks and limited neurogenesis.
+- Logical Flow: In the growing brain, synapses are formed and pruned rapidly. In the adult brain, synaptic plasticity is reduced, and learning relies on modifying existing connections.
+- Example: The growing brain is like a construction site, constantly building and remodeling, while the adult brain is like a finished building, with minor renovations."
+What are the functions of neurons and glial cells?,"- Definition: Neurons transmit electrical and chemical signals, while glial cells support and protect neurons.
+- Logical Flow: Neurons communicate via synapses, while glial cells provide nutrients, maintain homeostasis, and form myelin.
+- Example: Neurons are like electrical wires, transmitting signals, while glial cells are like insulation and maintenance crews, ensuring the wires work properly."
+What is a synapse?,"- Definition: A synapse is a junction between two neurons where electrical or chemical signals are transmitted.
+- Logical Flow: At a chemical synapse, neurotransmitters are released from the presynaptic neuron and bind to receptors on the postsynaptic neuron.
+- Example: A synapse is like a relay station, passing messages (neurotransmitters) from one neuron to another."
+What is an action potential?,"- Definition: An action potential is a rapid electrical signal that travels along a neuron's membrane.
+- Logical Flow: It is generated by the opening of voltage-gated sodium channels, causing depolarization, followed by potassium channel opening, causing repolarization.
+- Example: An action potential is like a wave in a stadium, where one section (ion channels) triggers the next, propagating the signal."
+What is the role of sodium channels in nerve impulses?,"- Definition: Sodium channels open during depolarization, allowing Na+ ions to enter the neuron and generate an action potential.
+- Logical Flow: The influx of Na+ ions reverses the membrane potential, triggering the action potential. Channels then inactivate to restore resting potential.
+- Example: Sodium channels are like gates that open to let in a flood of water (Na+ ions), creating a wave (action potential)."
+How does conduction differ in myelinated and unmyelinated fibers?,"- Definition: Myelinated fibers conduct impulses faster due to saltatory conduction, while unmyelinated fibers conduct slower via continuous conduction.
+- Logical Flow: Myelin insulates axons, allowing action potentials to jump between nodes of Ranvier. Unmyelinated fibers lack this insulation, slowing conduction.
+- Example: Myelinated fibers are like a train on tracks (fast and efficient), while unmyelinated fibers are like a car on a winding road (slower)."
+What are neurotransmitters?,"- Definition: Neurotransmitters are chemical messengers that transmit signals across synapses.
+- Logical Flow: They are synthesized in neurons, stored in vesicles, and released into the synaptic cleft upon stimulation. Examples include dopamine, serotonin, and glutamate.
+- Example: Neurotransmitters are like text messages, delivering information (signals) from one neuron to another."
+What is the role of calcium in neurotransmitter secretion?,"- Definition: Calcium ions trigger the fusion of synaptic vesicles with the presynaptic membrane, releasing neurotransmitters.
+- Logical Flow: Action potentials open voltage-gated calcium channels, allowing Ca2+ influx, which activates proteins that mediate vesicle fusion.
+- Example: Calcium is like a key that unlocks the door (vesicle fusion) to release the message (neurotransmitter)."
+What are post-synaptic receptors?,"- Definition: Post-synaptic receptors are proteins on the postsynaptic neuron that bind neurotransmitters, initiating a response.
+- Logical Flow: Neurotransmitters bind to receptors, opening ion channels or activating signaling pathways, leading to excitatory or inhibitory effects.
+- Example: Post-synaptic receptors are like locks that only open with the right key (neurotransmitter), triggering a response."
+What is neurogenesis?,"- Definition: Neurogenesis is the process of generating new neurons from neural stem cells.
+- Logical Flow: It occurs primarily in the hippocampus and olfactory bulb during development and, to a lesser extent, in adulthood.
+- Example: Neurogenesis is like planting new seeds (neurons) in a garden (brain), allowing for growth and repair."
+What is the metabolism of the developing brain?,"- Definition: The developing brain has high metabolic demands for lipids, proteins, and energy to support growth and myelination.
+- Logical Flow: Lipids are used for myelin synthesis, proteins for neuronal structure, and glucose for energy. Malnutrition impairs brain development.
+- Example: The developing brain is like a construction site, requiring raw materials (lipids, proteins) and energy (glucose) to build structures (neurons and myelin)."
+What are the types of memory?,"- Definition: Memory is divided into short-term (working) memory and long-term memory, which includes declarative and procedural memory.
+- Logical Flow: Short-term memory lasts seconds to minutes, while long-term memory can last a lifetime. Consolidation converts short-term to long-term memory.
+- Example: Short-term memory is like a sticky note, temporary and easily lost, while long-term memory is like a book, stored for future reference."
+What is retrograde amnesia?,"- Definition: Retrograde amnesia is the inability to recall memories formed before a traumatic event.
+- Logical Flow: It often results from damage to the hippocampus or other memory-related brain regions, impairing memory retrieval.
+- Example: Retrograde amnesia is like losing access to a file cabinet (past memories) after the key (brain region) is damaged."
+What is Alzheimer’s disease?,"- Definition: Alzheimer’s is a neurodegenerative disorder characterized by memory loss, cognitive decline, and amyloid plaques.
+- Logical Flow: Amyloid-beta plaques and tau tangles disrupt neuronal communication, leading to cell death and brain atrophy.
+- Example: Alzheimer’s is like a computer with corrupted files (plaques and tangles), causing the system (brain) to malfunction."
+What is Parkinson’s disease?,"- Definition: Parkinson’s is a neurodegenerative disorder caused by the loss of dopamine-producing neurons in the substantia nigra.
+- Logical Flow: Dopamine deficiency leads to motor symptoms like tremors, rigidity, and bradykinesia. Non-motor symptoms include cognitive and mood changes.
+- Example: Parkinson’s is like a car running out of fuel (dopamine), causing it to sputter and stall (motor symptoms)."
+What is schizophrenia?,"- Definition: Schizophrenia is a mental disorder characterized by hallucinations, delusions, and impaired cognitive function.
+- Logical Flow: It is linked to dysregulation of dopamine and glutamate signaling, as well as structural abnormalities in the brain.
+- Example: Schizophrenia is like a radio picking up multiple channels at once, causing confusion and distorted perceptions."
+What is the role of intense emotion in memory?,"- Definition: Intense emotions enhance memory formation due to the release of stress hormones like adrenaline and cortisol.
+- Logical Flow: These hormones activate the amygdala, which strengthens the encoding of emotional memories in the hippocampus.
+- Example: Intense emotion is like a highlighter, making certain memories stand out in the mind."
+What is the biochemistry of Huntington’s disease?,"- Definition: Huntington’s is a genetic disorder caused by a mutation in the HTT gene, leading to toxic protein aggregates in neurons.
+- Logical Flow: The mutant huntingtin protein forms aggregates, causing neuronal death in the striatum and cortex, leading to motor and cognitive decline.
+- Example: Huntington’s is like a factory producing defective products (mutant proteins), clogging the machinery (neurons) and causing it to fail."
+Front,Back
+What is the difference between chemical and electrical synapses?,"- Definition: Chemical synapses use neurotransmitters to transmit signals, while electrical synapses use gap junctions for direct ion flow.
+- Logical Flow: Chemical synapses are slower but allow for modulation, while electrical synapses are faster and bidirectional.
+- Example: Chemical synapses are like sending a letter (neurotransmitter), while electrical synapses are like a phone call (direct connection)."
+What is the role of myelin in nerve conduction?,"- Definition: Myelin is a fatty sheath that insulates axons, increasing the speed of nerve impulse conduction.
+- Logical Flow: Myelin prevents ion leakage and allows action potentials to jump between nodes of Ranvier (saltatory conduction).
+- Example: Myelin is like the insulation on electrical wires, preventing energy loss and speeding up signal transmission."
+What are neuropeptides?,"- Definition: Neuropeptides are small protein-like molecules used by neurons to communicate with each other.
+- Logical Flow: They are synthesized in the cell body, transported to axon terminals, and released upon stimulation. Examples include endorphins and substance P.
+- Example: Neuropeptides are like specialized messengers, delivering specific instructions (e.g., pain relief or mood regulation) to target cells."
+What is the role of calcium channels in neurotransmitter release?,"- Definition: Calcium channels allow Ca2+ ions to enter the neuron, triggering the fusion of synaptic vesicles with the presynaptic membrane.
+- Logical Flow: Ca2+ influx activates proteins like synaptotagmin, which mediate vesicle fusion and neurotransmitter release.
+- Example: Calcium channels are like a trigger, releasing a spring-loaded mechanism (neurotransmitter vesicles) when activated."
+What is the difference between agonists and antagonists?,"- Definition: Agonists activate receptors, mimicking neurotransmitters, while antagonists block receptors, preventing activation.
+- Logical Flow: Agonists enhance signaling (e.g., morphine activating opioid receptors), while antagonists inhibit it (e.g., naloxone blocking opioid receptors).
+- Example: Agonists are like turning on a light switch, while antagonists are like putting a cover over the switch to prevent it from being turned on."
+What is the role of the hippocampus in memory?,"- Definition: The hippocampus is critical for forming and consolidating new memories, especially declarative (fact-based) memories.
+- Logical Flow: It encodes information from short-term to long-term memory and helps retrieve stored memories.
+- Example: The hippocampus is like a librarian, organizing and storing books (memories) for easy retrieval."
+What is anterograde amnesia?,"- Definition: Anterograde amnesia is the inability to form new memories after a traumatic event.
+- Logical Flow: It often results from damage to the hippocampus or related structures, impairing memory consolidation.
+- Example: Anterograde amnesia is like a camera that can't save new photos (memories) after the memory card (hippocampus) is damaged."
+What is the role of sleep in memory consolidation?,"- Definition: Sleep is essential for consolidating memories, transferring them from short-term to long-term storage.
+- Logical Flow: During sleep, the brain replays and strengthens neural connections formed during the day, particularly in the hippocampus and cortex.
+- Example: Sleep is like a filing clerk, organizing and storing the day's documents (memories) in the correct folders (long-term storage)."
+What is the biochemistry of Wilson’s disease?,"- Definition: Wilson’s disease is a genetic disorder causing copper accumulation in the liver and brain due to a defect in the ATP7B gene.
+- Logical Flow: Excess copper leads to oxidative damage, causing neurological symptoms like tremors and psychiatric issues.
+- Example: Wilson’s disease is like a broken drainpipe, causing toxic buildup (copper) that damages the system (brain and liver)."
+What is the role of glutamate in neurotransmission?,"- Definition: Glutamate is the primary excitatory neurotransmitter in the brain, involved in learning and memory.
+- Logical Flow: It binds to receptors like NMDA and AMPA, opening ion channels and depolarizing the postsynaptic neuron.
+- Example: Glutamate is like a spark plug, igniting activity (excitation) in the brain's neural circuits."
+What is the role of GABA in neurotransmission?,"- Definition: GABA is the primary inhibitory neurotransmitter, reducing neuronal excitability.
+- Logical Flow: It binds to GABA receptors, opening chloride channels and hyperpolarizing the postsynaptic neuron.
+- Example: GABA is like a brake pedal, slowing down activity (inhibition) in the brain's neural circuits."
+What is the biochemistry of Sleeping Beauty syndrome?,"- Definition: Sleeping Beauty syndrome (Kleine-Levin syndrome) is a rare disorder causing excessive sleep and altered behavior.
+- Logical Flow: Its exact cause is unknown, but it may involve hypothalamic dysfunction affecting sleep-wake regulation.
+- Example: Sleeping Beauty syndrome is like a broken alarm clock, causing the brain to stay in sleep mode for extended periods."
+What is the role of dopamine in Parkinson’s disease?,"- Definition: Parkinson’s disease results from the loss of dopamine-producing neurons in the substantia nigra.
+- Logical Flow: Dopamine deficiency disrupts the basal ganglia's motor control circuits, leading to symptoms like tremors and rigidity.
+- Example: Dopamine in Parkinson’s is like a missing gear in a machine, causing it to malfunction (motor symptoms)."
+What is the role of acetylcholine in memory?,"- Definition: Acetylcholine is a neurotransmitter involved in learning and memory, particularly in the hippocampus and cortex.
+- Logical Flow: It enhances synaptic plasticity and memory formation. Deficits are linked to Alzheimer’s disease.
+- Example: Acetylcholine is like a teacher, helping the brain learn and remember new information."
+What is the biochemistry of schizophrenia?,"- Definition: Schizophrenia is linked to dysregulation of dopamine and glutamate signaling, as well as structural brain abnormalities.
+- Logical Flow: Hyperactive dopamine pathways in the mesolimbic system cause positive symptoms (e.g., hallucinations), while glutamate deficits contribute to cognitive symptoms.
+- Example: Schizophrenia is like a miswired circuit, causing distorted signals (hallucinations) and system errors (cognitive deficits)."
+What is the role of serotonin in mood regulation?,"- Definition: Serotonin is a neurotransmitter that regulates mood, appetite, and sleep.
+- Logical Flow: It binds to receptors in the brain, influencing emotional states. Low levels are associated with depression.
+- Example: Serotonin is like a thermostat, maintaining emotional balance (mood) in the brain."
+What is the biochemistry of Alzheimer’s disease?,"- Definition: Alzheimer’s is characterized by amyloid-beta plaques and tau tangles, leading to neuronal death and cognitive decline.
+- Logical Flow: Amyloid-beta accumulates outside neurons, forming plaques, while tau proteins form tangles inside neurons, disrupting function.
+- Example: Alzheimer’s is like a clogged drain, where plaques and tangles block the flow of information in the brain."
+What is the role of the amygdala in emotion?,"- Definition: The amygdala processes emotions like fear and pleasure and enhances memory formation for emotional events.
+- Logical Flow: It interacts with the hippocampus and prefrontal cortex to encode and retrieve emotional memories.
+- Example: The amygdala is like an emotional alarm system, heightening awareness during intense experiences."
+What is the role of the prefrontal cortex in decision-making?,"- Definition: The prefrontal cortex is involved in executive functions like decision-making, planning, and impulse control.
+- Logical Flow: It integrates information from other brain regions to guide behavior and adapt to new situations.
+- Example: The prefrontal cortex is like a CEO, making high-level decisions and managing the brain's resources."
+What is the biochemistry of Huntington’s disease?,"- Definition: Huntington’s is caused by a mutation in the HTT gene, leading to toxic protein aggregates and neuronal death.
+- Logical Flow: The mutant huntingtin protein forms aggregates in the striatum and cortex, causing motor and cognitive decline.
+- Example: Huntington’s is like a factory producing defective products (mutant proteins), clogging the machinery (neurons) and causing it to fail."
